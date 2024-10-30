@@ -1,0 +1,2184 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Clean Up Booster\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-04-10 16:02+0530\n"
+"PO-Revision-Date: 2017-04-10 16:03+0530\n"
+"Last-Translator: Tech Banker\n"
+"Language-Team: German (Germany)\n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Loco-Source-Locale: en-IN\n"
+"X-Loco-Project-Id: 18950\n"
+"X-Loco-Api-Version: 1.0.15 20170104-1\n"
+"X-Poedit-KeywordsList: __;_e;gettext;.\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: assets\n"
+
+#: includes/mailer-translations.php:12
+msgid "for "
+msgstr "für"
+
+#: includes/mailer-translations.php:13 includes/translations.php:366
+msgid "1 Hour"
+msgstr "1 Stunde"
+
+#: includes/mailer-translations.php:14 includes/translations.php:367
+msgid "12 Hours"
+msgstr "12 Stunden"
+
+#: includes/mailer-translations.php:15 includes/translations.php:368
+msgid "24 Hours"
+msgstr "24 Stunden (1Tag)"
+
+#: includes/mailer-translations.php:16 includes/translations.php:369
+msgid "48 Hours"
+msgstr "48 Stunden (2Tage)"
+
+#: includes/mailer-translations.php:17 includes/translations.php:370
+msgid "1 Week"
+msgstr "1 Woche"
+
+#: includes/mailer-translations.php:18 includes/translations.php:371
+msgid "1 Month"
+msgstr "1 Monat"
+
+#: includes/mailer-translations.php:19 includes/translations.php:372
+msgid "Permanently"
+msgstr "Permanent (ständig)"
+
+#: includes/translations.php:37
+msgid "Upgrade"
+msgstr "Aktualisierung"
+
+#: includes/translations.php:38
+msgid "Premium Edition"
+msgstr "Premium Edition"
+
+#: includes/translations.php:39
+msgid ""
+"This feature is available only in Premium Editions! <br> Kindly Purchase to "
+"unlock it!"
+msgstr ""
+"Diese Funktion ist nur in Premium Editionen verfügbar! <br> Erwerben um zu "
+"entsperren!"
+
+#: includes/translations.php:42
+msgid "Blocking Options have been saved Successfully"
+msgstr "Sperroptionen wurden erfolgreich gespeichert"
+
+#: includes/translations.php:43
+msgid "IP Address has been blocked Successfully"
+msgstr "IP-Adresse wurde erfolgreich gesperrt"
+
+#: includes/translations.php:44
+msgid "IP Range has been blocked Successfully"
+msgstr "IP-Bereich wurde erfolgreich blockiert"
+
+#: includes/translations.php:45
+msgid "IP Address has been deleted Successfully"
+msgstr "IP-Adresse wurde erfolgreich gelöscht"
+
+#: includes/translations.php:46
+msgid "Selected IP Addresses have been deleted Successfully"
+msgstr "Ausgewählte IP-Adressen wurden erfolgreich gelöscht"
+
+#: includes/translations.php:47
+msgid "IP Range has been deleted Successfully"
+msgstr "IP-Bereich wurde erfolgreich gelöscht"
+
+#: includes/translations.php:48
+msgid "Alert Setup has been saved Successfully"
+msgstr "Alarm-Setup wurde erfolgreich gespeichert"
+
+#: includes/translations.php:49
+msgid "Other Settings have been saved Successfully"
+msgstr "Andere Einstellungen wurden erfolgreich gespeichert"
+
+#: includes/translations.php:50
+msgid "Your request email has been sent Successfully"
+msgstr "Ihre Anfrage-E-Mail wurde erfolgreich gesendet"
+
+#: includes/translations.php:51
+msgid "Selected Data has been cleaned Successfully"
+msgstr "Ausgewählte Daten wurden erfolgreich gereinigt"
+
+#: includes/translations.php:52
+msgid "Selected Tables have been deleted Successfully"
+msgstr "Ausgewählte Tabellen wurden erfolgreich gelöscht"
+
+#: includes/translations.php:53
+msgid "Selected Tables have been optimized Successfully"
+msgstr "Ausgewählte Tabellen wurden erfolgreich optimiert"
+
+#: includes/translations.php:54
+msgid "Selected Table has been optimized Successfully"
+msgstr "Ausgewählte Tabelle wurde erfolgreich optimiert"
+
+#: includes/translations.php:55
+msgid "Selected Countries have been blocked Successfully"
+msgstr "Ausgewählte Länder wurden erfolgreich gesperrt"
+
+#: includes/translations.php:56
+msgid "Auto Drafts have been cleaned Successfully"
+msgstr "Auto Entwürfe wurden erfolgreich gereinigt"
+
+#: includes/translations.php:57
+msgid "Dashboard Transient Feed has been cleaned Successfully"
+msgstr "Dashboard Transient Feed wurde erfolgreich gereinigt"
+
+#: includes/translations.php:58
+msgid "Unapproved Comments have been cleaned Successfully"
+msgstr "Nicht zugelassene Kommentare wurden erfolgreich gesäubert"
+
+#: includes/translations.php:59
+msgid "Orphan Comments Meta has been cleaned Successfully"
+msgstr "Kommentare Meta wurde erfolgreich gereinigt"
+
+#: includes/translations.php:60
+msgid "Orphan Posts Meta has been cleaned Successfully"
+msgstr "Beiträge Meta wurde erfolgreich gereinigt"
+
+#: includes/translations.php:61
+msgid "Orphan Relationships have been cleaned Successfully"
+msgstr "Beziehungen wurden erfolgreich gereinigt"
+
+#: includes/translations.php:62
+msgid "Revisions have been cleaned Successfully"
+msgstr "Revisionen wurden erfolgreich gereinigt"
+
+#: includes/translations.php:63
+msgid "Pingbacks have been cleaned Successfully"
+msgstr "Pingbacks wurden erfolgreich gereinigt"
+
+#: includes/translations.php:64
+msgid "Transient Options have been cleaned Successfully"
+msgstr "Optionen wurden erfolgreich gereinigt"
+
+#: includes/translations.php:65
+msgid "Trackbacks have been cleaned Successfully"
+msgstr "Trackbacks wurden erfolgreich gereinigt"
+
+#: includes/translations.php:66
+msgid "Spam Comments have been cleaned Successfully"
+msgstr "Spam Kommentare wurden erfolgreich gereinigt"
+
+#: includes/translations.php:67
+msgid "Trash Comments have been cleaned Successfully"
+msgstr "Trash Kommentare wurden erfolgreich gereinigt"
+
+#: includes/translations.php:68
+msgid "Drafts have been cleaned Successfully"
+msgstr "Entwürfe wurden erfolgreich gereinigt"
+
+#: includes/translations.php:69
+msgid "Deleted Posts have been cleaned Successfully"
+msgstr "Gelöschte Beiträge wurden erfolgreich gereinigt"
+
+#: includes/translations.php:70
+msgid "Duplicated Post Meta has been cleaned Successfully"
+msgstr "Duplizierte Post Meta wurde erfolgreich gereinigt"
+
+#: includes/translations.php:71
+msgid "oEmbed Caches in Post Meta have been cleaned Successfully"
+msgstr "Einbetten von Caches in Post Meta wurden erfolgreich gereinigt"
+
+#: includes/translations.php:72
+msgid "Duplicated Comment Meta has been cleaned Successfully"
+msgstr "Duplizierte Kommentar Meta wurde erfolgreich gereinigt"
+
+#: includes/translations.php:73
+msgid "Orphan User Meta has been cleaned Successfully"
+msgstr "Verweiste User Meta wurde erfolgreich gereinigt"
+
+#: includes/translations.php:74
+msgid "Duplicated User Meta has been cleaned Successfully"
+msgstr "Duplizierte Benutzer-Meta erfolgreich erfolgreich"
+
+#: includes/translations.php:75
+msgid "Orphaned Term Relationships have been cleaned Successfully"
+msgstr "Verweiste Begriff Beziehungen wurden erfolgreich gereinigt"
+
+#: includes/translations.php:76
+msgid "Unused Terms have been cleaned Successfully"
+msgstr "Unbenutzte Begriffe wurden erfolgreich gereinigt"
+
+#: includes/translations.php:77
+msgid "Please choose an Action from Dropdown!"
+msgstr "Bitte wählen Sie eine Aktion aus dem Dropdownmenü!"
+
+#: includes/translations.php:78
+msgid "Please choose at least 1 type of Data to Clean!"
+msgstr "Bitte wählen Sie mindestens eine Datenart aus!"
+
+#: includes/translations.php:79
+msgid "Are you sure you want to Clean?"
+msgstr "Sind Sie sicher, dass Sie säubern möchten?"
+
+#: includes/translations.php:80
+msgid "Are you sure you want to delete?"
+msgstr "Sind Sie sicher, dass Sie löschen möchten?"
+
+#: includes/translations.php:81
+msgid "Please choose at least 1 record to delete!"
+msgstr "Bitte wählen Sie mindestens 1 Datensatz zum Löschen aus!"
+
+#: includes/translations.php:82
+msgid "Are you sure you want to perform this action?"
+msgstr "Möchten Sie diese Aktion wirklich durchführen?"
+
+#: includes/translations.php:83
+msgid "Please choose at least 1 record to optimize!"
+msgstr "Bitte wählen Sie mindestens 1 Datensatz zu optimieren!"
+
+#: includes/translations.php:84
+msgid "Location"
+msgstr "Ort"
+
+#: includes/translations.php:85
+msgid "Latitude"
+msgstr "Breite"
+
+#: includes/translations.php:86
+msgid "Longitude"
+msgstr "Länge"
+
+#: includes/translations.php:87
+msgid "HTTP User Agent"
+msgstr "HTTP User Agent"
+
+#: includes/translations.php:88
+msgid "N/A"
+msgstr "N/A"
+
+#: includes/translations.php:89
+msgid "Please provide valid IP Address"
+msgstr "Bitte gültige IP-Adresse angeben"
+
+#: includes/translations.php:90
+msgid "Error Message"
+msgstr "Fehlermeldung"
+
+#: includes/translations.php:91
+msgid "This IP Address has been already blocked!"
+msgstr "Diese IP-Adresse wurde bereits gesperrt!"
+
+#: includes/translations.php:92
+msgid "Notification!"
+msgstr "Benachrichtigung!"
+
+#: includes/translations.php:93
+msgid "Please provide valid IP Range"
+msgstr "Bitte gültigen IP-Bereich angeben"
+
+#: includes/translations.php:94
+msgid "This IP Range has been already blocked!"
+msgstr "Dieser IP-Bereich wurde bereits blockiert!"
+
+#: includes/translations.php:95
+msgid "Success!"
+msgstr "Erfolg!"
+
+#: includes/translations.php:96
+msgid "Selected Table has been Deleted Successfully"
+msgstr "Ausgewählte Tabelle wurde erfolgreich gelöscht"
+
+#: includes/translations.php:100
+msgid "WordPress Data - Add New Schedule Clean Up"
+msgstr "WordPress Daten - Neuen Zeitplan -> Aufräumen"
+
+#: includes/translations.php:104
+msgid "Database - Update Schedule Clean Up"
+msgstr "Datenbank - Aktualisierungszeitplan -> Aufräumen"
+
+#: includes/translations.php:105
+msgid "Database - Add New Schedule Clean Up"
+msgstr "Datenbank - Neuen Zeitplan hinzufügen -> Aufräumen"
+
+#: includes/translations.php:109
+msgid "Database - View Records"
+msgstr "Datenbank - Datensätze ansehen"
+
+#: includes/translations.php:110
+msgid "Rows"
+msgstr "Reihen"
+
+#: includes/translations.php:111
+msgid "Table Size"
+msgstr "Tabellen größe"
+
+#: includes/translations.php:112
+msgid "<< Back to Manual Clean Up"
+msgstr "<< zurück zum Manuellen Reinigen"
+
+#: includes/translations.php:113
+msgid "Back to Manual Clean Up"
+msgstr "zurück zum Manuellen Reinigen"
+
+#: includes/translations.php:117
+msgid "Login Logs On World Map"
+msgstr "Login-Logs Auf Weltkarte"
+
+#: includes/translations.php:118
+msgid ""
+"In this field, you would need to specify start date to view information "
+"about userss who logged within a specified period"
+msgstr ""
+"In diesem Feld müssen Sie das Startdatum angeben, um Informationen zu "
+"Benutzern anzuzeigen, die sich innerhalb eines bestimmten Zeitraums "
+"angemeldet haben."
+
+#: includes/translations.php:119 includes/translations.php:129
+msgid ""
+"In this field, you would need to specify end date to view information about "
+"users who logged within a specified period"
+msgstr ""
+"In diesem Feld müssen Sie das Enddatum angeben, um Informationen zu "
+"Benutzern anzuzeigen, die sich innerhalb eines bestimmten Zeitraums "
+"angemeldet haben"
+
+#: includes/translations.php:122
+msgid "Live Traffic On World Map"
+msgstr "Live-Traffic Auf der Weltkarte"
+
+#: includes/translations.php:123
+msgid "Resources"
+msgstr "Ressourcen"
+
+#: includes/translations.php:124
+msgid ""
+"Live Traffic Monitoring is Turned Off. Please go to General Settings > Other "
+"Settings Menu to enable it"
+msgstr ""
+"Die Live-Überwachung ist deaktiviert. Gehen Sie zu \"Allgemeine Einstellungen"
+"\"> \"Andere Einstellungen\", um es zu aktivieren."
+
+#: includes/translations.php:128
+msgid ""
+"In this field, you would need to specify start date to view information "
+"about users who logged within a specified period"
+msgstr ""
+"In diesem Feld müssen Sie das Startdatum angeben, um Informationen zu "
+"Benutzern anzuzeigen, die sich innerhalb eines bestimmten Zeitraums "
+"angemeldet haben."
+
+#: includes/translations.php:130
+msgid "Visitor Logs On World Map"
+msgstr "Besucher Logs Auf Weltkarte"
+
+#: includes/translations.php:131
+msgid ""
+"Visitor Logs Monitoring is Turned Off. Please go to General Settings > Other "
+"Settings Menu to enable it"
+msgstr ""
+"Besucherprotokoll überwachung ist deaktiviert. Gehen Sie zu \"Allgemeine "
+"Einstellungen\"> \"Andere Einstellungen\", um es zu aktivieren."
+
+#: includes/translations.php:135
+msgid "Email when a user Fails Login"
+msgstr "E-Mail, wenn eine Benutzeranmeldung fehlschlägt."
+
+#: includes/translations.php:136
+msgid ""
+"In this field, you would need to choose Enable to automatically send an "
+"email to the Administrator when a user fails to login"
+msgstr ""
+"In diesem Feld müssen Sie Aktivieren auswählen, um automatisch eine E-Mail "
+"an den Administrator zu senden, wenn ein Benutzer nicht eingeloggt ist."
+
+#: includes/translations.php:137
+msgid "Email when a user Success Login"
+msgstr "E-Mail, wenn ein Benutzer sich erfolgreich angemeldet hat."
+
+#: includes/translations.php:138
+msgid ""
+"In this field, you would need to choose Enable to automatically send an "
+"email to the Administrator when a user succeeds in login"
+msgstr ""
+"In diesem Feld müssen Sie Aktivieren auswählen, um automatisch eine E-Mail "
+"an den Administrator zu senden, wenn sich ein Benutzer erfolgreich "
+"angemeldet hat."
+
+#: includes/translations.php:139
+msgid "Email when an IP Address is Blocked"
+msgstr "E-Mail, wenn eine IP-Adresse blockiert ist"
+
+#: includes/translations.php:140
+msgid ""
+"In this field, you would need to choose Enable to automatically send an "
+"email to the Administrator when an IP Address is being blocked"
+msgstr ""
+"In diesem Feld müssen Sie Aktivieren auswählen, um automatisch eine E-Mail "
+"an den Administrator zu senden, wenn eine IP-Adresse gesperrt wird."
+
+#: includes/translations.php:141
+msgid "Email when an IP Address is Unblocked"
+msgstr "E-Mail, wenn eine IP-Adresse freigegeben wird"
+
+#: includes/translations.php:142
+msgid ""
+"In this field, you would need to choose Enable to automatically send an "
+"email to the Administrator when an IP Address is being unblocked"
+msgstr ""
+"In diesem Feld müssen Sie Aktivieren auswählen, um automatisch eine E-Mail "
+"an den Administrator zu senden, wenn eine IP-Adresse freigegeben wird."
+
+#: includes/translations.php:143
+msgid "Email when an IP Range is Blocked"
+msgstr "E-Mail, wenn ein IP-Bereich blockiert ist"
+
+#: includes/translations.php:144
+msgid ""
+"In this field, you would need to choose Enable to automatically send an "
+"email to the Administrator when an IP Range is being blocked"
+msgstr ""
+"In diesem Feld müssen Sie Aktivieren auswählen, um automatisch eine E-Mail "
+"an den Administrator zu senden, wenn ein IP-Bereich gesperrt wird."
+
+#: includes/translations.php:145
+msgid "Email when an IP Range is Unblocked"
+msgstr "E-Mail, wenn ein IP-Bereich freigegeben wird"
+
+#: includes/translations.php:146
+msgid ""
+"In this field, you would need to choose Enable to automatically send an "
+"email to the Administrator when an IP Range is being unblocked"
+msgstr ""
+"In diesem Feld müssen Sie Aktivieren auswählen, um automatisch eine E-Mail "
+"an den Administrator zu senden, wenn ein IP-Bereich freigegeben wird"
+
+#: includes/translations.php:150
+msgid "For Maximum Login Attempts Error Message"
+msgstr "Für maximale Anmeldeversuche Fehlermeldung"
+
+#: includes/translations.php:151
+msgid ""
+"In this field, you would need to provide an error message to be displayed "
+"when a user exceeds maximum number of login attempts"
+msgstr ""
+"In diesem Feld müssen Sie eine Fehlermeldung angeben, die angezeigt wird, "
+"wenn ein Benutzer die maximale Anzahl von Anmeldeversuchen überschreitet"
+
+#: includes/translations.php:152
+msgid "Please provide your Login Attempts Error Message"
+msgstr "Bitte geben Sie Ihre Anmeldungsversuche-Fehlermeldung an"
+
+#: includes/translations.php:154
+msgid "For Blocked Country Error Message"
+msgstr "Für blockiertes Land Fehlermeldung"
+
+#: includes/translations.php:155
+msgid ""
+"In this field, you would need to provide an error message to be displayed "
+"when user country is being blocked by the Administrator"
+msgstr ""
+"In diesem Feld müssen Sie eine Fehlermeldung angeben, die angezeigt wird, "
+"wenn das Benutzerland vom Administrator blockiert wird"
+
+#: includes/translations.php:156
+msgid "Please provide your Blocked Country Error Message"
+msgstr "Bitte geben Sie Ihre blockiertes Land Fehlermeldung an"
+
+#: includes/translations.php:158
+msgid "For Blocked IP Address Error Message"
+msgstr "Für blockierte IP-Adressen-Fehlermeldung"
+
+#: includes/translations.php:159
+msgid ""
+"In this field, you would need to provide an error message to be displayed "
+"when user IP Address is being blocked by the Administrator"
+msgstr ""
+"In diesem Feld müssen Sie eine Fehlermeldung angeben, die angezeigt wird, "
+"wenn die Benutzer-IP-Adresse vom Administrator blockiert wird"
+
+#: includes/translations.php:160
+msgid "Please provide your Blocked IP Address Error Message"
+msgstr "Bitte geben Sie Ihre Blockierte IP-Adressen-Fehlermeldung an"
+
+#: includes/translations.php:162
+msgid "For Blocked IP Range Error Message"
+msgstr "Für blockierte IP-Bereich-Fehlermeldung"
+
+#: includes/translations.php:163
+msgid ""
+"In this field, you would need to provide an error message to be displayed "
+"when user IP Range is being blocked by the Administrator"
+msgstr ""
+"In diesem Feld müssen Sie eine Fehlermeldung angeben, die angezeigt werden "
+"soll, wenn der Benutzer-IP-Bereich vom Administrator blockiert wird"
+
+#: includes/translations.php:164
+msgid "Please provide your Blocked IP Range Error Message"
+msgstr "Bitte geben Sie Ihre Blockierte IP-Bereich-Fehlermeldung an"
+
+#: includes/translations.php:168 includes/translations.php:330
+msgid "Trackbacks"
+msgstr "Trackbacks"
+
+#: includes/translations.php:169
+msgid ""
+"Trackbacks are a way to notify legacy blog systems that you have linked to "
+"them. If you would like to enable trackbacks to your site then you would "
+"need to choose enable or vice-versa from drop-down"
+msgstr ""
+"Trackbacks ist eine Möglichkeit, ältere Blog-Systeme zu benachrichtigen, die "
+"sich mit ihnen verknüpft haben. Wenn Sie Trackbacks auf Ihrer Website "
+"aktivieren möchten, müssen Sie die Option aktivieren."
+
+#: includes/translations.php:170
+msgid ""
+"If you would like to allow people to comment on your posts or pages then you "
+"would need to choose enable or vise-versa from drop-down"
+msgstr ""
+"Wenn Sie möchten, das Besucher auf Ihre Beiträge oder Seiten kommentieren "
+"können, dann müssten Sie aktivieren aus der Dropdown-Liste wählen."
+
+#: includes/translations.php:171
+msgid "Automatic Plugin Updates"
+msgstr "Automatische Plugin-Updates"
+
+#: includes/translations.php:172
+msgid ""
+"If you would like that the plugin would be automatically updated whenever "
+"there is a new version available then you would need to choose enable or "
+"vise-versa from dropdown"
+msgstr ""
+"Wenn Sie möchten, dass das Plugin automatisch aktualisiert wird, wann immer "
+"eine neue Version zur Verfügung steht, dann müssten Sie aktivieren aus dem "
+"Dropdown auswählen."
+
+#: includes/translations.php:173
+msgid "Live Traffic Monitoring"
+msgstr "Live Traffic Überwachung"
+
+#: includes/translations.php:174
+msgid ""
+"If you would like to monitor details of users who are currently visiting "
+"your website and pages visited by them then you would need to choose enable "
+"or vise-versa from dropdown"
+msgstr ""
+"Wenn Sie Details von Benutzern überwachen möchten, die derzeit Ihre Website "
+"besuchen und die von ihnen besuchten Seiten, müssen Sie die Option "
+"aktivieren in dem Dropdown auswählen."
+
+#: includes/translations.php:175
+msgid "Visitor Logs Monitoring"
+msgstr "Überwachung von Besucherprotokollen"
+
+#: includes/translations.php:176
+msgid ""
+"If you would like to monitor details of users who are visiting your website "
+"and pages visited by them then you would need to choose enable or vise-versa "
+"from dropdown"
+msgstr ""
+"Wenn Sie die Details der Nutzer überwachen möchten, die Ihre Website "
+"besuchen und die von ihnen besuchten Seiten, müssen Sie die Option "
+"aktivieren in dem Dropdown auswählen."
+
+#: includes/translations.php:177
+msgid "Remove Tables At Uninstall"
+msgstr "Entfernen Sie Tabellen bei der Deinstallation"
+
+#: includes/translations.php:178
+msgid ""
+"If you would like to remove tables at uninstall then you would need to "
+"choose enable or vice-versa from dropdown"
+msgstr ""
+"Wenn Sie möchten, das Tabellen bei der Deinstallation entfernt werden, dann "
+"müssten Sie  aktivieren aus Dropdown-Liste wählen."
+
+#: includes/translations.php:179
+msgid "Error Reporting"
+msgstr "Fehler melden"
+
+#: includes/translations.php:180
+msgid ""
+"If you would like to Report your Errors in Error Logs Menu, then you would "
+"need to Choose Enable from dropdown or vice-versa"
+msgstr ""
+"Wenn du deine Fehler im Fehlerprotokoll-Menü melden möchtest, dann müsstest "
+"du aus Dropdown wählen oder umgekehrt auswählen"
+
+#: includes/translations.php:181
+msgid "How does Clean Up Booster get IPs"
+msgstr "Wie bekommt Clean Up Booster IPs"
+
+#: includes/translations.php:182
+msgid ""
+"In this field, you would need to choose a specific option for how does Clean "
+"Up Booster get IPs"
+msgstr ""
+"In diesem Bereich musst du eine bestimmte Option wählen, wie das Clean Up "
+"Booster IPs erhält"
+
+#: includes/translations.php:183
+msgid ""
+"Let Clean Up Booster use the most secure method to get visitor IP address. "
+"Prevents spoofing and works with most sites."
+msgstr ""
+"Lassen Sie Clean Up Booster die sicherste Methode verwenden, um die IP-"
+"Adresse des Besuchers zu erhalten. Verhindert das Spoofing und arbeitet mit "
+"den meisten Seiten."
+
+#: includes/translations.php:184
+msgid ""
+"Use PHP's built in REMOTE_ADDR and don't use anything else. Very secure if "
+"this is compatible with your site."
+msgstr ""
+"Verwenden Sie PHP's in REMOTE_ADDR gebaut und verwenden Sie nichts anderes. "
+"Sehr sicher, wenn dies mit Ihrer Website kompatibel ist."
+
+#: includes/translations.php:185
+msgid ""
+"Use the X-Forwarded-For HTTP header. Only use if you have a front-end proxy "
+"or spoofing may result."
+msgstr ""
+"Verwenden Sie den X-Forwarded-For HTTP-Header. Verwenden Sie nur, wenn Sie "
+"einen Front-End-Proxy oder Spoofing haben können."
+
+#: includes/translations.php:186
+msgid ""
+"Use the X-Real-IP HTTP header. Only use if you have a front-end proxy or "
+"spoofing may result."
+msgstr ""
+"Verwenden Sie den X-Real-IP HTTP-Header. Verwenden Sie nur, wenn Sie einen "
+"Front-End-Proxy oder Spoofing haben können."
+
+#: includes/translations.php:187
+msgid ""
+"Use the Cloudflare 'CF-Connecting-IP' HTTP header to get a visitor IP. Only "
+"use if you're using Cloudflare."
+msgstr ""
+"Verwenden Sie den HTTP-Header der Cloudflare 'CF-Connecting-IP', um eine "
+"Besucher-IP zu erhalten. Verwenden Sie nur, wenn Sie Cloudflare verwenden."
+
+#: includes/translations.php:192
+msgid "Auto IP Block"
+msgstr "Automatische IP Blockierung"
+
+#: includes/translations.php:193
+msgid ""
+"In this field, you would need to choose Enable to automatically block an IP "
+"Address when a user exceeds their maximum login attempts"
+msgstr ""
+"In diesem Feld müssen Sie Aktivieren auswählen, um eine IP-Adresse "
+"automatisch zu blockieren, wenn ein Benutzer seine maximalen Anmeldeversuche "
+"überschreitet"
+
+#: includes/translations.php:194
+msgid "Maximum Login Attempts in a Day"
+msgstr "Maximale Anmeldeversuche an einem Tag"
+
+#: includes/translations.php:195
+msgid ""
+"In this field, you would need to provide the maximum number of login "
+"attempts in a day. If a user exceeds its login attempts then their IP "
+"Address will be automatically blocked"
+msgstr ""
+"In diesem Feld müssen Sie die maximale Anzahl von Anmeldeversuchen an einem "
+"Tag angeben. Wenn ein Benutzer seine Anmeldeversuche übersteigt, wird seine "
+"IP-Adresse automatisch gesperrt"
+
+#: includes/translations.php:196
+msgid "Please provide Maximum Login Attempts in a Day"
+msgstr "Bitte geben Sie die maximalen Anmeldeversuche an einem Tag an."
+
+#: includes/translations.php:197
+msgid ""
+"In this field, you would need to choose a time duration for which you would "
+"like to block an IP Address so that particular IP Address will be blocked "
+"for a fixed time interval"
+msgstr ""
+"In diesem Feld müssen Sie eine Zeitdauer auswählen, für die Sie eine IP-"
+"Adresse blockieren möchten, damit die jeweilige IP-Adresse für ein festes "
+"Zeitintervall gesperrt wird"
+
+#: includes/translations.php:201
+msgid ""
+"In this field, you would need to provide a valid IP Address which you would "
+"like to block"
+msgstr ""
+"In diesem Feld müssen Sie eine gültige IP-Adresse angeben, die Sie "
+"blockieren möchten"
+
+#: includes/translations.php:202
+msgid ""
+"In this field, you would need to choose a duration of time for which you "
+"would like to block IP Address"
+msgstr ""
+"In diesem Feld müssen Sie eine Zeitspanne wählen, für die Sie die IP-Adresse "
+"blockieren möchten"
+
+#: includes/translations.php:203
+msgid ""
+"In this field, you would need to provide comments to give an overview about "
+"reason for blocking these IP Addresses"
+msgstr ""
+"In diesem Feld müssen Sie Kommentare angeben, um einen Überblick über den "
+"Grund für die Blockierung dieser IP-Adressen zu haben"
+
+#: includes/translations.php:204
+msgid "Please provide Comments"
+msgstr "Bitte geben Sie einen Kommentar ein."
+
+#: includes/translations.php:205
+msgid "View Blocked IP Addresses"
+msgstr "Anzeigen von blockierten IP-Adressen"
+
+#: includes/translations.php:206
+msgid ""
+"In this field, you would need to choose start date to view information about "
+"IP Addresses which were blocked within a specified period"
+msgstr ""
+"In diesem Feld müssen Sie das Startdatum wählen, um Informationen zu IP-"
+"Adressen anzuzeigen, die innerhalb eines bestimmten Zeitraums gesperrt wurden"
+
+#: includes/translations.php:207
+msgid ""
+"In this field, you would need to choose end date to view information about "
+"IP Addresses which were blocked within a specified period"
+msgstr ""
+"In diesem Feld müssen Sie das Enddatum auswählen, um Informationen zu IP-"
+"Adressen anzuzeigen, die innerhalb eines bestimmten Zeitraums gesperrt wurden"
+
+#: includes/translations.php:211
+msgid "Start IP Range"
+msgstr "IP-Bereich Anfang"
+
+#: includes/translations.php:212
+msgid ""
+"In this field, you would need to provide a valid Start IP Ranges which you "
+"would like to block"
+msgstr ""
+"In diesem Feld müssen Sie eine gültige IP-Startadresse angeben, die Sie "
+"blockieren möchten"
+
+#: includes/translations.php:213
+msgid "Please provide Start IP Range"
+msgstr "Bitte geben Sie die IP-Startadresse an"
+
+#: includes/translations.php:214
+msgid "End IP Range"
+msgstr "IP-Bereich Ende"
+
+#: includes/translations.php:215
+msgid ""
+"In this field, you would need to provide a valid End IP Ranges which you "
+"would like to block"
+msgstr ""
+"In diesem Feld müssen Sie einen gültigen IP-Endbereich angeben, den Sie "
+"blockieren möchten"
+
+#: includes/translations.php:216
+msgid "Please provide End IP Range"
+msgstr "Geben Sie die IP-Endbereich an"
+
+#: includes/translations.php:217
+msgid ""
+"In this field, you would need to choose duration of time for which you would "
+"like to block these IP Ranges"
+msgstr ""
+"In diesem Feld müssen Sie die Zeitdauer wählen, für die Sie diese IP-"
+"Bereiche blockieren möchten"
+
+#: includes/translations.php:218
+msgid "Block IP Range"
+msgstr "IP-Bereich blockieren"
+
+#: includes/translations.php:219
+msgid "View Blocked IP Ranges"
+msgstr "Gesperrte IP-Bereiche anzeigen"
+
+#: includes/translations.php:220
+msgid ""
+"In this field, you would need to choose start date to view information about "
+"IP Ranges which were blocked within a specified period"
+msgstr ""
+"In diesem Feld müssen Sie das Startdatum wählen, um Informationen über IP-"
+"Bereiche anzuzeigen, die innerhalb eines bestimmten Zeitraums gesperrt wurden"
+
+#: includes/translations.php:221
+msgid ""
+"In this field, you would need to choose end date to view information about "
+"IP Ranges which were blocked within a specified period"
+msgstr ""
+"In diesem Feld müssen Sie das Enddatum wählen, um Informationen über IP-"
+"Bereiche anzuzeigen, die innerhalb eines bestimmten Zeitraums gesperrt wurden"
+
+#: includes/translations.php:222
+msgid ""
+"In this field, you would need to provide comments to give an overview about "
+"reason for blocking these IP Ranges"
+msgstr ""
+"In diesem Feld müssen Sie Kommentare angeben, um einen Überblick über den "
+"Grund für die Blockierung dieser IP-Bereiche zu haben."
+
+#: includes/translations.php:226
+msgid "Available Countries"
+msgstr "Verfügbare Länder"
+
+#: includes/translations.php:227
+msgid "List of all Countries"
+msgstr "Liste aller Länder"
+
+#: includes/translations.php:228
+msgid "Add >>"
+msgstr "Hinzufügen >>"
+
+#: includes/translations.php:229
+msgid "<< Remove"
+msgstr "<< Entfernen"
+
+#: includes/translations.php:230
+msgid "Blocked Countries"
+msgstr "Gesperrte Länder"
+
+#: includes/translations.php:231
+msgid "List of all Countries being Blocked"
+msgstr "Liste aller zu blockierenden Länder"
+
+#: includes/translations.php:235
+msgid "Choose Email Template"
+msgstr "Wählen Sie eine E-Mail-Vorlage"
+
+#: includes/translations.php:236
+msgid "Send To"
+msgstr "Senden an"
+
+#: includes/translations.php:237
+msgid "CC"
+msgstr "CC"
+
+#: includes/translations.php:238
+msgid "BCC"
+msgstr "BCC"
+
+#: includes/translations.php:239
+msgid "Message"
+msgstr "Nachricht"
+
+#: includes/translations.php:240
+msgid "In this field, you would need to choose Email Template from dropdown"
+msgstr "In diesem Feld müssen Sie E-Mail-Vorlage aus dem Dropdown wählen"
+
+#: includes/translations.php:241
+msgid ""
+"In this field, you would need to provide a valid email address where you "
+"would like to send an email notification a user successfully logs in"
+msgstr ""
+"In diesem Feld müssen Sie eine gültige E-Mail-Adresse angeben, an die Sie "
+"eine E-Mail-Benachrichtigung senden möchten, wenn sich ein Benutzer "
+"erfolgreich einloggt."
+
+#: includes/translations.php:242
+msgid "In this field, you would need to provide valid Cc Email Address"
+msgstr "In diesem Feld müssen Sie eine gültige Cc-E-Mail-Adresse angeben"
+
+#: includes/translations.php:243
+msgid "In this field, you would need to provide valid Bcc Email Address"
+msgstr "In diesem Feld müssen Sie eine gültige Bcc-E-Mail-Adresse angeben"
+
+#: includes/translations.php:244
+msgid "In this field, you would need to provide subject for email notification"
+msgstr ""
+"In diesem Feld müssen Sie den Betreff für die E-Mail-Benachrichtigung "
+"eintragen"
+
+#: includes/translations.php:245
+msgid ""
+"In this field, you would need to provide content which has to be sent to the "
+"Administrator"
+msgstr ""
+"In diesem Feld müssen Sie Inhalte angeben, die an den Administrator gesendet "
+"werden müssen"
+
+#: includes/translations.php:246
+msgid "Template For User Successful Login"
+msgstr "Vorlage Für Benutzer Erfolgreich Angemeldet"
+
+#: includes/translations.php:247
+msgid "Template For User Failure Login"
+msgstr "Vorlage Für Benutzer nicht Erfolgreich Angemeldet"
+
+#: includes/translations.php:248
+msgid "Template For IP Address Blocked"
+msgstr "Vorlage für IP-Adresse blockiert"
+
+#: includes/translations.php:249
+msgid "Template For IP Address Unblocked"
+msgstr "Vorlage für IP-Adresse freigegeben"
+
+#: includes/translations.php:250
+msgid "Template For IP Range Blocked"
+msgstr "Vorlage für IP-Bereich gesperrt"
+
+#: includes/translations.php:251
+msgid "Template For IP Range Unblocked"
+msgstr "Vorlage für IP-Bereich nicht freigegeben"
+
+#: includes/translations.php:252
+msgid "Please provide valid Email Address"
+msgstr "Bitte geben Sie eine gültige E-Mail-Adresse an"
+
+#: includes/translations.php:253
+msgid "Please provide CC Email"
+msgstr "Bitte geben Sie eine gültige CC-E-Mail-Adresse an"
+
+#: includes/translations.php:254
+msgid "Please provide BCC Email"
+msgstr "Bitte geben Sie eine gültige Bcc-E-Mail-Adresse an"
+
+#: includes/translations.php:255
+msgid "Please provide Subject"
+msgstr "Bitte geben Sie einen Betreff an"
+
+#: includes/translations.php:259
+msgid "Show Clean Up Booster Menu"
+msgstr "Clean Up Booster Menü anzeigen"
+
+#: includes/translations.php:260
+msgid "Show Clean Up Booster Top Bar Menu"
+msgstr "Clean Up Booster Menüleiste anzeigen"
+
+#: includes/translations.php:261
+msgid "An Administrator Role can do the following"
+msgstr "Eine Administratorrolle kann Folgendes ausführen"
+
+#: includes/translations.php:262
+msgid "An Author Role can do the following"
+msgstr "Eine Autorenrolle kann Folgendes ausführen"
+
+#: includes/translations.php:263
+msgid "An Editor Role can do the following"
+msgstr "Eine Herausgeberrolle kann Folgendes ausführen"
+
+#: includes/translations.php:264
+msgid "A Contributor Role can do the following"
+msgstr "Eine Mitwirkenderrolle kann Folgendes ausführen"
+
+#: includes/translations.php:265
+msgid "A Subscriber Role can do the following"
+msgstr "Eine Abonnentenrolle kann Folgendes ausführen"
+
+#: includes/translations.php:266
+msgid "Other Roles can do the following"
+msgstr "Andere Rollen können Folgendes ausführen"
+
+#: includes/translations.php:267
+msgid "Administrator"
+msgstr "Administrator"
+
+#: includes/translations.php:268
+msgid "Author"
+msgstr "Autor"
+
+#: includes/translations.php:269
+msgid "Editor"
+msgstr "Herausgeber"
+
+#: includes/translations.php:270
+msgid "Contributor"
+msgstr "Mitwirkender"
+
+#: includes/translations.php:271
+msgid "Subscriber"
+msgstr "Teilnehmer"
+
+#: includes/translations.php:272
+msgid "Others"
+msgstr "Andere"
+
+#: includes/translations.php:273
+msgid ""
+"In this field, you would need to choose a specific role who can see Sidebar "
+"Menu"
+msgstr ""
+"In diesem Feld müssen Sie eine bestimmte Rolle auswählen, in der das Sidebar-"
+"Menü zu sehen sein soll"
+
+#: includes/translations.php:274
+msgid ""
+"If you would like to show Clean Up Booster Top Bar Menu then you would need "
+"to choose enable or vice-versa from dropdown"
+msgstr ""
+"Wenn Sie möchten, das das Clean Up Booster Top Bar-Menü zu sehen ist, dann "
+"müssten Sie  aktivieren wählen, in der Dropdown-Liste."
+
+#: includes/translations.php:275
+msgid ""
+"Administrators will have by default full control to manage different options "
+"in Clean Up Booster, so all checkboxes will be already selected for the "
+"Administrator Role as mentioned below"
+msgstr ""
+"Administratoren haben standardmäßig die volle Kontrolle, um verschiedene "
+"Optionen in Clean Up Booster zu verwalten, sodass alle Checkboxen bereits "
+"für die Administratorrolle ausgewählt werden, wie unten erwähnt"
+
+#: includes/translations.php:276
+msgid ""
+"You can choose what pages could be accessed by the users having Author Role "
+"on your Clean Up Booster Plugin. This could be achieved with the help of "
+"checkboxes mentioned below"
+msgstr ""
+"Sie können wählen, auf welche Seiten von den Benutzern zugegriffen werden "
+"kann, die die Autorrolle auf Ihrem Clean Up Booster Plugin besitzen. Dies "
+"kann mit Hilfe der unten genannten Checkboxen erreicht werden"
+
+#: includes/translations.php:277
+msgid ""
+"You can choose what pages could be accessed by the users having Editor Role "
+"on your Clean Up Booster Plugin. This could be achieved with the help of "
+"checkboxes mentioned below"
+msgstr ""
+"Sie können wählen, auf welche Seiten von den Benutzern zugegriffen werden "
+"kann, die die Editorrolle auf Ihrem Clean Up Booster Plugin besitzen. Dies "
+"kann mit Hilfe der unten genannten Checkboxen erreicht werden"
+
+#: includes/translations.php:278
+msgid ""
+"You can choose what pages could be accessed by the users having Contributor "
+"Role on your Clean Up Booster Plugin. This could be achieved with the help "
+"of checkboxes mentioned below"
+msgstr ""
+"Sie können wählen, welche Seiten von den Benutzern mit Mitwirkenderrole auf "
+"Ihrem Clean Up Booster Plugin abgerufen werden können. Dies kann mit Hilfe "
+"der unten genannten Checkboxen erreicht werden"
+
+#: includes/translations.php:279
+msgid ""
+"You can choose what pages could be accessed by the users having Subscriber "
+"Role on your Clean Up Booster Plugin. This could be achieved with the help "
+"of checkboxes mentioned below"
+msgstr ""
+"Sie können wählen, welche Seiten von den Benutzern mit Abonnentenrolle auf "
+"Ihrem Clean Up Booster Plugin abgerufen werden können. Dies kann mit Hilfe "
+"der unten genannten Checkboxen erreicht werden"
+
+#: includes/translations.php:280
+msgid ""
+"In this field, you would need to choose a specific page which is only "
+"available for Subscriber Access"
+msgstr ""
+"In diesem Feld müssen Sie eine bestimmte Seite auswählen, die nur für "
+"Abonnentenzugriff verfügbar ist"
+
+#: includes/translations.php:281
+msgid "Full Control"
+msgstr "Volle Kontrolle"
+
+#: includes/translations.php:282
+msgid ""
+"In this field, you would need to choose appropriate capabilities for "
+"security purposes"
+msgstr "In diesem Bereich müssen Sie geeignete Sicherheitsfunktionen auswählen"
+
+#: includes/translations.php:283
+msgid ""
+"In this field, only users can access to these capabilities of Clean up "
+"Booster"
+msgstr ""
+"In diesem Bereich können nur Benutzer auf diese Funktionen von Clean up "
+"Booster zugreifen"
+
+#: includes/translations.php:286
+msgid "Thank You!"
+msgstr "Danke!"
+
+#: includes/translations.php:287
+msgid ""
+"Kindly fill in the below form, if you would like to suggest some features "
+"which are not in the Plugin"
+msgstr ""
+"Bitte füllen Sie das untenstehendes Formular aus, wenn Sie einige Funktionen "
+"vorschlagen möchten, die nicht im Plugin enthalten sind"
+
+#: includes/translations.php:288
+msgid ""
+"If you also have any suggestion/complaint, you can use the same form below"
+msgstr ""
+"Wenn Sie auch irgendeinen Vorschlag / eine Beschwerde haben, können Sie das "
+"gleiche Formular unten verwenden"
+
+#: includes/translations.php:289
+msgid "You can also write us on"
+msgstr "Sie können uns auch schreiben"
+
+#: includes/translations.php:290
+msgid "Your Name"
+msgstr "Dein Name"
+
+#: includes/translations.php:291
+msgid "Your Email"
+msgstr "Deine E-Mail"
+
+#: includes/translations.php:292
+msgid ""
+"In this field, you would need to provide your Name which you would like to "
+"request to be added to this Plugin"
+msgstr ""
+"In diesem Feld müssen Sie Ihren Namen angeben, den Sie anfordern möchten, um "
+"es diesem Plugin hinzuzufügen"
+
+#: includes/translations.php:293
+msgid ""
+"In this field, you would need to provide your valid Email Address which you "
+"would like to request to be added to this Plugin"
+msgstr ""
+"In diesem Feld müssen Sie Ihre gültige E-Mail-Adresse angeben, die Sie "
+"anfordern möchten, um es diesem Plugin hinzuzufügen"
+
+#: includes/translations.php:294
+msgid ""
+"In this field, you would need to provide a feature which you would like to "
+"request to be added to this Plugin"
+msgstr ""
+"In diesem Feld müssen Sie eine Funktion bereitstellen, die Sie anfordern "
+"möchten, um es diesem Plugin hinzuzufügen"
+
+#: includes/translations.php:295
+msgid "Please provide your Name"
+msgstr "Bitte geben Sie Ihren Namen an"
+
+#: includes/translations.php:296
+msgid "Please provide your Email"
+msgstr "Bitte geben Sie Ihre E-Mail-Adresse an"
+
+#: includes/translations.php:297
+msgid "Please provide your Feature Request"
+msgstr "Bitte stellen Sie Ihre Vorschlag-Anfrage"
+
+#: includes/translations.php:298
+msgid "Send Request"
+msgstr "Anfrage senden"
+
+#: includes/translations.php:301
+msgid "Error Logs"
+msgstr "Fehlerprotokolle"
+
+#: includes/translations.php:302
+msgid "Download error Logs"
+msgstr "Download Fehlerprotokolle"
+
+#: includes/translations.php:303
+msgid "Clear Error Logs"
+msgstr "Fehlerprotokolle löschen"
+
+#: includes/translations.php:304
+msgid "Output :"
+msgstr "Ausgabe :"
+
+#: includes/translations.php:305
+msgid "In this field, you would be able to see all PHP errors"
+msgstr "In diesem Bereich könntest du alle PHP-Fehler sehen"
+
+#: includes/translations.php:306
+msgid "Error Logs has been Cleared Successfully"
+msgstr "Fehlerprotokolle wurden erfolgreich gelöscht"
+
+#: includes/translations.php:309
+msgid "Type Of Data"
+msgstr "Art der Daten"
+
+#: includes/translations.php:310
+msgid "Count"
+msgstr "zählen"
+
+#: includes/translations.php:311
+msgid "Auto Drafts"
+msgstr "Automatische Entwürfe"
+
+#: includes/translations.php:312
+msgid ""
+"WordPress automatically saves Pages or Posts as a draft in WordPress "
+"Database. This is called an Auto Draft. You could have multiple Auto Drafts "
+"that you will never publish and hence you can clean them"
+msgstr ""
+"WordPress speichert automatisch Seiten oder Beiträge als Entwurf in der "
+"WordPress-Datenbank. Dies wird als Auto Draft bezeichnet. Es können mehrere "
+"Auto Drafts sein, die Sie nie veröffentlichen und daher können Sie sie "
+"reinigen."
+
+#: includes/translations.php:313
+msgid "Empty"
+msgstr "Leer"
+
+#: includes/translations.php:314
+msgid "Dashboard Transient Feed"
+msgstr "Dashboard Transient Feed"
+
+#: includes/translations.php:315
+msgid ""
+"Transients Feed in WordPress allow developers to store information in your "
+"WordPress Database with an expiration time"
+msgstr ""
+"Transients Feed in WordPress ermöglicht es Entwicklern, Informationen in "
+"Ihrer WordPress-Datenbank mit einer Ablaufzeit zu speichern"
+
+#: includes/translations.php:316
+msgid "Unapproved Comments"
+msgstr "Nicht zugelassene Kommentare"
+
+#: includes/translations.php:317
+msgid ""
+"Unapproved Comments in WordPress are those comments which are still pending "
+"to be approved"
+msgstr ""
+"Nicht genehmigte Kommentare in WordPress sind die Kommentare, die noch "
+"ausstehen und noch genehmigt werden müssen"
+
+#: includes/translations.php:318
+msgid "Orphan Comments Meta"
+msgstr "Verwaiste Kommentare Meta"
+
+#: includes/translations.php:319
+msgid ""
+"Orphan Comments Meta in WordPress holds miscellaneous bits of extra "
+"information of comment"
+msgstr ""
+"Verwaiste Kommentare Meta in WordPress enthält verschiedene Bits von "
+"zusätzlichen Informationen der Kommentar"
+
+#: includes/translations.php:320
+msgid "Orphan Posts Meta"
+msgstr "Verwaiste Posts Meta"
+
+#: includes/translations.php:321
+msgid ""
+"Orphan Posts Meta in WordPress is Meta Data belonging to posts which no "
+"longer exist"
+msgstr ""
+"Verwaiste Posts Meta in WordPress sind Meta-Daten von Beiträgen, die nicht "
+"mehr vorhanden sind"
+
+#: includes/translations.php:322
+msgid "Orphan Relationships"
+msgstr "Verwaiste Beziehungen"
+
+#: includes/translations.php:323
+msgid ""
+"Orphan Relationships in WordPress hold junk or obsolete Category and Tag"
+msgstr ""
+"Verwaiste Beziehungen in WordPress halten Junk-oder veraltete Kategorie und "
+"Tag"
+
+#: includes/translations.php:324
+msgid "Revisions"
+msgstr "Revisionen"
+
+#: includes/translations.php:325
+msgid ""
+"WordPress Revisions system stores a record of each saved draft or published "
+"an update"
+msgstr ""
+"WordPress Revisions System speichert einen Datensatz von jedem gespeicherten "
+"Entwurf oder veröffentlichte ein Update"
+
+#: includes/translations.php:326
+msgid "Pingbacks"
+msgstr "Pingbacks"
+
+#: includes/translations.php:327
+msgid ""
+"In WordPress, Ping-back is a type of comment that is created when you link "
+"to another blog post where Ping backs are enabled"
+msgstr ""
+"In WordPress, Ping-back ist eine Art von Kommentar, der erstellt wird, wenn "
+"Sie einen Link zu einem anderen Blog-Post, wo Ping-Backs aktiviert sind"
+
+#: includes/translations.php:328
+msgid "Transient Options"
+msgstr "Vorübergehende Optionen"
+
+#: includes/translations.php:329
+msgid "Transient Options are like a basic cache system used by WordPress"
+msgstr ""
+"Vorübergehende Optionen sind wie ein grundlegendes Cache-System das von "
+"WordPress verwendet wird"
+
+#: includes/translations.php:331
+msgid ""
+"In WordPress, Trackbacks are a way to notify legacy blog systems that you "
+"have linked to them"
+msgstr ""
+"In WordPress sind Trackbacks eine Möglichkeit, ältere Blog-Systeme zu "
+"benachrichtigen, die Sie mit ihnen verknüpft haben"
+
+#: includes/translations.php:332
+msgid "Spam Comments"
+msgstr "Spam-Kommentare"
+
+#: includes/translations.php:333
+msgid "Spam Comments are unwanted comments in WordPress Database"
+msgstr ""
+"Spam Kommentare sind unerwünschte Kommentare in der WordPress Datenbank"
+
+#: includes/translations.php:334
+msgid "Trash Comments"
+msgstr "Papierkorb-Kommentare"
+
+#: includes/translations.php:335
+msgid ""
+"Trash Comments are  comments which are stored in WordPress Trash after "
+"deletion"
+msgstr ""
+"Papierkorb-Kommentare sind Kommentare, die nach dem Löschen in WordPress "
+"Papierkorb-Kommentare gespeichert werden"
+
+#: includes/translations.php:336
+msgid "Drafts"
+msgstr "Entwürfe"
+
+#: includes/translations.php:337
+msgid "Drafts are New Post or Page created as Draft in WordPress"
+msgstr ""
+"Entwürfe sind Neue Beiträge oder die Seite, die als Entwurf in WordPress "
+"erstellt werden"
+
+#: includes/translations.php:338
+msgid "Deleted Posts"
+msgstr "Gelöschte Beiträge"
+
+#: includes/translations.php:339
+msgid "Deleted Posts are posts which are removed from WordPress Database"
+msgstr ""
+"Gelöschte Beiträge sind Beiträge, die aus der WordPress Datenbank entfernt "
+"werden"
+
+#: includes/translations.php:340
+msgid "Duplicated Post Meta"
+msgstr "Duplizierte Beiträge Meta"
+
+#: includes/translations.php:341
+msgid ""
+"Duplicated Post Meta is duplicated values of Posts stored in a Posts Table "
+"in WordPress Database"
+msgstr ""
+"Duplizierte Beiträge Meta sind doppelte Werte von Beiträge in einer Beitrags-"
+"Tabelle die in der WordPress-Datenbank gespeichert sind"
+
+#: includes/translations.php:342
+msgid "oEmbed Caches in Post Meta"
+msgstr "oEinbinden von Zwischenspeicher in Post Meta"
+
+#: includes/translations.php:343
+msgid ""
+"oEmbed Caches in Post Meta hold data related to Embeddable Content in "
+"WordPress Database"
+msgstr ""
+"Einbinden von Zwischenspeicher in Post Meta halten Daten im Zusammenhang mit "
+"Eingebundenen Inhalt in der WordPress Datenbank"
+
+#: includes/translations.php:344
+msgid "Duplicated Comment Meta"
+msgstr "Duplizierter Kommentar Meta"
+
+#: includes/translations.php:345
+msgid ""
+"Duplicated Comment Meta holds information of Duplicate Comments in Comments "
+"Table in WordPress Database"
+msgstr ""
+"Duplizierte Kommentar Meta hält Informationen von Duplizierte Kommentare in "
+"Kommentare Tabelle in der WordPress-Datenbank"
+
+#: includes/translations.php:346
+msgid "Orphan User Meta"
+msgstr "Verwaiste Benutzer Meta"
+
+#: includes/translations.php:347
+msgid ""
+"Orphan User Meta holds orphan data of an Usermeta table in WordPress Database"
+msgstr ""
+"Enthält Verwaiste Benutzer-Daten einer Benutzermeta-Tabelle in der WordPress-"
+"Datenbank"
+
+#: includes/translations.php:348
+msgid "Duplicated User Meta"
+msgstr "Duplizierte Benutzer-Meta"
+
+#: includes/translations.php:349
+msgid ""
+"Duplicated User Meta holds information of Duplicate user meta data in "
+"WordPress Database"
+msgstr ""
+"Duplizierte Benutzer-Meta Enthält Informationen über doppelte Benutzer-"
+"Metadaten in der WordPress-Datenbank"
+
+#: includes/translations.php:350
+msgid "Orphaned Term Relationships"
+msgstr "Verwaiste Begriff Beziehungen"
+
+#: includes/translations.php:351
+msgid ""
+"Orphaned Term Relationships hold junk or obsolete term Category and Tag in "
+"WordPress Database"
+msgstr ""
+"Verwaiste Begriff Beziehungen beinhalten Junk-oder veralteten Begriff "
+"Kategorie und Tag in der WordPress-Datenbank"
+
+#: includes/translations.php:352
+msgid "Unused Terms"
+msgstr "Unbenutzte Begriffe"
+
+#: includes/translations.php:353
+msgid "Unused Terms hold term data which are not used by WordPress"
+msgstr ""
+"Unbenutzt Begriffe enthalten Bedingungen, die nicht von WordPress verwendet "
+"werden"
+
+#: includes/translations.php:355
+msgid "Type"
+msgstr "Art"
+
+#: includes/translations.php:356
+msgid "Start Date & Time"
+msgstr "Startdatum & Uhrzeit"
+
+#: includes/translations.php:358
+msgid "Update Schedule Clean Up"
+msgstr "Aktualisieren Planen Aufräumen"
+
+#: includes/translations.php:359
+msgid ""
+"If you would like to empty selected types of data on a schedule then you "
+"would need to choose an Action from dropdown"
+msgstr ""
+"Wenn Sie ausgewählte Datentypen in einem Zeitplan leeren möchten, müssen Sie "
+"eine Aktion aus dem Dropdown auswählen"
+
+#: includes/translations.php:360
+msgid ""
+"In this field, you would need to choose Time Duration for schedule to run. "
+"It could be Hourly or Daily"
+msgstr ""
+"In diesem Feld müssen Sie die Zeitdauer für die Ausführung des Zeitplans "
+"wählen. Es kann stündlich oder täglich sein"
+
+#: includes/translations.php:362
+msgid "Table Name"
+msgstr "Tabellenname"
+
+#: includes/translations.php:364
+msgid "Clear"
+msgstr "leeren"
+
+#: includes/translations.php:365
+msgid "Blocked For"
+msgstr "Blockiert für"
+
+#: includes/translations.php:373
+msgid "Never"
+msgstr "Nie"
+
+#: includes/translations.php:374
+msgid "Edit"
+msgstr "Bearbeiten"
+
+#: includes/translations.php:375
+msgid "for"
+msgstr "für"
+
+#: includes/translations.php:377
+msgid "Apply"
+msgstr "Übernehmen"
+
+#: includes/translations.php:378
+msgid "Delete"
+msgstr "Löschen"
+
+#: includes/translations.php:379
+msgid "Block IP Address"
+msgstr "IP-Adresse blockieren"
+
+#: includes/translations.php:380
+msgid "IP Address"
+msgstr "IP-Adresse"
+
+#: includes/translations.php:381
+msgid "Duration"
+msgstr "Dauer"
+
+#: includes/translations.php:382
+msgid "Blocked Date & Time"
+msgstr "Datum & Uhrzeit gesperrt"
+
+#: includes/translations.php:383
+msgid "Release Date & Time"
+msgstr "Datum & Uhrzeit freigeben"
+
+#: includes/translations.php:384
+msgid "Comments"
+msgstr "Bemerkungen"
+
+#: includes/translations.php:386
+msgid "Hourly"
+msgstr "Stündlich"
+
+#: includes/translations.php:387
+msgid "Daily"
+msgstr "Täglich"
+
+#: includes/translations.php:388
+msgid "Start On"
+msgstr "Beginnen am"
+
+#: includes/translations.php:389
+msgid "Please choose Start On"
+msgstr "Bitte wählen Sie Start"
+
+#: includes/translations.php:390
+msgid "In this field, you would need to choose start date for scheduler to run"
+msgstr ""
+"In diesem Feld müssen Sie das Startdatum für die Ausführung des Zeitplans "
+"auswählen"
+
+#: includes/translations.php:391
+msgid "Start Time"
+msgstr "Startzeit"
+
+#: includes/translations.php:392
+msgid ""
+"In this field, you would need to choose a start time for scheduler to run at"
+msgstr ""
+"In diesem Feld müssen Sie eine Startzeit für die Ausführung des Zeitplans "
+"auswählen"
+
+#: includes/translations.php:393
+msgid "Repeat Every"
+msgstr "Alle Wiederholen"
+
+#: includes/translations.php:394
+msgid ""
+"In this field, you would need to choose Repetition for the scheduler. The "
+"scheduler would be run on selected values from dropdown"
+msgstr ""
+"In diesem Feld müssen Sie Wiederholung für den Zeitplan wählen. Der Zeitplan "
+"wird auf ausgewählte Werte aus dem Dropdown ausgeführt."
+
+#: includes/translations.php:395
+msgid " hrs"
+msgstr "Std."
+
+#: includes/translations.php:396
+msgid " mins"
+msgstr "Min."
+
+#: includes/translations.php:397
+msgid "IP Ranges"
+msgstr "IP-Bereich"
+
+#: includes/translations.php:398
+msgid "Start Date"
+msgstr "Startdatum"
+
+#: includes/translations.php:399
+msgid "Please choose Start Date"
+msgstr "Bitte wählen Sie Startdatum"
+
+#: includes/translations.php:400
+msgid "End Date"
+msgstr "Enddatum"
+
+#: includes/translations.php:401
+msgid "Please choose End Date"
+msgstr "Bitte Enddatum wählen"
+
+#: includes/translations.php:402
+msgid "Submit"
+msgstr "einreichen"
+
+#: includes/translations.php:403
+msgid "User Name"
+msgstr "Benutzername"
+
+#: includes/translations.php:404
+msgid "Date & Time"
+msgstr "Datum & Uhrzeit"
+
+#: includes/translations.php:405
+msgid "Status"
+msgstr "Status"
+
+#: includes/translations.php:406
+msgid "Details"
+msgstr "Einzelheiten"
+
+#: includes/translations.php:407
+msgid "Name of the Hook"
+msgstr "Name des Hakens"
+
+#: includes/translations.php:408
+msgid "Interval Hook"
+msgstr "Intervallhaken"
+
+#: includes/translations.php:409
+msgid "Args"
+msgstr "Args"
+
+#: includes/translations.php:410
+msgid "Next Execution"
+msgstr "Nächste Ausführung"
+
+#: includes/translations.php:411
+msgid "Subject"
+msgstr "Fach"
+
+#: includes/translations.php:412
+msgid "Bulk Action"
+msgstr "Massenaktion"
+
+#: includes/translations.php:413
+msgid "Action"
+msgstr "Aktion"
+
+#: includes/translations.php:414
+msgid "Optimize"
+msgstr "Optimieren"
+
+#: includes/translations.php:415
+msgid "Repair"
+msgstr "Reparieren"
+
+#: includes/translations.php:417 includes/translations.php:442
+msgid "Roles & Capabilities"
+msgstr "Rollen & Fähigkeiten"
+
+#: includes/translations.php:418
+msgid "WordPress Data"
+msgstr "WordPress-Daten"
+
+#: includes/translations.php:419
+msgid "Database"
+msgstr "Datenbank"
+
+#: includes/translations.php:420
+msgid "Manual Clean Up"
+msgstr "Manuelle Reinigung"
+
+#: includes/translations.php:421
+msgid "Scheduled Clean Up"
+msgstr "Geplante Bereinigung"
+
+#: includes/translations.php:422
+msgid "WordPress Data - Manual Clean Up"
+msgstr "WordPress Daten - Manuell Reinigung"
+
+#: includes/translations.php:423
+msgid "WordPress Data - Scheduled Clean Up"
+msgstr "WordPress Daten - Geplante Reinigung"
+
+#: includes/translations.php:424
+msgid "Database - Scheduled Clean Up"
+msgstr "Datenbank - Geplante Reinigung"
+
+#: includes/translations.php:425
+msgid "Database - Manual Clean Up"
+msgstr "Datenbank - Manuell Reinigung"
+
+#: includes/translations.php:426
+msgid "Add New Schedule Clean Up"
+msgstr "Neuen Zeitplan Reinigung"
+
+#: includes/translations.php:427
+msgid "View Records"
+msgstr "Datensätze Anzeigen"
+
+#: includes/translations.php:428
+msgid "Logs"
+msgstr "Protokolle"
+
+#: includes/translations.php:429
+msgid "Login Logs"
+msgstr "Anmeldungsprotokolle"
+
+#: includes/translations.php:430
+msgid "Live Traffic"
+msgstr "Live-Datenverkehr"
+
+#: includes/translations.php:431
+msgid "Visitor Logs"
+msgstr "Besucherprotokolle"
+
+#: includes/translations.php:432
+msgid "General Settings"
+msgstr "Allgemeine Einstellungen"
+
+#: includes/translations.php:433
+msgid "Alert Setup"
+msgstr "Alarm Einstellungen"
+
+#: includes/translations.php:434
+msgid "Error Messages"
+msgstr "Fehlermeldungen"
+
+#: includes/translations.php:435
+msgid "Other Settings"
+msgstr "Andere Einstellungen"
+
+#: includes/translations.php:436
+msgid "Advance Security"
+msgstr "Sicherheit"
+
+#: includes/translations.php:437
+msgid "Blocking Options"
+msgstr "Sperrmöglichkeiten"
+
+#: includes/translations.php:438
+msgid "Manage IP Addresses"
+msgstr "Verwalten von IP-Adressen"
+
+#: includes/translations.php:439
+msgid "Manage IP Ranges"
+msgstr "IP-Bereiche verwalten"
+
+#: includes/translations.php:440
+msgid "Country Blocks"
+msgstr "Blockierte Länder"
+
+#: includes/translations.php:441
+msgid "Email Templates"
+msgstr "E-Mail-Vorlagen"
+
+#: includes/translations.php:443
+msgid "Cron Jobs"
+msgstr "Cron Arbeitsplätze"
+
+#: includes/translations.php:444
+msgid "Custom Cron Jobs"
+msgstr "Kundenspezifische Cron Arbeitsplätze"
+
+#: includes/translations.php:445
+msgid "Core Cron Jobs"
+msgstr "Core Cron Jobs"
+
+#: includes/translations.php:446
+msgid "Feature Requests"
+msgstr "Feature Anfragen"
+
+#: includes/translations.php:447
+msgid "System Information"
+msgstr "System Information"
+
+#: includes/translations.php:448
+msgid "Enable"
+msgstr "Aktivieren"
+
+#: includes/translations.php:449
+msgid "Disable"
+msgstr "Deaktivieren"
+
+#: includes/translations.php:450
+msgid "Clean Up Booster"
+msgstr "Clean Up Booster"
+
+#: includes/translations.php:451
+msgid "Save Changes"
+msgstr "Änderungen speichern"
+
+#: includes/translations.php:452
+msgid ""
+"You do not have Sufficient Access to this Page. Kindly contact the "
+"Administrator for more Privileges"
+msgstr ""
+"Sie haben keinen ausreichenden Zugriff auf diese Seite. Bitte kontaktieren "
+"Sie den Administrator für mehr Privilegien"
+
+#: includes/translations.php:453
+msgid "Block"
+msgstr "Block"
+
+#~ msgid "Selected IP Ranges have been deleted Successfully"
+#~ msgstr "Ausgewählte IP-Bereiche wurden erfolgreich gelöscht"
+
+#~ msgid "Error Messages have been saved Successfully"
+#~ msgstr "Fehlermeldungen wurden erfolgreich gespeichert"
+
+#~ msgid "Roles and Capabilities have been saved Successfully"
+#~ msgstr "Rollen und Fähigkeiten wurden erfolgreich gespeichert"
+
+#~ msgid "License has been activated Successfully"
+#~ msgstr "Lizenz wurde erfolgreich aktiviert"
+
+#~ msgid "A Login Log has been deleted Successfully"
+#~ msgstr "Ein Login-Log wurde erfolgreich gelöscht"
+
+#~ msgid "Email Templates have been saved Successfully"
+#~ msgstr "E-Mail-Vorlagen wurden erfolgreich gespeichert"
+
+#~ msgid "Selected Login Logs have been deleted Successfully"
+#~ msgstr "Ausgewählte Login-Protokolle wurden erfolgreich gelöscht"
+
+#~ msgid "A Traffic Log has been deleted Successfully"
+#~ msgstr "Ein Datenprotokoll wurde erfolgreich gelöscht"
+
+#~ msgid "Selected Traffic Logs have been deleted Successfully"
+#~ msgstr "Ausgewählte Datenprotokolle wurden erfolgreich gelöscht"
+
+#~ msgid "Selected Traffic Logs IP Adress have been blocked Successfully"
+#~ msgstr "Ausgewählte Traffic Logs IP Adresse wurden erfolgreich gesperrt"
+
+#~ msgid "A Visitor Log has been deleted Successfully"
+#~ msgstr "Ein Besucherprotokoll wurde erfolgreich gelöscht"
+
+#~ msgid "Selected Visitor Logs have been deleted Successfully"
+#~ msgstr "Ausgewählte Besucherprotokolle wurden erfolgreich gelöscht"
+
+#~ msgid "Selected Visitor Logs IP Address have been blocked Successfully"
+#~ msgstr ""
+#~ "Ausgewählte Besucherprotokolle IP-Adresse wurden erfolgreich gesperrt"
+
+#~ msgid "Selected scheduler has been deleted Successfully"
+#~ msgstr "Ausgewählter Termin wurde erfolgreich gelöscht"
+
+#~ msgid "Selected Tables have been cleaned Successfully"
+#~ msgstr "Ausgewählte Tabellen wurden erfolgreich gereinigt"
+
+#~ msgid "Selected Table has been repaired Successfully"
+#~ msgstr "Ausgewählte Tabelle wurde erfolgreich repariert"
+
+#~ msgid "Selected Tables have been repaired Successfully"
+#~ msgstr "Ausgewählte Tabellen wurde erfolgreich repariert"
+
+#~ msgid "Selected Countries have been unblocked Successfully"
+#~ msgstr "Ausgewählte Länder wurden freigegeben"
+
+#~ msgid "A Scheduler has been scheduled Successfully"
+#~ msgstr "Ein Termin wurde erfolgreich geplant"
+
+#~ msgid "A Scheduler has been deleted Successfully"
+#~ msgstr "Ein Termin wurde erfolgreich gelöscht"
+
+#~ msgid "Scheduled Scheduler has been updated Successfully"
+#~ msgstr "Termin wurde erfolgreich aktualisiert"
+
+#~ msgid "Selected Records have been deleted Successfully"
+#~ msgstr "Ausgewählte Datensätze wurden erfolgreich gelöscht"
+
+#~ msgid "A Record has been deleted Successfully"
+#~ msgstr "Ein Datensatz wurde erfolgreich gelöscht"
+
+#~ msgid ""
+#~ "If you would like to Empty selected types of data on a given schedule "
+#~ "then you would need to choose an Action from dropdown"
+#~ msgstr ""
+#~ "Wenn Sie ausgewählte Datentypen für einen bestimmten Zeitplan leeren "
+#~ "möchten, müssen Sie eine Aktion aus Dropdown auswählen!"
+
+#~ msgid ""
+#~ "If you would like to Optimize, Repair, Delete or Empty selected types of "
+#~ "tables on a given schedule then you would need to choose an Action from "
+#~ "dropdown"
+#~ msgstr ""
+#~ "Wenn Sie die ausgewählten Tabellen in einem bestimmten Zeitplan "
+#~ "optimieren, reparieren, löschen oder leeren möchten, müssen Sie eine "
+#~ "Aktion aus Dropdown auswählen!"
+
+#~ msgid "Please choose at least 1 Type of Data for scheduling!"
+#~ msgstr "Bitte wählen Sie mindestens 1 Datentyp für die Terminierung!"
+
+#~ msgid "Please choose at least 1 record to empty!"
+#~ msgstr "Bitte wählen Sie mindestens 1 Datensatz aus!"
+
+#~ msgid "Please choose at least 1 record to repair!"
+#~ msgstr "Bitte wählen Sie mindestens 1 Datensatz zur Reparatur!"
+
+#~ msgid "Please choose at least 1 schedule to delete!"
+#~ msgstr "Bitte wählen Sie mindestens 1 Termin zum löschen!"
+
+#~ msgid "Please choose at least 1 Table Name for scheduling!"
+#~ msgstr "Bitte wählen Sie mindestens 1 Tabellennamen für die Terminplanung!"
+
+#~ msgid "Test email was sent successfully!"
+#~ msgstr "Test-E-Mail wurde erfolgreich gesendet!"
+
+#~ msgid "Selected Table has been cleaned Successfully"
+#~ msgstr "Ausgewählte Tabelle wurde erfolgreich gereinigt"
+
+#~ msgid "WordPress Data - Update Schedule Clean Up"
+#~ msgstr "WordPress Daten -Aktualisieren; Planen; Aufräumen"
+
+#~ msgid "Selected Login Logs IP Addresses has been blocked Successfully"
+#~ msgstr ""
+#~ "Ausgewählte Login-Protokolle IP-Adressen wurden erfolgreich gesperrt"
+
+#~ msgid "Important Notice!"
+#~ msgstr "Wichtiger Hinweis!"
+
+#~ msgid ""
+#~ "Congratulations! You have recently purchased the Clean Up Booster "
+#~ "Business Edition and now you need to activate the license in order to "
+#~ "unlock it!"
+#~ msgstr ""
+#~ "Herzliche Glückwünsche! Sie haben vor kurzem die Clean Up Booster "
+#~ "Business Edition gekauft und Sie müssen die Lizenz aktivieren, um sie zu "
+#~ "entsperren!"
+
+#~ msgid ""
+#~ "Kindly fill in the required details and click on Validate License to "
+#~ "unlock it"
+#~ msgstr ""
+#~ "Bitte füllen Sie die erforderlichen Angaben aus und klicken Sie auf "
+#~ "Lizenz validieren, um sie zu entsperren"
+
+#~ msgid "If you face any issues activating the license, you may contact us at"
+#~ msgstr ""
+#~ "Wenn Sie Probleme beim Aktivieren der Lizenz haben, können Sie mit uns "
+#~ "Kontakt aufnehmen"
+
+#~ msgid "Product Name"
+#~ msgstr "Produktname"
+
+#~ msgid "Current Version"
+#~ msgstr "Aktuelle Version"
+
+#~ msgid "Website URL"
+#~ msgstr "Webadresse"
+
+#~ msgid "Order ID"
+#~ msgstr "Auftragsnummer"
+
+#~ msgid "API KEY"
+#~ msgstr "API-SCHLÜSSEL"
+
+#~ msgid "Validate License"
+#~ msgstr "Validierte Lizenz"
+
+#~ msgid "In this field, you would be able to see your Installed Product Name"
+#~ msgstr "In diesem Feld können Sie Ihren installierten Produktnamen sehen"
+
+#~ msgid ""
+#~ "In this field, you would be able to see your Installed Product Version"
+#~ msgstr "In diesem Feld können Sie Ihre installierte Produktversion sehen"
+
+#~ msgid "In this field, you would be able to see your Website URL"
+#~ msgstr "In diesem Feld können Sie Ihre Website-URL sehen"
+
+#~ msgid ""
+#~ "In this field, you would need to provide your Order ID which you have "
+#~ "received in an email after purchasing the product along with a download "
+#~ "link. This will be used for Validating the License"
+#~ msgstr ""
+#~ "In diesem Feld müssen Sie Ihre Auftrags-ID angeben, die Sie in einer E-"
+#~ "Mail nach dem Kauf des Produkts zusammen mit einem Download-Link erhalten "
+#~ "haben. Dies wird für die Validierung der Lizenz verwendet."
+
+#~ msgid ""
+#~ "In this field, you would need to provide your API Key which you have "
+#~ "received in an email after purchasing the product along with a download "
+#~ "link. This will be used for Validating License"
+#~ msgstr ""
+#~ "In diesem Feld müssen Sie Ihren API-Schlüssel angeben, den Sie in einer E-"
+#~ "Mail erhalten haben, nachdem Sie das Produkt zusammen mit einem Download-"
+#~ "Link erworben haben. Dies wird für die Validierung der Lizenz verwendet."
+
+#~ msgid "Please provide Order ID received after making the purchase"
+#~ msgstr "Bitte geben Sie nach dem Kauf die Bestell-ID an"
+
+#~ msgid "Please provide API Key received after making the purchase"
+#~ msgstr ""
+#~ "Bitte geben Sie den API Key an, den Sie nach dem Kauf erhalten haben."
+
+#~ msgid "Licensing"
+#~ msgstr "Lizenzierung"
+
+#~ msgid "Please choose at least 1 record to block IP Address!"
+#~ msgstr ""
+#~ "Bitte wähle mindestens 1 Datensatz aus, um die IP-Adresse zu blockieren!"
+
+#~ msgid "Are you sure you want to block IP Address?"
+#~ msgstr "Sind Sie sicher, dass Sie die IP-Adresse blockieren möchten?"
+
+#~ msgid "End Date & Time"
+#~ msgstr "Enddatum & Uhrzeit"
+
+#~ msgid "End On"
+#~ msgstr "Endet am"
+
+#~ msgid ""
+#~ "If you would like to end schedule on a specific date then you would need "
+#~ "to choose on or vice-versa"
+#~ msgstr ""
+#~ "Wenn Sie möchten, den Zeitplan zu einem bestimmten Zeitpunkt zu beenden, "
+#~ "dann müssten Sie an oder aus wählen."
+
+#~ msgid "Please choose End On"
+#~ msgstr "Bitte Ende wählen"
+
+#~ msgid "On"
+#~ msgstr "An"
+
+#~ msgid "In this field, you would need to choose end date for scheduler"
+#~ msgstr "In diesem Feld müssen Sie das Enddatum für den Zeitplan auswählen"
+
+#~ msgid "Time Zone"
+#~ msgstr "Zeitzone"
+
+#~ msgid ""
+#~ "In this field, you would need to choose Time Zone so that the scheduler "
+#~ "runs on time zone accordingly"
+#~ msgstr ""
+#~ "In diesem Feld müssen Sie die Zeitzone wählen, so dass der Zeitplan auf "
+#~ "der entsprechenden Zeitzone läuft"
+
+#~ msgid "Selected Tables has been repaired Successfully"
+#~ msgstr "Ausgewählte Tabellen wurde erfolgreich repariert"
+
+#~ msgid "Maximum Login AttemptsIn a Day"
+#~ msgstr "Maximale Anmeldeversuche an einem Tag"
+
+#~ msgid ""
+#~ "Congratulations! You have recently purchased the Clean Up Booster "
+#~ "Personal Edition and now you need to activate the license in order to "
+#~ "unlock it!"
+#~ msgstr ""
+#~ "Herzliche Glückwünsche! Sie haben vor kurzem die Clean Up Booster "
+#~ "Personal Edition gekauft und Sie müssen die Lizenz aktivieren, um sie zu "
+#~ "entsperren!"
+
+#~ msgid ""
+#~ "This feature is only available in Business and Developer Edition! <br/> "
+#~ "Kindly Purchase to unlock it!"
+#~ msgstr ""
+#~ "Diese Funktion ist nur in Business und Developer Edition verfügbar! <br/> "
+#~ "Erwerben um zu entsperren!"
+
+#~ msgid "* Blocking / Unblocking Countries "
+#~ msgstr "* Blockieren / Freigeben von Ländern"
+
+#~ msgid "* Bulk Delete"
+#~ msgstr "* Bulk löschen"
+
+#~ msgid "* Blocking IP Addresses "
+#~ msgstr "* IP-Adressen sperren"
+
+#~ msgid " Features available in Business and Developer Editions :"
+#~ msgstr "Verfügbare Funktionen in Business- und Entwickler-Editionen:"
+
+#~ msgid ""
+#~ "Congratulations! You have recently purchased the Clean Up Booster "
+#~ "Developer Edition and now you need to activate the license in order to "
+#~ "unlock it!"
+#~ msgstr ""
+#~ "Herzliche Glückwünsche! Sie haben vor kurzem die Clean Up Booster "
+#~ "Developer Edition gekauft und Sie müssen die Lizenz aktivieren, um sie zu "
+#~ "entsperren!"
+
+#~ msgid "If you would like to translate in "
+#~ msgstr "Wenn Sie übersetzen möchten in"
+
+#~ msgid ""
+#~ " & help us, we will reward you with a free Personal Edition License of "
+#~ "Clean Up Booster. If Interested, Kindly click "
+#~ msgstr ""
+#~ "& Helfen Sie uns, wir belohnen Sie mit einer kostenlosen Personal Edition "
+#~ "Lizenz von Clean Up Booster. Wenn Sie interessiert sind, klicken Sie bitte"
+
+#~ msgid "here."
+#~ msgstr "hier."
+
+#~ msgid "Are you sure you want to close without sending Translation Request?"
+#~ msgstr ""
+#~ "Sind Sie sicher, dass Sie ohne Übersetzungsanfrage schließen möchten?"
+
+#~ msgid "Translation Request"
+#~ msgstr "Übersetzungsauftrag"
+
+#~ msgid "Language Interested to Translate"
+#~ msgstr "Sprache, die übersetzt werden soll"
+
+#~ msgid "Please choose a language which you want to translate"
+#~ msgstr "Bitte wählen Sie eine Sprache, die Sie übersetzen möchten"
+
+#~ msgid "Please provide a language"
+#~ msgstr "Bitte geben Sie eine Sprache an"
+
+#~ msgid "Query"
+#~ msgstr "Anfrage"
+
+#~ msgid "Please provide your query"
+#~ msgstr "Bitte geben Sie Ihre Anfrage an"
+
+#~ msgid "Close"
+#~ msgstr "Schließen"
+
+#~ msgid "Premium Edition Features :"
+#~ msgstr "Premium Edition Eigenschaften:"
+
+#~ msgid "* Click "
+#~ msgstr "* Klick"
+
+#~ msgid "here "
+#~ msgstr "hier"
+
+#~ msgid " to see Premium Edition Features in detail."
+#~ msgstr " um Premium Edition Features im Detail zu sehen."
+
+#~ msgid "* For Clean Up Booster Demos, click "
+#~ msgstr "* Für Clean Up Booster Demos, hier klicken"
+
+#~ msgid "* For Clean Up Booster User Guide for this page, click "
+#~ msgstr "* Für Clean Up Booster Benutzerhandbuch auf diese Seite, klicken"
+
+#~ msgid "Important Disclaimer!"
+#~ msgstr "Wichtiger Haftungsausschluss!"
+
+#~ msgid "* Blocking / Unblocking Countries"
+#~ msgstr "* Blockierung / Freigeben Länder"
+
+#~ msgid "* Unblocking IP Addresses"
+#~ msgstr "* Freigeben IP-Adressen"
+
+#~ msgid "* Filters"
+#~ msgstr "* Filter"
+
+#~ msgid "* Unblocking IP Ranges"
+#~ msgstr "* Freigeben IP-Bereiche"
+
+#~ msgid "* Deleting Cron Jobs"
+#~ msgstr "* Löschen von Cron Jobs"
+
+#~ msgid "* Repair / Empty Tables"
+#~ msgstr "* Reparatur / Leere Tabellen"
+
+#~ msgid "* Creating / Editing / Deleting Schedules"
+#~ msgstr "* Erstellen / Bearbeiten / Löschen von Zeitplänen"
+
+#~ msgid "* Editing Error Messages"
+#~ msgstr "* Bearbeiten von Fehlermeldungen"
+
+#~ msgid "* Deleting Live Traffic Logs"
+#~ msgstr "* Löschen von Live-Traffic-Protokollen"
+
+#~ msgid "* Blocking IP Addresses from Live Traffic"
+#~ msgstr "* Blockieren von IP-Adressen von Live Traffic"
+
+#~ msgid "* Deleting Login Logs"
+#~ msgstr "* Löschen von Login Logs"
+
+#~ msgid "* Blocking IP Addresses from Login Logs"
+#~ msgstr "* Blockieren von IP-Adressen aus Login-Protokollen"
+
+#~ msgid "* Deleting Visitor Logs"
+#~ msgstr "* Löschen von Besucherprotokollen"
+
+#~ msgid "* Blocking IP Addresses from Visitor Logs"
+#~ msgstr "* Blockieren von IP-Adressen aus Besucherprotokollen"
+
+#~ msgid "* Saving Roles & Capabilities"
+#~ msgstr "* Speichern von Rollen und Fähigkeiten"
+
+#~ msgid "* Editing Email Templates"
+#~ msgstr "* Bearbeiten von E-Mail-Vorlagen"
+
+#~ msgid "* Creating / Editing Schedules"
+#~ msgstr "* Erstellen / Bearbeiten von Zeitplänen"
+
+#~ msgid "* Deleting Records"
+#~ msgstr "* Löschen von Datensätzen"
+
+#~ msgid "Premium Editions"
+#~ msgstr "Premium Editionen"

@@ -1,0 +1,2115 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Clean Up Booster\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-04-11 10:04+0530\n"
+"PO-Revision-Date: 2017-04-11 10:04+0530\n"
+"Last-Translator: Tech Banker\n"
+"Language-Team: Vietnamese (Vietnam)\n"
+"Language: vi_VN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Loco-Source-Locale: en-IN\n"
+"X-Loco-Project-Id: 18950\n"
+"X-Loco-Api-Version: 1.0.15 20170125-2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: assets\n"
+
+#: includes/mailer-translations.php:12
+msgid "for "
+msgstr "cho"
+
+#: includes/mailer-translations.php:13 includes/translations.php:364
+msgid "1 Hour"
+msgstr "1 giờ"
+
+#: includes/mailer-translations.php:14 includes/translations.php:365
+msgid "12 Hours"
+msgstr "12 giờ"
+
+#: includes/mailer-translations.php:15 includes/translations.php:366
+msgid "24 Hours"
+msgstr "24 giờ"
+
+#: includes/mailer-translations.php:16 includes/translations.php:367
+msgid "48 Hours"
+msgstr "48 giờ"
+
+#: includes/mailer-translations.php:17 includes/translations.php:368
+msgid "1 Week"
+msgstr "1 Tuần"
+
+#: includes/mailer-translations.php:18 includes/translations.php:369
+msgid "1 Month"
+msgstr "1 Tháng"
+
+#: includes/mailer-translations.php:19 includes/translations.php:370
+msgid "Permanently"
+msgstr "Chặn vĩnh viễn"
+
+#: includes/translations.php:37
+msgid "Upgrade"
+msgstr "nâng cấp"
+
+#: includes/translations.php:38
+msgid "Premium Edition"
+msgstr "Premium Edition"
+
+#: includes/translations.php:39
+msgid ""
+"This feature is available only in Premium Editions! <br> Kindly Purchase to "
+"unlock it!"
+msgstr ""
+"Những tín năng này chỉ có trong phiên bản giành cho Premium Editions!<br /> "
+"Bạn cần mua để sử dụng!"
+
+#: includes/translations.php:42
+msgid "Blocking Options have been saved Successfully"
+msgstr "Đã lưu các Thiết lập Chặn"
+
+#: includes/translations.php:43
+msgid "IP Address has been blocked Successfully"
+msgstr "Đã chặn các địa chỉ IP."
+
+#: includes/translations.php:44
+msgid "IP Range has been blocked Successfully"
+msgstr "Đã chặn các khoảng địa chỉ IP."
+
+#: includes/translations.php:45
+msgid "IP Address has been deleted Successfully"
+msgstr "Đã xóa các địa chỉ IP"
+
+#: includes/translations.php:46
+msgid "IP Range has been deleted Successfully"
+msgstr "Đã xóa các khoảng địa chỉ IP"
+
+#: includes/translations.php:47
+msgid "Alert Setup has been saved Successfully"
+msgstr "Đã lưu các Thiết lập Thông báo"
+
+#: includes/translations.php:48
+msgid "Other Settings have been saved Successfully"
+msgstr "Đã lưu các Thiết lập khác"
+
+#: includes/translations.php:49
+msgid "Your request email has been sent Successfully"
+msgstr "Đã gửi thư điện tử của bạn."
+
+#: includes/translations.php:50
+msgid "Selected Data has been cleaned Successfully"
+msgstr "Đã xóa các Dữ liệu được chọn."
+
+#: includes/translations.php:51
+msgid "Selected Tables have been deleted Successfully"
+msgstr "Đã xóa các Bảng dữ liệu được chọn."
+
+#: includes/translations.php:52
+msgid "Selected Tables have been optimized Successfully"
+msgstr "Đã tối ưu các Bảng dữ liệu được chọn."
+
+#: includes/translations.php:53
+msgid "Selected Table has been optimized Successfully"
+msgstr "Đã tối ưu Bảng dữ liệu được chọn."
+
+#: includes/translations.php:54
+msgid "Selected Countries have been blocked Successfully"
+msgstr "Đã chặn các Quốc gia được chọn"
+
+#: includes/translations.php:55
+msgid "Auto Drafts have been cleaned Successfully"
+msgstr "Các bản lưu tự động đã được xóa"
+
+#: includes/translations.php:56
+msgid "Dashboard Transient Feed has been cleaned Successfully"
+msgstr "Đã xóa các nội dung lưu tạm ở Trang quản trị"
+
+#: includes/translations.php:57
+msgid "Unapproved Comments have been cleaned Successfully"
+msgstr "Đã xóa các Phản hồi không chấp nhận"
+
+#: includes/translations.php:58
+msgid "Orphan Comments Meta has been cleaned Successfully"
+msgstr "Đã xóa các dữ liệu tạm của Phản hồi"
+
+#: includes/translations.php:59
+msgid "Orphan Posts Meta has been cleaned Successfully"
+msgstr "Đã xóa các dữ liệu tạm của Bài viết"
+
+#: includes/translations.php:60
+msgid "Orphan Relationships have been cleaned Successfully"
+msgstr "Đã xóa các dữ liệu tạm của các quan hệ nhóm nội dung"
+
+#: includes/translations.php:61
+msgid "Revisions have been cleaned Successfully"
+msgstr "Đã xóa các phiên bản nháp của bài viết"
+
+#: includes/translations.php:62
+msgid "Pingbacks have been cleaned Successfully"
+msgstr "Đã xóa các Pingbacks"
+
+#: includes/translations.php:63
+msgid "Transient Options have been cleaned Successfully"
+msgstr "Đã xóa lưu tạm của các Tùy chọn"
+
+#: includes/translations.php:64
+msgid "Trackbacks have been cleaned Successfully"
+msgstr "Đã xóa các Trackbacks"
+
+#: includes/translations.php:65
+msgid "Spam Comments have been cleaned Successfully"
+msgstr "Đã xóa các Phản hồi rác"
+
+#: includes/translations.php:66
+msgid "Trash Comments have been cleaned Successfully"
+msgstr "Đã xóa các Phản hồi trong Thùng rác"
+
+#: includes/translations.php:67
+msgid "Drafts have been cleaned Successfully"
+msgstr "Đã xóa các nội dung trong Bản nháp"
+
+#: includes/translations.php:68
+msgid "Deleted Posts have been cleaned Successfully"
+msgstr "Đã xóa các bài viết trong thùng rác"
+
+#: includes/translations.php:69
+msgid "Duplicated Post Meta has been cleaned Successfully"
+msgstr "Đã xóa các dữ liệu bài viết trùng lặp"
+
+#: includes/translations.php:70
+msgid "oEmbed Caches in Post Meta have been cleaned Successfully"
+msgstr "Đã xóa lưu tạm của nhúng đa phương tiện oEmbed"
+
+#: includes/translations.php:71
+msgid "Duplicated Comment Meta has been cleaned Successfully"
+msgstr "Đã xóa các dữ liệu phản hồi trùng lặp"
+
+#: includes/translations.php:72
+msgid "Orphan User Meta has been cleaned Successfully"
+msgstr "Đã xóa các dữ liệu không sử dụng của các thành viên"
+
+#: includes/translations.php:73
+msgid "Duplicated User Meta has been cleaned Successfully"
+msgstr "Đã xóa các dữ liệu thành viên trùng lặp"
+
+#: includes/translations.php:74
+msgid "Orphaned Term Relationships have been cleaned Successfully"
+msgstr "Đã xóa các dữ liệu quan hệ nhóm nội dung không sử dụng"
+
+#: includes/translations.php:75
+msgid "Unused Terms have been cleaned Successfully"
+msgstr "Đã xóa quan hệ nhóm nội dung không sử dụng"
+
+#: includes/translations.php:76
+msgid "Please choose an Action from Dropdown!"
+msgstr "Lựa chọn từ danh sách"
+
+#: includes/translations.php:77
+msgid "Please choose at least 1 type of Data to Clean!"
+msgstr "Chọn ít nhất một kiểu Dữ liệu để thực hiện!"
+
+#: includes/translations.php:78
+msgid "Are you sure you want to Clean?"
+msgstr "Bạn có chắc chắn?"
+
+#: includes/translations.php:79
+msgid "Are you sure you want to delete?"
+msgstr "Bạn sẽ xóa nó?"
+
+#: includes/translations.php:80
+msgid "Please choose at least 1 record to delete!"
+msgstr "Chọn ít nhất một kiểu bản ghi để thực hiện!"
+
+#: includes/translations.php:81
+msgid "Are you sure you want to perform this action?"
+msgstr "Bạn sẽ thực hiện hành động này?"
+
+#: includes/translations.php:82
+msgid "Please choose at least 1 record to optimize!"
+msgstr "Cần chọn ít nhất một bản ghi để tối ưu!"
+
+#: includes/translations.php:83
+msgid "Location"
+msgstr "Địa điểm"
+
+#: includes/translations.php:84
+msgid "Latitude"
+msgstr "Vĩ độ"
+
+#: includes/translations.php:85
+msgid "Longitude"
+msgstr "Kinh độ"
+
+#: includes/translations.php:86
+msgid "HTTP User Agent"
+msgstr "Định đanh HTTP"
+
+#: includes/translations.php:87
+msgid "N/A"
+msgstr "Không tồn tại"
+
+#: includes/translations.php:88
+msgid "Please provide valid IP Address"
+msgstr "Nhập đúng cấu trúc địa chỉ IP"
+
+#: includes/translations.php:89
+msgid "Error Message"
+msgstr "Thông báo Lỗi"
+
+#: includes/translations.php:90
+msgid "This IP Address has been already blocked!"
+msgstr "Địa chỉ IP này đã được chặn!"
+
+#: includes/translations.php:91
+msgid "Notification!"
+msgstr "Thông báo!"
+
+#: includes/translations.php:92
+msgid "Please provide valid IP Range"
+msgstr "Nhập đúng cấu trúc khoảng địa chỉ IP"
+
+#: includes/translations.php:93
+msgid "This IP Range has been already blocked!"
+msgstr "Khoảng địa chỉ IP này đã được chặn!"
+
+#: includes/translations.php:94
+msgid "Success!"
+msgstr "Thành công!"
+
+#: includes/translations.php:95
+msgid "Selected Table has been Deleted Successfully"
+msgstr "Đã xóa Bảng dữ liệu được chọn"
+
+#: includes/translations.php:99
+msgid "WordPress Data - Add New Schedule Clean Up"
+msgstr "Dữ liệu WordPress - Thêm lịch Dọn dẹp mới"
+
+#: includes/translations.php:103
+msgid "Database - Update Schedule Clean Up"
+msgstr "Dữ liệu - Cập nhật lịch Dọn dẹp"
+
+#: includes/translations.php:104
+msgid "Database - Add New Schedule Clean Up"
+msgstr "Dữ liệu - Thêm lịch dọn dẹp mới"
+
+#: includes/translations.php:108
+msgid "Database - View Records"
+msgstr "Dữ liệu - Xem các bản ghi"
+
+#: includes/translations.php:109
+msgid "Rows"
+msgstr "Các dòng"
+
+#: includes/translations.php:110
+msgid "Table Size"
+msgstr "Kích thước bảng"
+
+#: includes/translations.php:111
+msgid "<< Back to Manual Clean Up"
+msgstr "<< Quay lại Hướng dẫn Dọn dẹp"
+
+#: includes/translations.php:112
+msgid "Back to Manual Clean Up"
+msgstr "Quay lại Hướng dẫn Dọn dẹp"
+
+#: includes/translations.php:116
+msgid "Login Logs On World Map"
+msgstr "Bản ghi Đăng nhập trên Bản đồ Thế giới"
+
+#: includes/translations.php:117
+msgid ""
+"In this field, you would need to specify start date to view information "
+"about userss who logged within a specified period"
+msgstr ""
+"Bạn cần khai báo thời điểm bắt đầu để xem thông tin về các thành viên đã "
+"đăng nhập trong khoảng thời gian cho trước."
+
+#: includes/translations.php:118 includes/translations.php:128
+msgid ""
+"In this field, you would need to specify end date to view information about "
+"users who logged within a specified period"
+msgstr ""
+"Bạn cần khai báo thời điểm kết thúc để xem thông tin về các thành viên đã "
+"đăng nhập trong khoảng thời gian cho trước."
+
+#: includes/translations.php:121
+msgid "Live Traffic On World Map"
+msgstr "Lưu lượng trực tiếp trên Bản đồ Thế giới"
+
+#: includes/translations.php:122
+msgid "Resources"
+msgstr "Tài nguyên"
+
+#: includes/translations.php:123
+msgid ""
+"Live Traffic Monitoring is Turned Off. Please go to General Settings > Other "
+"Settings Menu to enable it"
+msgstr ""
+"Theo dõi thời gian thực đã Tắt. Bạn vào Thiết lập chung > Tùy chọn khác để "
+"bật nó"
+
+#: includes/translations.php:127
+msgid ""
+"In this field, you would need to specify start date to view information "
+"about users who logged within a specified period"
+msgstr ""
+"Bạn cần khai báo thời điểm bắt đầu để xem thông tin về các thành viên đã "
+"đăng nhập trong khoảng thời gian cho trước."
+
+#: includes/translations.php:129
+msgid "Visitor Logs On World Map"
+msgstr "Bản ghi Khách truy cập trên Bản đồ Thế giới"
+
+#: includes/translations.php:130
+msgid ""
+"Visitor Logs Monitoring is Turned Off. Please go to General Settings > Other "
+"Settings Menu to enable it"
+msgstr ""
+"Theo dõi khách truy cập đã Tắt. Bạn vào Thiết lập chung > Tùy chọn khác để "
+"bật nó"
+
+#: includes/translations.php:134
+msgid "Email when a user Fails Login"
+msgstr "Gửi email khi có đăng nhập thất bại."
+
+#: includes/translations.php:135
+msgid ""
+"In this field, you would need to choose Enable to automatically send an "
+"email to the Administrator when a user fails to login"
+msgstr ""
+"Bạn cần chọn Bật để tự động gửi email cho Người quản trị khi có một thành "
+"viên đăng nhập không thành công"
+
+#: includes/translations.php:136
+msgid "Email when a user Success Login"
+msgstr "Gửi email khi có đăng nhập thành công."
+
+#: includes/translations.php:137
+msgid ""
+"In this field, you would need to choose Enable to automatically send an "
+"email to the Administrator when a user succeeds in login"
+msgstr ""
+"Bạn cần chọn Bật để tự động gửi email cho Người quản trị khi có một thành "
+"viên đăng nhập thành công"
+
+#: includes/translations.php:138
+msgid "Email when an IP Address is Blocked"
+msgstr "Gửi email khi có địa chỉ IP bị chặn."
+
+#: includes/translations.php:139
+msgid ""
+"In this field, you would need to choose Enable to automatically send an "
+"email to the Administrator when an IP Address is being blocked"
+msgstr ""
+"Bạn cần chọn Bật để tự động gửi email cho Người quản trị khi có một địa chỉ "
+"IP bị chặn"
+
+#: includes/translations.php:140
+msgid "Email when an IP Address is Unblocked"
+msgstr "Gửi email khi có địa chỉ IP được bỏ chặn."
+
+#: includes/translations.php:141
+msgid ""
+"In this field, you would need to choose Enable to automatically send an "
+"email to the Administrator when an IP Address is being unblocked"
+msgstr ""
+"Bạn cần chọn Bật để tự động gửi email cho Người quản trị khi có một địa chỉ "
+"IP được bỏ chặn"
+
+#: includes/translations.php:142
+msgid "Email when an IP Range is Blocked"
+msgstr "Gửi email khi có khoảng địa chỉ IP bị chặn."
+
+#: includes/translations.php:143
+msgid ""
+"In this field, you would need to choose Enable to automatically send an "
+"email to the Administrator when an IP Range is being blocked"
+msgstr ""
+"Bạn cần chọn Bật để tự động gửi email cho Người quản trị khi có một khoảng "
+"địa chỉ IP bị chặn"
+
+#: includes/translations.php:144
+msgid "Email when an IP Range is Unblocked"
+msgstr "Gửi email khi có khoảng địa chỉ IP được bỏ chặn."
+
+#: includes/translations.php:145
+msgid ""
+"In this field, you would need to choose Enable to automatically send an "
+"email to the Administrator when an IP Range is being unblocked"
+msgstr ""
+"Bạn cần chọn Bật để tự động gửi email cho Người quản trị khi có một khoảng "
+"địa chỉ IP được bỏ chặn"
+
+#: includes/translations.php:149
+msgid "For Maximum Login Attempts Error Message"
+msgstr "Thông báo về số lần có thể đăng nhập."
+
+#: includes/translations.php:150
+msgid ""
+"In this field, you would need to provide an error message to be displayed "
+"when a user exceeds maximum number of login attempts"
+msgstr ""
+"Trong mục này, bạn có thể tùy chỉnh nội dung thông báo khi số lần thành viên "
+"đăng nhập không thành công vuợt quá số cho phép"
+
+#: includes/translations.php:151
+msgid "Please provide your Login Attempts Error Message"
+msgstr "Nhập vào nội dung Thông báo lỗi"
+
+#: includes/translations.php:153
+msgid "For Blocked Country Error Message"
+msgstr "Thông báo cho các Quốc gia bị chặn."
+
+#: includes/translations.php:154
+msgid ""
+"In this field, you would need to provide an error message to be displayed "
+"when user country is being blocked by the Administrator"
+msgstr ""
+"Trong mục này, bạn có thể tùy chỉnh nội dung thông báo khi khách truy cập "
+"nằm trong vùng quốc gia bị chặn"
+
+#: includes/translations.php:155
+msgid "Please provide your Blocked Country Error Message"
+msgstr "Nhập vào nội dung Thông báo lỗi khi khách bị chặn"
+
+#: includes/translations.php:157
+msgid "For Blocked IP Address Error Message"
+msgstr "Thông báo lỗi khi IP của khách bị chặn"
+
+#: includes/translations.php:158
+msgid ""
+"In this field, you would need to provide an error message to be displayed "
+"when user IP Address is being blocked by the Administrator"
+msgstr ""
+"Trong mục này, bạn có thể tùy chỉnh nội dung thông báo khi khách truy cập có "
+"địa chỉ IP bị chặn"
+
+#: includes/translations.php:159
+msgid "Please provide your Blocked IP Address Error Message"
+msgstr "Nội dung Thông báo lỗi khi IP của khách nằm trong khoảng bị chặn"
+
+#: includes/translations.php:161
+msgid "For Blocked IP Range Error Message"
+msgstr "Thông báo lỗi khi Người dùng thuộc khoảng IP bị chặn."
+
+#: includes/translations.php:162
+msgid ""
+"In this field, you would need to provide an error message to be displayed "
+"when user IP Range is being blocked by the Administrator"
+msgstr ""
+"Trong mục này, bạn có thể tùy chỉnh nội dung thông báo khi khách truy cập có "
+"địa chỉ IP nằm trong khoảng bị chặn"
+
+#: includes/translations.php:163
+msgid "Please provide your Blocked IP Range Error Message"
+msgstr "Nội dung Thông báo lỗi khi Người dùng thuộc khoảng IP bị chặn."
+
+#: includes/translations.php:167 includes/translations.php:329
+msgid "Trackbacks"
+msgstr "Trackbacks"
+
+#: includes/translations.php:168
+msgid ""
+"Trackbacks are a way to notify legacy blog systems that you have linked to "
+"them. If you would like to enable trackbacks to your site then you would "
+"need to choose enable or vice-versa from drop-down"
+msgstr ""
+"Trackbacks là một phương thức đã lỗi thời để liên kết giữa các trang mạng "
+"cùng nền tảng. Bạn có thể chọn bật/tắt trackbacks ở tùy chọn phía dưới."
+
+#: includes/translations.php:169
+msgid ""
+"If you would like to allow people to comment on your posts or pages then you "
+"would need to choose enable or vise-versa from drop-down"
+msgstr ""
+"Nếu bạn muốn cho phép người khác phản hồi trong bài viết hoặc trang, bạn có "
+"thể bật/tắt tính năng này ở tùy chọn phía dưới."
+
+#: includes/translations.php:170
+msgid "Automatic Plugin Updates"
+msgstr "Tự động cập nhật phần mở rộng."
+
+#: includes/translations.php:171
+msgid ""
+"If you would like that the plugin would be automatically updated whenever "
+"there is a new version available then you would need to choose enable or "
+"vise-versa from dropdown"
+msgstr ""
+"Nếu bạn muốn tự động cập nhật phần mở rộng khi có phiên bản mới, bạn có thể "
+"bật/tắt tính năng này ở tùy chọn phía dưới."
+
+#: includes/translations.php:172
+msgid "Live Traffic Monitoring"
+msgstr "Lưu lượng khách thời gian thực"
+
+#: includes/translations.php:173
+msgid ""
+"If you would like to monitor details of users who are currently visiting "
+"your website and pages visited by them then you would need to choose enable "
+"or vise-versa from dropdown"
+msgstr ""
+"Nếu bạn muốn thu thập thông tin khách đang truy cập trang của bạn theo thời "
+"gian thực, bạn có thể bật/tắt tính năng này ở tùy chọn phía dưới."
+
+#: includes/translations.php:174
+msgid "Visitor Logs Monitoring"
+msgstr "Theo dõi lịch sử truy cập của khách."
+
+#: includes/translations.php:175
+msgid ""
+"If you would like to monitor details of users who are visiting your website "
+"and pages visited by them then you would need to choose enable or vise-versa "
+"from dropdown"
+msgstr ""
+"Nếu bạn muốn ghi nhận thông tin lịch sử truy cập của khác, bạn có thể bật/"
+"tắt tính năng này ở tùy chọn phía dưới."
+
+#: includes/translations.php:176
+msgid "Remove Tables At Uninstall"
+msgstr "Xóa các bảng dữ liệu sau khi gỡ cài đặt."
+
+#: includes/translations.php:177
+msgid ""
+"If you would like to remove tables at uninstall then you would need to "
+"choose enable or vice-versa from dropdown"
+msgstr ""
+"Nếu bạn muốn phần mở rộng xóa bỏ các dữ liệu của nó trong CSDL, bạn có thể "
+"bật/tắt tính năng này ở tùy chọn phía dưới."
+
+#: includes/translations.php:178
+msgid "Error Reporting"
+msgstr "Báo cáo lỗi"
+
+#: includes/translations.php:179
+msgid ""
+"If you would like to Report your Errors in Error Logs Menu, then you would "
+"need to Choose Enable from dropdown or vice-versa"
+msgstr ""
+"Nếu bạn muốn báo cáo lỗi của bạn trong Logs Lỗi Menu, sau đó bạn sẽ cần phải "
+"chọn Enable từ thả xuống hoặc ngược lại"
+
+#: includes/translations.php:180
+msgid "How does Clean Up Booster get IPs"
+msgstr "Làm thế nào để sạch Booster có được IP"
+
+#: includes/translations.php:181
+msgid ""
+"In this field, you would need to choose a specific option for how does Clean "
+"Up Booster get IPs"
+msgstr ""
+"Trong lĩnh vực này, bạn sẽ cần phải chọn một tùy chọn cụ thể cho như thế nào "
+"Clean Up Booster có được IP"
+
+#: includes/translations.php:182
+msgid ""
+"Let Clean Up Booster use the most secure method to get visitor IP address. "
+"Prevents spoofing and works with most sites."
+msgstr ""
+"Hãy Clean Up Booster sử dụng các phương pháp an toàn nhất để có được địa chỉ "
+"IP khách truy cập. Ngăn chặn giả mạo và làm việc với hầu hết các trang web."
+
+#: includes/translations.php:183
+msgid ""
+"Use PHP's built in REMOTE_ADDR and don't use anything else. Very secure if "
+"this is compatible with your site."
+msgstr ""
+"Sử dụng được xây dựng trong REMOTE_ADDR của PHP và không sử dụng bất cứ điều "
+"gì khác. Rất an toàn nếu điều này là phù hợp với trang web của bạn."
+
+#: includes/translations.php:184
+msgid ""
+"Use the X-Forwarded-For HTTP header. Only use if you have a front-end proxy "
+"or spoofing may result."
+msgstr ""
+"Sử dụng các tiêu đề HTTP X-Forwarded-For. Chỉ sử dụng nếu bạn có một proxy "
+"front-end hoặc giả mạo có thể dẫn đến."
+
+#: includes/translations.php:185
+msgid ""
+"Use the X-Real-IP HTTP header. Only use if you have a front-end proxy or "
+"spoofing may result."
+msgstr ""
+"Sử dụng các tiêu đề HTTP X-Real-IP. Chỉ sử dụng nếu bạn có một proxy front-"
+"end hoặc giả mạo có thể dẫn đến."
+
+#: includes/translations.php:186
+msgid ""
+"Use the Cloudflare 'CF-Connecting-IP' HTTP header to get a visitor IP. Only "
+"use if you're using Cloudflare."
+msgstr ""
+"Sử dụng 'CF-Kết nối IP' tiêu đề CloudFlare HTTP để có được một người truy "
+"cập IP. Chỉ sử dụng nếu bạn đang sử dụng CloudFlare."
+
+#: includes/translations.php:191
+msgid "Auto IP Block"
+msgstr "Tự động chặn IP"
+
+#: includes/translations.php:192
+msgid ""
+"In this field, you would need to choose Enable to automatically block an IP "
+"Address when a user exceeds their maximum login attempts"
+msgstr ""
+"Bạn có thể Bât/Tắt tính năng tự động chặn IP nếu đăng nhập thất bại vượt quá "
+"số lần cho phép."
+
+#: includes/translations.php:193
+msgid "Maximum Login Attempts in a Day"
+msgstr "Số lần đăng nhập không thành công tối đa mỗi ngày."
+
+#: includes/translations.php:194
+msgid ""
+"In this field, you would need to provide the maximum number of login "
+"attempts in a day. If a user exceeds its login attempts then their IP "
+"Address will be automatically blocked"
+msgstr ""
+"Bạn có thể Bât/Tắt tính năng tự động chặn IP nếu đăng nhập vượt quá số lần "
+"cho phép trong một ngày."
+
+#: includes/translations.php:195
+msgid "Please provide Maximum Login Attempts in a Day"
+msgstr "Bạn cần đặt Số lần đăng nhập không thành công tối đa mỗi ngày."
+
+#: includes/translations.php:196
+msgid ""
+"In this field, you would need to choose a time duration for which you would "
+"like to block an IP Address so that particular IP Address will be blocked "
+"for a fixed time interval"
+msgstr ""
+"Ở mục này, bạn có thể thiết lập chặn một địa chỉ IP trong một khoảng thời "
+"gian cho trước hoặc vĩnh viễn."
+
+#: includes/translations.php:200
+msgid ""
+"In this field, you would need to provide a valid IP Address which you would "
+"like to block"
+msgstr "Nhập địa chỉ IP muốn chặn vào ô dưới."
+
+#: includes/translations.php:201
+msgid ""
+"In this field, you would need to choose a duration of time for which you "
+"would like to block IP Address"
+msgstr "Nhập thời gian bạn muốn chặn địa chỉ IP vừa cung cấp."
+
+#: includes/translations.php:202
+msgid ""
+"In this field, you would need to provide comments to give an overview about "
+"reason for blocking these IP Addresses"
+msgstr "Ghi chú hoặc tóm tắt về lý do chặn các địa chỉ IP này."
+
+#: includes/translations.php:203
+msgid "Please provide Comments"
+msgstr "Ghi chú về lý do chặn."
+
+#: includes/translations.php:204
+msgid "View Blocked IP Addresses"
+msgstr "Xem các địa chỉ IP bị chặn"
+
+#: includes/translations.php:205
+msgid ""
+"In this field, you would need to choose start date to view information about "
+"IP Addresses which were blocked within a specified period"
+msgstr "Thời gian bắt đầu để xem thông tin về các địa chỉ IP bị chặn."
+
+#: includes/translations.php:206
+msgid ""
+"In this field, you would need to choose end date to view information about "
+"IP Addresses which were blocked within a specified period"
+msgstr "Thời gian kết thúc để xem thông tin về các địa chỉ IP bị chặn."
+
+#: includes/translations.php:210
+msgid "Start IP Range"
+msgstr "Khoảng IP bắt đầu"
+
+#: includes/translations.php:211
+msgid ""
+"In this field, you would need to provide a valid Start IP Ranges which you "
+"would like to block"
+msgstr "Nhập vào địa chỉ IP bắt đầu cho khoảng IP bạn muốn chặn."
+
+#: includes/translations.php:212
+msgid "Please provide Start IP Range"
+msgstr "Nhập vào địa chỉ IP bắt đầu của khoảng IP"
+
+#: includes/translations.php:213
+msgid "End IP Range"
+msgstr "Khoảng IP kết thúc"
+
+#: includes/translations.php:214
+msgid ""
+"In this field, you would need to provide a valid End IP Ranges which you "
+"would like to block"
+msgstr "Nhập vào địa chỉ IP kết thúc của khoảng IP bạn muốn chặn."
+
+#: includes/translations.php:215
+msgid "Please provide End IP Range"
+msgstr "Nhập vào địa chỉ kết thúc của khoảng IP"
+
+#: includes/translations.php:216
+msgid ""
+"In this field, you would need to choose duration of time for which you would "
+"like to block these IP Ranges"
+msgstr ""
+"Nhập vào khoảng thời gian sẽ chặn các địa chỉ IP trong khoảng IP nói trên."
+
+#: includes/translations.php:217
+msgid "Block IP Range"
+msgstr "Khoảng IP bị chặn"
+
+#: includes/translations.php:218
+msgid "View Blocked IP Ranges"
+msgstr "Xem Khoảng IP bị chặn"
+
+#: includes/translations.php:219
+msgid ""
+"In this field, you would need to choose start date to view information about "
+"IP Ranges which were blocked within a specified period"
+msgstr ""
+"Thời gian bắt đầu để xem thông tin về các địa chỉ IP trong khoảng bị chặn."
+
+#: includes/translations.php:220
+msgid ""
+"In this field, you would need to choose end date to view information about "
+"IP Ranges which were blocked within a specified period"
+msgstr ""
+"Thời gian kết thúc để xem thông tin về các địa chỉ IP trong khoảng bị chặn."
+
+#: includes/translations.php:221
+msgid ""
+"In this field, you would need to provide comments to give an overview about "
+"reason for blocking these IP Ranges"
+msgstr "Ghi chú hoặc tóm tắt về lý do chặn các địa chỉ trong khoảng IP này."
+
+#: includes/translations.php:225
+msgid "Available Countries"
+msgstr "Quốc gia hiện có"
+
+#: includes/translations.php:226
+msgid "List of all Countries"
+msgstr "Danh sách Quốc gia"
+
+#: includes/translations.php:227
+msgid "Add >>"
+msgstr "Thêm >>"
+
+#: includes/translations.php:228
+msgid "<< Remove"
+msgstr "<< Gỡ bỏ"
+
+#: includes/translations.php:229
+msgid "Blocked Countries"
+msgstr "Quốc gia bị chặn"
+
+#: includes/translations.php:230
+msgid "List of all Countries being Blocked"
+msgstr "Danh sách các Quốc gia bị chặn"
+
+#: includes/translations.php:234
+msgid "Choose Email Template"
+msgstr "Chọn mẫu Thư điện tử"
+
+#: includes/translations.php:235
+msgid "Send To"
+msgstr "Gửi tới"
+
+#: includes/translations.php:236
+msgid "CC"
+msgstr "Đồng gửi"
+
+#: includes/translations.php:237
+msgid "BCC"
+msgstr "Đồng gửi ẩn danh"
+
+#: includes/translations.php:238
+msgid "Message"
+msgstr "Nội dung"
+
+#: includes/translations.php:239
+msgid "In this field, you would need to choose Email Template from dropdown"
+msgstr "Chọn Mẫu thư điện tử từ danh sách"
+
+#: includes/translations.php:240
+msgid ""
+"In this field, you would need to provide a valid email address where you "
+"would like to send an email notification a user successfully logs in"
+msgstr "Nhập địa chỉ email để nhận thông báo mỗi khi có người dùng đăng nhập"
+
+#: includes/translations.php:241
+msgid "In this field, you would need to provide valid Cc Email Address"
+msgstr "Nhập chính xác địa chỉ email đồng gửi"
+
+#: includes/translations.php:242
+msgid "In this field, you would need to provide valid Bcc Email Address"
+msgstr "Nhập chính xác địa chỉ email đồng gửi ẩn danh"
+
+#: includes/translations.php:243
+msgid "In this field, you would need to provide subject for email notification"
+msgstr "Nhập vào tiêu đề cho email thông báo"
+
+#: includes/translations.php:244
+msgid ""
+"In this field, you would need to provide content which has to be sent to the "
+"Administrator"
+msgstr "Các nội dung cần gửi đến Người quản trị"
+
+#: includes/translations.php:245
+msgid "Template For User Successful Login"
+msgstr "Mẫu thông báo khi đăng nhập thành công"
+
+#: includes/translations.php:246
+msgid "Template For User Failure Login"
+msgstr "Mẫu thông báo khi đăng nhập thành công"
+
+#: includes/translations.php:247
+msgid "Template For IP Address Blocked"
+msgstr "Mẫu thông báo khi địa chỉ IP bị chặn"
+
+#: includes/translations.php:248
+msgid "Template For IP Address Unblocked"
+msgstr "Mẫu thông báo khi địa chỉ IP được bỏ chặn"
+
+#: includes/translations.php:249
+msgid "Template For IP Range Blocked"
+msgstr "Mẫu thông báo khi khoảng địa chỉ IP bị chặn"
+
+#: includes/translations.php:250
+msgid "Template For IP Range Unblocked"
+msgstr "Mẫu thông báo khi khoảng địa chỉ IP được bỏ chặn"
+
+#: includes/translations.php:251
+msgid "Please provide valid Email Address"
+msgstr "Nhập chính xác địa chỉ email"
+
+#: includes/translations.php:252
+msgid "Please provide CC Email"
+msgstr "Nhập địa chỉ email đồng gửi"
+
+#: includes/translations.php:253
+msgid "Please provide BCC Email"
+msgstr "Nhập địa chỉ email đồng gửi ẩn danh"
+
+#: includes/translations.php:254
+msgid "Please provide Subject"
+msgstr "Nhập vào tiêu đề"
+
+#: includes/translations.php:258
+msgid "Show Clean Up Booster Menu"
+msgstr "Hiện Trình đơn Tăng cường dọn dẹp"
+
+#: includes/translations.php:259
+msgid "Show Clean Up Booster Top Bar Menu"
+msgstr "Hiện mục truy cập nhanh Tăng cường dọn dẹp trên thanh Top Bar"
+
+#: includes/translations.php:260
+msgid "An Administrator Role can do the following"
+msgstr "Quyền quản trị có thể thực hiện"
+
+#: includes/translations.php:261
+msgid "An Author Role can do the following"
+msgstr "Quyền Tác giả có thể thực hiện"
+
+#: includes/translations.php:262
+msgid "An Editor Role can do the following"
+msgstr "Quyền Biên tập viên có thể thực hiện"
+
+#: includes/translations.php:263
+msgid "A Contributor Role can do the following"
+msgstr "Quyền Cộng tác viên có thể thực hiện"
+
+#: includes/translations.php:264
+msgid "A Subscriber Role can do the following"
+msgstr "Quyền Thành viên có thể thực hiện"
+
+#: includes/translations.php:265
+msgid "Other Roles can do the following"
+msgstr "Nhóm người dùng có quyền thực hiện"
+
+#: includes/translations.php:266
+msgid "Administrator"
+msgstr "Quản trị"
+
+#: includes/translations.php:267
+msgid "Author"
+msgstr "Tác gỉ"
+
+#: includes/translations.php:268
+msgid "Editor"
+msgstr "Biên tập viên"
+
+#: includes/translations.php:269
+msgid "Contributor"
+msgstr "Cộng tác viên"
+
+#: includes/translations.php:270
+msgid "Subscriber"
+msgstr "Thành viên"
+
+#: includes/translations.php:271
+msgid "Others"
+msgstr "Khác"
+
+#: includes/translations.php:272
+msgid ""
+"In this field, you would need to choose a specific role who can see Sidebar "
+"Menu"
+msgstr "Chọn nhóm thành viên có thể nhìn thấy Trình đơn trượt."
+
+#: includes/translations.php:273
+msgid ""
+"If you would like to show Clean Up Booster Top Bar Menu then you would need "
+"to choose enable or vice-versa from dropdown"
+msgstr ""
+"Nếu bạn muốn hiện liên kết Clean Up Booster để truy cập nhanh trên thanh "
+"công cụ treo."
+
+#: includes/translations.php:274
+msgid ""
+"Administrators will have by default full control to manage different options "
+"in Clean Up Booster, so all checkboxes will be already selected for the "
+"Administrator Role as mentioned below"
+msgstr ""
+"Người quản trị có toàn quyền đối với các thiết lập của Clean Up Booster, vì "
+"vậy các quyền đều được chọn trước theo mặc định."
+
+#: includes/translations.php:275
+msgid ""
+"You can choose what pages could be accessed by the users having Author Role "
+"on your Clean Up Booster Plugin. This could be achieved with the help of "
+"checkboxes mentioned below"
+msgstr ""
+"Bạn có thể lựa chọn các mục cho phép Nhóm thành viên Tác giả được quyền truy "
+"cập vào các tính năng của Clean Up Booster bằng cách chọn các mục ở dưới."
+
+#: includes/translations.php:276
+msgid ""
+"You can choose what pages could be accessed by the users having Editor Role "
+"on your Clean Up Booster Plugin. This could be achieved with the help of "
+"checkboxes mentioned below"
+msgstr ""
+"Bạn có thể lựa chọn các mục cho phép Nhóm thành viên Biên tập được quyền "
+"truy cập vào các tính năng của Clean Up Booster bằng cách chọn các mục ở "
+"dưới."
+
+#: includes/translations.php:277
+msgid ""
+"You can choose what pages could be accessed by the users having Contributor "
+"Role on your Clean Up Booster Plugin. This could be achieved with the help "
+"of checkboxes mentioned below"
+msgstr ""
+"Bạn có thể lựa chọn các mục cho phép Nhóm thành viên Cộng tác viên được "
+"quyền truy cập vào các tính năng của Clean Up Booster bằng cách chọn các mục "
+"ở dưới."
+
+#: includes/translations.php:278
+msgid ""
+"You can choose what pages could be accessed by the users having Subscriber "
+"Role on your Clean Up Booster Plugin. This could be achieved with the help "
+"of checkboxes mentioned below"
+msgstr ""
+"Bạn có thể lựa chọn các mục cho phép Nhóm thành viên Thành viên được quyền "
+"truy cập vào các tính năng của Clean Up Booster bằng cách chọn các mục ở "
+"dưới."
+
+#: includes/translations.php:279
+msgid ""
+"In this field, you would need to choose a specific page which is only "
+"available for Subscriber Access"
+msgstr "Bạn có thể lựa chọn các trang chỉ hiển thị cho nhóm Thành viên."
+
+#: includes/translations.php:280
+msgid "Full Control"
+msgstr "Tất cả các quyền"
+
+#: includes/translations.php:281
+msgid ""
+"In this field, you would need to choose appropriate capabilities for "
+"security purposes"
+msgstr ""
+"Trong phần này, bạn cần cân nhắc lựa chọn các mục phù hợp vì lý do bảo mật."
+
+#: includes/translations.php:282
+msgid ""
+"In this field, only users can access to these capabilities of Clean up "
+"Booster"
+msgstr "Thành viên chỉ được cấp quyền truy cập vào các mục được chọn."
+
+#: includes/translations.php:285
+msgid "Thank You!"
+msgstr "Cám ơn bạn!"
+
+#: includes/translations.php:286
+msgid ""
+"Kindly fill in the below form, if you would like to suggest some features "
+"which are not in the Plugin"
+msgstr ""
+"Thông qua biểu mẫu dưới dây, bạn có thể đề nghị các tính năng mới cho phần "
+"mở rộng Clean Up Booster."
+
+#: includes/translations.php:287
+msgid ""
+"If you also have any suggestion/complaint, you can use the same form below"
+msgstr ""
+"Nếu bạn có bất kỳ đề nghị hay góp ý nào, vui lòng sử dụng biểu mẫu dưới đây."
+
+#: includes/translations.php:288
+msgid "You can also write us on"
+msgstr "Bạn có thể liên lạc với chúng tôi qua"
+
+#: includes/translations.php:289
+msgid "Your Name"
+msgstr "Tên của bạn"
+
+#: includes/translations.php:290
+msgid "Your Email"
+msgstr "Email"
+
+#: includes/translations.php:291
+msgid ""
+"In this field, you would need to provide your Name which you would like to "
+"request to be added to this Plugin"
+msgstr "Vui lòng cho biết tên của bạn"
+
+#: includes/translations.php:292
+msgid ""
+"In this field, you would need to provide your valid Email Address which you "
+"would like to request to be added to this Plugin"
+msgstr "Địa chỉ email của bạn để chúng tôi liên lạc lại"
+
+#: includes/translations.php:293
+msgid ""
+"In this field, you would need to provide a feature which you would like to "
+"request to be added to this Plugin"
+msgstr ""
+"Vui lòng trình bày cho chúng tôi biết các đề nghị hoặc tính năng mới cho "
+"Phần mở rộng này"
+
+#: includes/translations.php:294
+msgid "Please provide your Name"
+msgstr "Nhập tên của bạn"
+
+#: includes/translations.php:295
+msgid "Please provide your Email"
+msgstr "Nhập địa chỉ email của bạn"
+
+#: includes/translations.php:296
+msgid "Please provide your Feature Request"
+msgstr "Tính năng hoặc đề xuất của bạn"
+
+#: includes/translations.php:297
+msgid "Send Request"
+msgstr "Gửi yêu cầu"
+
+#: includes/translations.php:300
+msgid "Error Logs"
+msgstr "các bản ghi lỗi"
+
+#: includes/translations.php:301
+msgid "Download error Logs"
+msgstr "Các bản ghi lỗi Tải xuống"
+
+#: includes/translations.php:302
+msgid "Clear Error Logs"
+msgstr "Logs Lỗi rõ ràng"
+
+#: includes/translations.php:303
+msgid "Output :"
+msgstr "đầu ra:"
+
+#: includes/translations.php:304
+msgid "In this field, you would be able to see all PHP errors"
+msgstr "Trong lĩnh vực này, bạn sẽ có thể nhìn thấy tất cả các lỗi PHP"
+
+#: includes/translations.php:305
+msgid "Error Logs has been Cleared Successfully"
+msgstr "Các bản ghi lỗi đã được dọn dẹp thành công"
+
+#: includes/translations.php:308
+msgid "Type Of Data"
+msgstr "Kiểu dữ liệu"
+
+#: includes/translations.php:309
+msgid "Count"
+msgstr "Bộ đếm"
+
+#: includes/translations.php:310
+msgid "Auto Drafts"
+msgstr "Bản lưu nháp tự động"
+
+#: includes/translations.php:311
+msgid ""
+"WordPress automatically saves Pages or Posts as a draft in WordPress "
+"Database. This is called an Auto Draft. You could have multiple Auto Drafts "
+"that you will never publish and hence you can clean them"
+msgstr ""
+"WordPress tự động lưu nội dung của các Bài viết / Trang như là bản nháp "
+"trong CSDL. Chúng được gọi là Bản nháp tự động. Trong CSDL sẽ tồn tại nhiều "
+"bản nháp vô dụng sau khi bài viết được đăng hoặc xóa bỏ."
+
+#: includes/translations.php:312
+msgid "Empty"
+msgstr "Xóa dữ liệu"
+
+#: includes/translations.php:313
+msgid "Dashboard Transient Feed"
+msgstr "Các đoạn thông tin ở Trang quản trị chung"
+
+#: includes/translations.php:314
+msgid ""
+"Transients Feed in WordPress allow developers to store information in your "
+"WordPress Database with an expiration time"
+msgstr ""
+"Dữ liệu Quản trị tạm được lưu trong CSDL trong một khoảng thời gian nhất "
+"định."
+
+#: includes/translations.php:315
+msgid "Unapproved Comments"
+msgstr "Các phản hồi đang chờ duyệt "
+
+#: includes/translations.php:316
+msgid ""
+"Unapproved Comments in WordPress are those comments which are still pending "
+"to be approved"
+msgstr ""
+"Các phản hồi đang chờ duyệt là các phản hồi có nội dung bị nghi ngờ là rác "
+"và có thể xóa an toàn"
+
+#: includes/translations.php:317
+msgid "Orphan Comments Meta"
+msgstr "Dữ liệu rác của các phản hồi."
+
+#: includes/translations.php:318
+msgid ""
+"Orphan Comments Meta in WordPress holds miscellaneous bits of extra "
+"information of comment"
+msgstr ""
+"Dữ liệu rác của các phản hồi chứa các thông tin thừa hoặc tạm của một hay "
+"nhiều phản hồi đã hết hạn chờ hoặc chưa được xóa."
+
+#: includes/translations.php:319
+msgid "Orphan Posts Meta"
+msgstr "Dữ liệu rác của các bài viết."
+
+#: includes/translations.php:320
+msgid ""
+"Orphan Posts Meta in WordPress is Meta Data belonging to posts which no "
+"longer exist"
+msgstr ""
+"Dữ liệu rác của các bài viết chứa các thông tin thừa hoặc tạm của một hay "
+"nhiều bài viết đã hết hạn chờ hoặc chưa được xóa sau khi nó được xuất bản "
+"hay cập nhật nội dung."
+
+#: includes/translations.php:321
+msgid "Orphan Relationships"
+msgstr "Các dữ liệu rác của thông tin chéo (Relationships)."
+
+#: includes/translations.php:322
+msgid ""
+"Orphan Relationships in WordPress hold junk or obsolete Category and Tag"
+msgstr ""
+"Các dữ liệu rác của thông tin chéo (Relationships) chứa thông tin rác của "
+"các Đề mục (Category) hay các Thẻ nội dung (Tag)"
+
+#: includes/translations.php:323
+msgid "Revisions"
+msgstr "Các bản lưu nháp"
+
+#: includes/translations.php:324
+msgid ""
+"WordPress Revisions system stores a record of each saved draft or published "
+"an update"
+msgstr ""
+"WordPress Revisions lưu các phiên bản nội dung của bài viết mỗi khi chúng "
+"được lưu nháp hay đăng hoặc là cập nhật."
+
+#: includes/translations.php:325
+msgid "Pingbacks"
+msgstr "Pingbacks"
+
+#: includes/translations.php:326
+msgid ""
+"In WordPress, Ping-back is a type of comment that is created when you link "
+"to another blog post where Ping backs are enabled"
+msgstr ""
+"Trong WordPress, Ping-back là một kiểu phản hồi tự động được tạo ra để kết "
+"nối giữa các blog có sự liên quan về nội dung hay được trích dẫn về nguồn "
+"gốc."
+
+#: includes/translations.php:327
+msgid "Transient Options"
+msgstr "Thiết lập cho bộ lưu đệm dữ liệu (Transient Options)"
+
+#: includes/translations.php:328
+msgid "Transient Options are like a basic cache system used by WordPress"
+msgstr "Bộ lưu đệm của WordPress giống như hệ thống lưu tạm đơn giản."
+
+#: includes/translations.php:330
+msgid ""
+"In WordPress, Trackbacks are a way to notify legacy blog systems that you "
+"have linked to them"
+msgstr ""
+"Trong WordPress, Tracbacks là phương thức cũ (lỗi thời, không còn dùng) để "
+"tự động tạo ra  kết nối giữa các blog có sự liên quan về nội dung hay được "
+"trích dẫn về nguồn gốc."
+
+#: includes/translations.php:331
+msgid "Spam Comments"
+msgstr "Phản hồi rác"
+
+#: includes/translations.php:332
+msgid "Spam Comments are unwanted comments in WordPress Database"
+msgstr "Phản hồi rác làm tăng kích thước CSDL, có thể xóa an toàn"
+
+#: includes/translations.php:333
+msgid "Trash Comments"
+msgstr "Phản hồi đã xóa tạm"
+
+#: includes/translations.php:334
+msgid ""
+"Trash Comments are  comments which are stored in WordPress Trash after "
+"deletion"
+msgstr ""
+"Các phản hồi được xóa tạm vẫn lưu trong CSDL, cần xóa vĩnh viễn để làm sạch"
+
+#: includes/translations.php:335
+msgid "Drafts"
+msgstr "Các bản nháp"
+
+#: includes/translations.php:336
+msgid "Drafts are New Post or Page created as Draft in WordPress"
+msgstr "Bản nháp dữ liệu lưu tạm nội dung các bài viết / trang"
+
+#: includes/translations.php:337
+msgid "Deleted Posts"
+msgstr "Bài đã xóa tạm"
+
+#: includes/translations.php:338
+msgid "Deleted Posts are posts which are removed from WordPress Database"
+msgstr ""
+"Các bài viết tạm xóa vẫn lưu trong CSDL của WordPress, sau khi kiểm tra lại "
+"có thể xóa hoàn toàn"
+
+#: includes/translations.php:339
+msgid "Duplicated Post Meta"
+msgstr "Dữ liệu bài viết trùng lặp"
+
+#: includes/translations.php:340
+msgid ""
+"Duplicated Post Meta is duplicated values of Posts stored in a Posts Table "
+"in WordPress Database"
+msgstr "Dữ liệu trùng lặp các bài viết được lưu trong CSDL, có thể xóa an toàn"
+
+#: includes/translations.php:341
+msgid "oEmbed Caches in Post Meta"
+msgstr "Lưu tạm các Đối tượng nhúng (oEmbed)"
+
+#: includes/translations.php:342
+msgid ""
+"oEmbed Caches in Post Meta hold data related to Embeddable Content in "
+"WordPress Database"
+msgstr ""
+"Dữ liệu tạm của các đối tượng được nhúng (oEmbed Caches) được tạo ra sau khi "
+"sử dụng có thể xóa an toàn"
+
+#: includes/translations.php:343
+msgid "Duplicated Comment Meta"
+msgstr "Dữ liệu phản hồi trùng lặp"
+
+#: includes/translations.php:344
+msgid ""
+"Duplicated Comment Meta holds information of Duplicate Comments in Comments "
+"Table in WordPress Database"
+msgstr "Dữ liệu phản hồi trùng lặp được lưu trong CSDL, có thể xóa an toàn"
+
+#: includes/translations.php:345
+msgid "Orphan User Meta"
+msgstr "Thông tin rác của thành viên"
+
+#: includes/translations.php:346
+msgid ""
+"Orphan User Meta holds orphan data of an Usermeta table in WordPress Database"
+msgstr " được lưu trong CSDL, có thể xóa an toàn"
+
+#: includes/translations.php:347
+msgid "Duplicated User Meta"
+msgstr "Dữ liệu thành viên trùng lặp"
+
+#: includes/translations.php:348
+msgid ""
+"Duplicated User Meta holds information of Duplicate user meta data in "
+"WordPress Database"
+msgstr ""
+"Dữ liệu thành viên trùng lặp được tạo ra khi cập nhật thông tin và lưu trong "
+"CSDL nhưng không còn sử dụng, có thể xóa an toàn"
+
+#: includes/translations.php:349
+msgid "Orphaned Term Relationships"
+msgstr ""
+"Dữ liệu thừa của Các quan hệ chéo giữa các đối tượng (Term Relationships)"
+
+#: includes/translations.php:350
+msgid ""
+"Orphaned Term Relationships hold junk or obsolete term Category and Tag in "
+"WordPress Database"
+msgstr "Dữ liệu thừa của Các quan hệ chéo giữa các đối tượng "
+
+#: includes/translations.php:351
+msgid "Unused Terms"
+msgstr "Quan hệ điều kiện không dùng"
+
+#: includes/translations.php:352
+msgid "Unused Terms hold term data which are not used by WordPress"
+msgstr "Quan hệ điều kiện không dùng có thể xóa an toàn sau khi tạo ra."
+
+#: includes/translations.php:354
+msgid "Type"
+msgstr "Kiểu"
+
+#: includes/translations.php:355
+msgid "Start Date & Time"
+msgstr "Thời điểm bắt đầu"
+
+#: includes/translations.php:357
+msgid ""
+"If you would like to empty selected types of data on a schedule then you "
+"would need to choose an Action from dropdown"
+msgstr ""
+"Chọn bật nếu bạn muốn xóa dữ liệu của các mục được chọn theo lịch đặt sẵn."
+
+#: includes/translations.php:358
+msgid ""
+"In this field, you would need to choose Time Duration for schedule to run. "
+"It could be Hourly or Daily"
+msgstr ""
+"Chọn khoảng thời gian để tự động kích hoạt tác vụ, có thể theo hàng giờ hoặc "
+"hàng ngày."
+
+#: includes/translations.php:360
+msgid "Table Name"
+msgstr "Tên bảng"
+
+#: includes/translations.php:362
+msgid "Clear"
+msgstr "Làm sạch"
+
+#: includes/translations.php:363
+msgid "Blocked For"
+msgstr "Chặn trong"
+
+#: includes/translations.php:371
+msgid "Never"
+msgstr "Không bao giờ"
+
+#: includes/translations.php:372
+msgid "Edit"
+msgstr "Chỉnh sửa"
+
+#: includes/translations.php:373
+msgid "for"
+msgstr "cho"
+
+#: includes/translations.php:375
+msgid "Apply"
+msgstr "Chấp nhận"
+
+#: includes/translations.php:376
+msgid "Delete"
+msgstr "Xóa"
+
+#: includes/translations.php:377
+msgid "Block IP Address"
+msgstr "Chặn các địa chỉ IP"
+
+#: includes/translations.php:378
+msgid "IP Address"
+msgstr "Địa chỉ IP"
+
+#: includes/translations.php:379
+msgid "Duration"
+msgstr "Khoảng thời gian"
+
+#: includes/translations.php:380
+msgid "Blocked Date & Time"
+msgstr "Ngày tháng & Thời gian bị chặn"
+
+#: includes/translations.php:381
+msgid "Release Date & Time"
+msgstr "Ngày tháng & Thời gian được bỏ chặn"
+
+#: includes/translations.php:382
+msgid "Comments"
+msgstr "Ghi chú"
+
+#: includes/translations.php:384
+msgid "Hourly"
+msgstr "Hàng giờ"
+
+#: includes/translations.php:385
+msgid "Daily"
+msgstr "Hàng ngày"
+
+#: includes/translations.php:386
+msgid "Start On"
+msgstr "Bắt đầu từ"
+
+#: includes/translations.php:387
+msgid "Please choose Start On"
+msgstr "Chọn thời điểm bắt đầu"
+
+#: includes/translations.php:388
+msgid "In this field, you would need to choose start date for scheduler to run"
+msgstr "Trong mục này, bạn cần chọn thời điểm bắt đầu lịch chạy tác vụ"
+
+#: includes/translations.php:389
+msgid "Start Time"
+msgstr "Thời gian bắt đầu"
+
+#: includes/translations.php:390
+msgid ""
+"In this field, you would need to choose a start time for scheduler to run at"
+msgstr "Trong mục này, bạn cần chọn thời gian bắt đầu lịch chạy tác vụ"
+
+#: includes/translations.php:391
+msgid "Repeat Every"
+msgstr "Lắp lại vào"
+
+#: includes/translations.php:392
+msgid ""
+"In this field, you would need to choose Repetition for the scheduler. The "
+"scheduler would be run on selected values from dropdown"
+msgstr ""
+"Trong mục này, bạn cần chọn cách thức lặp lại tác vụ, các giá trị này có thể "
+"lựa chọn từ danh sách"
+
+#: includes/translations.php:393
+msgid " hrs"
+msgstr "giờ"
+
+#: includes/translations.php:394
+msgid " mins"
+msgstr "phú"
+
+#: includes/translations.php:395
+msgid "IP Ranges"
+msgstr "Khoảng IP"
+
+#: includes/translations.php:396
+msgid "Start Date"
+msgstr "Ngày bắt đầu"
+
+#: includes/translations.php:397
+msgid "Please choose Start Date"
+msgstr "Chọn ngày bắt đầu"
+
+#: includes/translations.php:398
+msgid "End Date"
+msgstr "Ngày kết thúc"
+
+#: includes/translations.php:399
+msgid "Please choose End Date"
+msgstr "Chọn ngày kết thúc"
+
+#: includes/translations.php:400
+msgid "Submit"
+msgstr "Gửi"
+
+#: includes/translations.php:401
+msgid "User Name"
+msgstr "Tên đăng nhập"
+
+#: includes/translations.php:402
+msgid "Date & Time"
+msgstr "Ngày & Giờ"
+
+#: includes/translations.php:403
+msgid "Status"
+msgstr "Trạng thái"
+
+#: includes/translations.php:404
+msgid "Details"
+msgstr "Chi tiết"
+
+#: includes/translations.php:405
+msgid "Name of the Hook"
+msgstr "Tác vụ thực hiện"
+
+#: includes/translations.php:406
+msgid "Interval Hook"
+msgstr "Điều kiện thực thi"
+
+#: includes/translations.php:407
+msgid "Args"
+msgstr "Tham số"
+
+#: includes/translations.php:408
+msgid "Next Execution"
+msgstr "Lần thực thi tới"
+
+#: includes/translations.php:409
+msgid "Subject"
+msgstr "Tiêu đề"
+
+#: includes/translations.php:410
+msgid "Bulk Action"
+msgstr "Các nhóm tác vụ"
+
+#: includes/translations.php:411
+msgid "Action"
+msgstr "Hành động"
+
+#: includes/translations.php:412
+msgid "Optimize"
+msgstr "Tối ưu"
+
+#: includes/translations.php:413
+msgid "Repair"
+msgstr "Sửa chữa"
+
+#: includes/translations.php:415
+msgid "Roles & Capabilities"
+msgstr "Phân quyền & Nhóm"
+
+#: includes/translations.php:416
+msgid "WordPress Data"
+msgstr "Dữ liệu WordPress"
+
+#: includes/translations.php:417
+msgid "Database"
+msgstr "Cơ sở Dữ liệu"
+
+#: includes/translations.php:418
+msgid "Manual Clean Up"
+msgstr "Dọn dẹp thủ công"
+
+#: includes/translations.php:419
+msgid "Scheduled Clean Up"
+msgstr "Lên lịch Dọn dẹp"
+
+#: includes/translations.php:420
+msgid "WordPress Data - Manual Clean Up"
+msgstr "Dữ liệu WordPress - Dọn dẹp thủ công"
+
+#: includes/translations.php:421
+msgid "WordPress Data - Scheduled Clean Up"
+msgstr "Dữ liệu WordPress - Lên lịch Dọn dẹp"
+
+#: includes/translations.php:422
+msgid "Database - Scheduled Clean Up"
+msgstr "Cơ sở Dữ liệu - Lịch dọn dẹp"
+
+#: includes/translations.php:423
+msgid "Database - Manual Clean Up"
+msgstr "Cơ sở dữ liệu - Dọn dẹp thủ công"
+
+#: includes/translations.php:424
+msgid "Add New Schedule Clean Up"
+msgstr "Thêm một lịch dọn dẹp"
+
+#: includes/translations.php:425
+msgid "View Records"
+msgstr "Xem các bản ghi"
+
+#: includes/translations.php:426
+msgid "Logs"
+msgstr "Bản ghi"
+
+#: includes/translations.php:427
+msgid "Login Logs"
+msgstr "Lịch sử đăng nhập"
+
+#: includes/translations.php:428
+msgid "Live Traffic"
+msgstr "Lưu lượng trực tiệp"
+
+#: includes/translations.php:429
+msgid "Visitor Logs"
+msgstr "Nhật ký Truy cập"
+
+#: includes/translations.php:430
+msgid "General Settings"
+msgstr "Thiết lập chung"
+
+#: includes/translations.php:431
+msgid "Alert Setup"
+msgstr "Thiết lập thông báo"
+
+#: includes/translations.php:432
+msgid "Error Messages"
+msgstr "Thông báo lỗi"
+
+#: includes/translations.php:433
+msgid "Other Settings"
+msgstr "Thiết lập khác"
+
+#: includes/translations.php:434
+msgid "Advance Security"
+msgstr "Bảo mật Nâng cao"
+
+#: includes/translations.php:435
+msgid "Blocking Options"
+msgstr "Tùy chọn Chặn"
+
+#: includes/translations.php:436
+msgid "Manage IP Addresses"
+msgstr "Quản lý địa chỉ IP"
+
+#: includes/translations.php:437
+msgid "Manage IP Ranges"
+msgstr "Quản lý khoảng địa chỉ IP"
+
+#: includes/translations.php:438
+msgid "Country Blocks"
+msgstr "Chặn theo Quốc gia"
+
+#: includes/translations.php:439
+msgid "Email Templates"
+msgstr "Mẫu email"
+
+#: includes/translations.php:440
+msgid "Cron Jobs"
+msgstr "Tác vụ tự động"
+
+#: includes/translations.php:441
+msgid "Custom Cron Jobs"
+msgstr "Tùy chỉnh Tác vụ tự động"
+
+#: includes/translations.php:442
+msgid "Core Cron Jobs"
+msgstr "Tác vụ tự động của WP"
+
+#: includes/translations.php:443
+msgid "Feature Requests"
+msgstr "Đề nghị tính năng mới"
+
+#: includes/translations.php:444
+msgid "System Information"
+msgstr "Thông tin hệ thống"
+
+#: includes/translations.php:445
+msgid "Enable"
+msgstr "Kích hoạt"
+
+#: includes/translations.php:446
+msgid "Disable"
+msgstr "Vô hiệu"
+
+#: includes/translations.php:447
+msgid "Clean Up Booster"
+msgstr "Tăng cường Dọn dẹp"
+
+#: includes/translations.php:448
+msgid "Save Changes"
+msgstr "Lưu các thay đổi"
+
+#: includes/translations.php:449
+msgid ""
+"You do not have Sufficient Access to this Page. Kindly contact the "
+"Administrator for more Privileges"
+msgstr ""
+"Bạn không có quyền truy cập trang này. Liên hệ với Người quản trị để được "
+"cấp quyền."
+
+#: includes/translations.php:450
+msgid "Block"
+msgstr "khối"
+
+#~ msgid "Selected IP Addresses have been deleted Successfully"
+#~ msgstr "Đã xóa các địa chỉ IP được chọn"
+
+#~ msgid "Selected IP Ranges have been deleted Successfully"
+#~ msgstr "Đã xóa các khoảng địa chỉ IP được chọn"
+
+#~ msgid "Error Messages have been saved Successfully"
+#~ msgstr "Đã lưu các thông báo lỗi"
+
+#~ msgid "Roles and Capabilities have been saved Successfully"
+#~ msgstr "Đã lưu các thiết lập Quyền và Nhóm"
+
+#~ msgid "License has been activated Successfully"
+#~ msgstr "Đã kích hoạt mã thành công"
+
+#~ msgid "A Login Log has been deleted Successfully"
+#~ msgstr "Đã xóa một bản ghi Đăng nhập"
+
+#~ msgid "Email Templates have been saved Successfully"
+#~ msgstr "Đã lưu Mẫu thư điện tử"
+
+#~ msgid "Selected Login Logs have been deleted Successfully"
+#~ msgstr "Đã xóa các bản ghi Đăng nhập được chọn."
+
+#~ msgid "A Traffic Log has been deleted Successfully"
+#~ msgstr "Đã xóa bản ghi Truy cập."
+
+#~ msgid "Selected Traffic Logs have been deleted Successfully"
+#~ msgstr "Đã xóa các bản ghi Truy cập."
+
+#~ msgid "Selected Traffic Logs IP Adress have been blocked Successfully"
+#~ msgstr "Chọn các bản ghi lưu lượng IP Address đã bị chặn thành công"
+
+#~ msgid "A Visitor Log has been deleted Successfully"
+#~ msgstr "Đã xóa bản ghi Khách."
+
+#~ msgid "Selected Visitor Logs have been deleted Successfully"
+#~ msgstr "Đã xóa các bản ghi Khách truy cập được chọn."
+
+#~ msgid "Selected Visitor Logs IP Address have been blocked Successfully"
+#~ msgstr "Chọn khách đăng nhập Địa chỉ IP đã bị chặn thành công"
+
+#~ msgid "Selected scheduler has been deleted Successfully"
+#~ msgstr "Đã xóa các Tác vụ được lên lịch"
+
+#~ msgid "Selected Tables have been cleaned Successfully"
+#~ msgstr "Đã làm sạch các Bảng dữ liệu được chọn."
+
+#~ msgid "Selected Table has been repaired Successfully"
+#~ msgstr "Đã sửa cấu trúc Bảng dữ liệu được chọn."
+
+#~ msgid "Selected Tables have been repaired Successfully"
+#~ msgstr "Đã sửa cấu trúc các Bảng dữ liệu được chọn."
+
+#~ msgid "Selected Countries have been unblocked Successfully"
+#~ msgstr "Đã bỏ chặn các Quốc gia được chọn"
+
+#~ msgid "A Scheduler has been scheduled Successfully"
+#~ msgstr "Một tác vụ đã được lên lịch."
+
+#~ msgid "A Scheduler has been deleted Successfully"
+#~ msgstr "Xóa thành công tác vụ"
+
+#~ msgid "Scheduled Scheduler has been updated Successfully"
+#~ msgstr "Đã cập nhật tác vụ."
+
+#~ msgid "Selected Records have been deleted Successfully"
+#~ msgstr "Đã xóa các bản ghi được chọn"
+
+#~ msgid "A Record has been deleted Successfully"
+#~ msgstr "Đã xóa bản ghi được chọn"
+
+#~ msgid ""
+#~ "If you would like to Empty selected types of data on a given schedule "
+#~ "then you would need to choose an Action from dropdown"
+#~ msgstr ""
+#~ "Nếu bạn muốn xóa hết dữ liệu của các kiểu dữ liệu đã chọn, bạn cần chọn "
+#~ "nó từ danh sách thả xuống"
+
+#~ msgid ""
+#~ "If you would like to Optimize, Repair, Delete or Empty selected types of "
+#~ "tables on a given schedule then you would need to choose an Action from "
+#~ "dropdown"
+#~ msgstr ""
+#~ "Nếu bạn muốn Tối ưu, Sửa chữa, Xóa các bảng hoặc xóa dữ liệu, bạn cần "
+#~ "chọn các hành động này từ danh sách thả xuống"
+
+#~ msgid "Please choose at least 1 Type of Data for scheduling!"
+#~ msgstr "Chọn ít nhất một kiểu Dữ liệu để lên lịch!"
+
+#~ msgid "Please choose at least 1 record to empty!"
+#~ msgstr "Cần chọn ít nhất một bản ghi để xóa dữ liệu!"
+
+#~ msgid "Please choose at least 1 record to repair!"
+#~ msgstr "Cần chọn ít nhất một bản ghi để sửa chữa!"
+
+#~ msgid "Please choose at least 1 schedule to delete!"
+#~ msgstr "Cần chọn ít nhất một bản ghi để xóa!"
+
+#~ msgid "Please choose at least 1 Table Name for scheduling!"
+#~ msgstr "Cần chọn ít nhất một bảng dữ liệu để lên lịch!"
+
+#~ msgid "Test email was sent successfully!"
+#~ msgstr "Email thử nghiệm đã được gửi!"
+
+#~ msgid "Selected Table has been cleaned Successfully"
+#~ msgstr "Đã xóa dữ liệu Bảng được chọn"
+
+#~ msgid "WordPress Data - Update Schedule Clean Up"
+#~ msgstr "Dữ liệu WordPress - Cập nhật lịch Dọn dẹp"
+
+#~ msgid "Selected Login Logs IP Addresses has been blocked Successfully"
+#~ msgstr "Chọn Addresses Đăng nhập Logs IP đã bị chặn thành công"
+
+#~ msgid "Important Notice!"
+#~ msgstr "Thông báo Quan trọng"
+
+#~ msgid ""
+#~ "Congratulations! You have recently purchased the Clean Up Booster "
+#~ "Business Edition and now you need to activate the license in order to "
+#~ "unlock it!"
+#~ msgstr ""
+#~ "Chúc mừng bạn! Bạn vừa thanh toán cho phiên bản Clean Up Booster Business "
+#~ "Edition và bạn cần cung cấp mã đăng kí để có thể sử dụng các tính năng "
+#~ "dành riêng cho phiên bản này."
+
+#~ msgid ""
+#~ "Kindly fill in the required details and click on Validate License to "
+#~ "unlock it"
+#~ msgstr "Vui lòng điền vào các mục theo yêu cầu để Mở khóa"
+
+#~ msgid "If you face any issues activating the license, you may contact us at"
+#~ msgstr "Có vấn đề khi Xác nhận bản quyền, vui lòng liên hệ với chúng tôi."
+
+#~ msgid "Product Name"
+#~ msgstr "Tên Sản phẩm"
+
+#~ msgid "Current Version"
+#~ msgstr "Phiên bản hiện tại"
+
+#~ msgid "Website URL"
+#~ msgstr "Địa chỉ Website"
+
+#~ msgid "Order ID"
+#~ msgstr "ID đơn hàng"
+
+#~ msgid "API KEY"
+#~ msgstr "Mã API"
+
+#~ msgid "Validate License"
+#~ msgstr "Xác nhận bản quyền"
+
+#~ msgid "In this field, you would be able to see your Installed Product Name"
+#~ msgstr "Trong mục này, bạn co thể xem các tính năng đã kích hoạt."
+
+#~ msgid ""
+#~ "In this field, you would be able to see your Installed Product Version"
+#~ msgstr ""
+#~ "Trong mục này, bạn co thể xem phiên bản của các tính năng đã kích hoạt."
+
+#~ msgid "In this field, you would be able to see your Website URL"
+#~ msgstr "Trong mục này, bạn co thể xem địa chỉ trang của bạn."
+
+#~ msgid ""
+#~ "In this field, you would need to provide your Order ID which you have "
+#~ "received in an email after purchasing the product along with a download "
+#~ "link. This will be used for Validating the License"
+#~ msgstr ""
+#~ "Bạn cần nhập Mã thanh toán (Order ID) là số mà bạn nhận được sau khi "
+#~ "thanh toán cùng với liên kết tải về. Thông tin này dùng để xác nhận bản "
+#~ "quyền."
+
+#~ msgid ""
+#~ "In this field, you would need to provide your API Key which you have "
+#~ "received in an email after purchasing the product along with a download "
+#~ "link. This will be used for Validating License"
+#~ msgstr ""
+#~ "Bạn cần nhập Mã API là đoạn mã bạn nhận được sau khi thanh toán cùng với "
+#~ "liên kết tải về. Thông tin này dùng để xác nhận bản quyền."
+
+#~ msgid "Please provide Order ID received after making the purchase"
+#~ msgstr "Vui lòng cung cấp mã thanh toán của bạn (Order ID)"
+
+#~ msgid "Please provide API Key received after making the purchase"
+#~ msgstr "Vui lòng cung cấp mã API bạn nhận được sau khi thanh toán"
+
+#~ msgid "Update Schedule Clean Up"
+#~ msgstr "Cập nhật các tác vụ tự động"
+
+#~ msgid "Licensing"
+#~ msgstr "Giấy phép"
+
+#~ msgid "Please choose at least 1 record to block IP Address!"
+#~ msgstr "Vui lòng chọn ít nhất một bản ghi để chặn địa chỉ IP!"
+
+#~ msgid "Are you sure you want to block IP Address?"
+#~ msgstr "Bạn có chắc chắn muốn chặn địa chỉ IP?"
+
+#~ msgid "There is no changelog available."
+#~ msgstr "Không có changelog sẵn."
+
+#~ msgid "Check for updates"
+#~ msgstr "Kiểm tra cập nhật"
+
+#~ msgid "This plugin is up to date."
+#~ msgstr "Plugin này được cập nhật."
+
+#~ msgid "A new version of this plugin is available."
+#~ msgstr "Một phiên bản mới của plugin này là có sẵn."
+
+#~ msgid "Unknown update checker status \"%s\""
+#~ msgstr "Không biết Trạng thái kiểm tra \"%s\""
+
+#~ msgid "End Date & Time"
+#~ msgstr "Thời điểm kết thúc"
+
+#~ msgid "End On"
+#~ msgstr "Kết thúc vào"
+
+#~ msgid ""
+#~ "If you would like to end schedule on a specific date then you would need "
+#~ "to choose on or vice-versa"
+#~ msgstr ""
+#~ "Nếu bạn muốn chọn thời điểm kết thúc lịch chạy tác vụ hoặc ngược lại."
+
+#~ msgid "Please choose End On"
+#~ msgstr "Kết thúc vào"
+
+#~ msgid "On"
+#~ msgstr "Vào"
+
+#~ msgid "In this field, you would need to choose end date for scheduler"
+#~ msgstr "Trong mục này, bạn cần chọn thời điểm kết thúc lịch chạy tác vụ"
+
+#~ msgid "Time Zone"
+#~ msgstr "Múi giờ"
+
+#~ msgid ""
+#~ "In this field, you would need to choose Time Zone so that the scheduler "
+#~ "runs on time zone accordingly"
+#~ msgstr ""
+#~ "Trong mục này, bạn cần chọn múi giờ chính xác để tác vụ chạy đúng lịch"
+
+#~ msgid "Maximum Login Attempts In a Day"
+#~ msgstr "Số lần đăng nhập không thành công tối đa mỗi ngày."
+
+#~ msgid ""
+#~ "Congratulations! You have recently purchased the Clean Up Booster "
+#~ "Personal Edition and now you need to activate the license in order to "
+#~ "unlock it!"
+#~ msgstr ""
+#~ "Chúc mừng! Bạn đã thanh toán cho phiên bản Clean Up Boóter Personal "
+#~ "Edition và bạn cần mã đăng kí để mở khóa."
+
+#~ msgid ""
+#~ "This feature is only available in Business and Developer Edition! <br/> "
+#~ "Kindly Purchase to unlock it!"
+#~ msgstr ""
+#~ "Những tín năng này chỉ có trong phiên bản giành cho Doanh nghiệp hoặc Nhà "
+#~ "phát triển<br />. Bạn cần mua để sử dụng!"
+
+#~ msgid "* Blocking / Unblocking Countries "
+#~ msgstr "*  Đang chặn / bỏ chặn các quốc gia."
+
+#~ msgid "* Bulk Delete"
+#~ msgstr "* Xóa hàng loạt"
+
+#~ msgid "* Blocking IP Addresses "
+#~ msgstr "* Chặn các địa chỉ IP"
+
+#~ msgid " Features available in Business and Developer Editions :"
+#~ msgstr ""
+#~ "Các tín năng có trong phiên bản giành cho Doanh nghiệp hoặc Nhà phát "
+#~ "triển:"
+
+#~ msgid ""
+#~ "Congratulations! You have recently purchased the Clean Up Booster "
+#~ "Developer Edition and now you need to activate the license in order to "
+#~ "unlock it!"
+#~ msgstr ""
+#~ "Chúc mừng! Bạn đã thanh toán cho phiên bản Clean Up Boóter Developer "
+#~ "Edition và bạn cần mã đăng kí để mở khóa."
+
+#~ msgid "If you would like to translate in "
+#~ msgstr ""
+#~ "Nếu bạn muốn giúp chúng tôi chuyển ngữ Phần mở rộng này sang ngôn ngữ"
+
+#~ msgid ""
+#~ " & help us, we will reward you with a free Personal Edition License of "
+#~ "Clean Up Booster. If Interested, Kindly click "
+#~ msgstr ""
+#~ "của bạn, chúng tôi rất vui được tặng bạn một phiên bản Personal Edition "
+#~ "của Clean Up Booster. Vui lòng bấm vào "
+
+#~ msgid "here."
+#~ msgstr "đây"
+
+#~ msgid "Are you sure you want to close without sending Translation Request?"
+#~ msgstr "Bạn muốn thoát ra mà không gửi Yêu cầu chuyển ngữ?"
+
+#~ msgid "Translation Request"
+#~ msgstr "Yêu cầu chuyển ngữ (Translation Request)"
+
+#~ msgid "Language Interested to Translate"
+#~ msgstr "Ngôn ngữ bạn muốn dịch sang"
+
+#~ msgid "Please choose a language which you want to translate"
+#~ msgstr "Vui lòng chọn một ngôn ngữ bạn muốn dịch sang"
+
+#~ msgid "Please provide a language"
+#~ msgstr "Vui lòng nhập vào ngôn ngữ bạn muốn chuyển ngữ"
+
+#~ msgid "Query"
+#~ msgstr "Nội dung yêu cầu"
+
+#~ msgid "Please provide your query"
+#~ msgstr "Nhập vào nội dung bạn muốn yêu cầu"
+
+#~ msgid "Close"
+#~ msgstr "Đóng"
+
+#~ msgid "Premium Edition Features :"
+#~ msgstr "Các tín năng chỉ có trong phiên bản giành cho Premium Edition:"
+
+#~ msgid "* Click "
+#~ msgstr "* Bấm "
+
+#~ msgid "here "
+#~ msgstr "vào đây"
+
+#~ msgid " to see Premium Edition Features in detail."
+#~ msgstr "để xem mô tả chi tiết các tính năng trong bản Premium Edition"
+
+#~ msgid "* For Clean Up Booster Demos, click "
+#~ msgstr "* Để sử dụng thử Clean Up Booster, bấm "
+
+#~ msgid "* For Clean Up Booster User Guide for this page, click "
+#~ msgstr "* Để xem Hướng dẫn sử dụng của Clean Up Booster, bấm "
+
+#~ msgid "Important Disclaimer!"
+#~ msgstr "Miễn trừ trách nhiệm"
+
+#~ msgid "* Blocking / Unblocking Countries"
+#~ msgstr "*  Đang chặn / bỏ chặn các quốc gia."
+
+#~ msgid "* Unblocking IP Addresses"
+#~ msgstr "* Bỏ chặn các địa chỉ IP"
+
+#~ msgid "* Filters"
+#~ msgstr "* Các bộ lọc"
+
+#~ msgid "* Unblocking IP Ranges"
+#~ msgstr "* Bỏ chặn các khoảng IP"
+
+#~ msgid "* Deleting Cron Jobs"
+#~ msgstr "* Xóa các tác vụ đã lên lịch"
+
+#~ msgid "* Repair / Empty Tables"
+#~ msgstr "* Sửa chữa, xóa dữ liệu các bảng"
+
+#~ msgid "* Creating / Editing / Deleting Schedules"
+#~ msgstr "* Tạo / Sửa / Xóa các Tác vụ"
+
+#~ msgid "* Editing Error Messages"
+#~ msgstr "* Thông báo lỗi khi sửa"
+
+#~ msgid "* Deleting Live Traffic Logs"
+#~ msgstr "* Xóa các bản ghi về lưu lượng truy cập"
+
+#~ msgid "* Blocking IP Addresses from Live Traffic"
+#~ msgstr "* Chặn địa chỉ IP từ thống kê truy cập theo thời gian thực"
+
+#~ msgid "* Deleting Login Logs"
+#~ msgstr "* Xóa bản ghi Đăng nhập"
+
+#~ msgid "* Blocking IP Addresses from Login Logs"
+#~ msgstr "* Chặn các địa chỉ IP từ bản ghi đăng nhập"
+
+#~ msgid "* Deleting Visitor Logs"
+#~ msgstr "* Xóa các bản ghi Khách truy cập"
+
+#~ msgid "* Blocking IP Addresses from Visitor Logs"
+#~ msgstr "* Chặn các địa chỉ IP từ bản ghi Khách truy cập"
+
+#~ msgid "* Saving Roles & Capabilities"
+#~ msgstr "* Đang lưu Phân quyền và Nhóm"
+
+#~ msgid "* Editing Email Templates"
+#~ msgstr "* Sửa mẫu thư điện tử"
+
+#~ msgid "* Creating / Editing Schedules"
+#~ msgstr "* Tạo / Sửa các lịch tác vụ"
+
+#~ msgid "* Deleting Records"
+#~ msgstr "* Xóa các bản ghi"
+
+#~ msgid "Premium Editions"
+#~ msgstr "Phiên bản cao cấp"

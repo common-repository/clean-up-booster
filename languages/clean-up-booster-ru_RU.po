@@ -1,0 +1,2191 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Clean Up Booster\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-04-11 09:57+0530\n"
+"PO-Revision-Date: 2017-04-11 09:58+0530\n"
+"Last-Translator: Tech Banker\n"
+"Language-Team: Russian (Russia)\n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10 >= 2 && n"
+"%10<=4 &&(n%100<10||n%100 >= 20)? 1 : 2);\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Loco-Source-Locale: en-IN\n"
+"X-Loco-Project-Id: 18950\n"
+"X-Loco-Api-Version: 1.0.15 20170125-2\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: assets\n"
+
+#: includes/mailer-translations.php:12
+msgid "for "
+msgstr "для"
+
+#: includes/mailer-translations.php:13 includes/translations.php:364
+msgid "1 Hour"
+msgstr "1 час"
+
+#: includes/mailer-translations.php:14 includes/translations.php:365
+msgid "12 Hours"
+msgstr "12 часов"
+
+#: includes/mailer-translations.php:15 includes/translations.php:366
+msgid "24 Hours"
+msgstr "24 часа"
+
+#: includes/mailer-translations.php:16 includes/translations.php:367
+msgid "48 Hours"
+msgstr "48 часов"
+
+#: includes/mailer-translations.php:17 includes/translations.php:368
+msgid "1 Week"
+msgstr "1 неделю"
+
+#: includes/mailer-translations.php:18 includes/translations.php:369
+msgid "1 Month"
+msgstr "1 месяц"
+
+#: includes/mailer-translations.php:19 includes/translations.php:370
+msgid "Permanently"
+msgstr "Навсегда"
+
+#: includes/translations.php:37
+msgid "Upgrade"
+msgstr "модернизация"
+
+#: includes/translations.php:38
+msgid "Premium Edition"
+msgstr "Premium Edition"
+
+#: includes/translations.php:39
+msgid ""
+"This feature is available only in Premium Editions! <br> Kindly Purchase to "
+"unlock it!"
+msgstr ""
+"Эта опция доступна только в Premium издании! <br> Просто купите лицензию и "
+"мы все откроем!"
+
+#: includes/translations.php:42
+msgid "Blocking Options have been saved Successfully"
+msgstr "Опции блокировки сохранены"
+
+#: includes/translations.php:43
+msgid "IP Address has been blocked Successfully"
+msgstr "IP адрес заблокирован"
+
+#: includes/translations.php:44
+msgid "IP Range has been blocked Successfully"
+msgstr "Диапозон IP адресов заблокирован"
+
+#: includes/translations.php:45
+msgid "IP Address has been deleted Successfully"
+msgstr "IP адрес удален"
+
+#: includes/translations.php:46
+msgid "IP Range has been deleted Successfully"
+msgstr "IP адрес удален"
+
+#: includes/translations.php:47
+msgid "Alert Setup has been saved Successfully"
+msgstr "Настройка оповещений успешно сохранена"
+
+#: includes/translations.php:48
+msgid "Other Settings have been saved Successfully"
+msgstr "Другие настройки успешно сохранены"
+
+#: includes/translations.php:49
+msgid "Your request email has been sent Successfully"
+msgstr "Ваш запрос оптравлен"
+
+#: includes/translations.php:50
+msgid "Selected Data has been cleaned Successfully"
+msgstr "Выбранные данные успешно очищены "
+
+#: includes/translations.php:51
+msgid "Selected Tables have been deleted Successfully"
+msgstr "Выбранные таблицы удалены"
+
+#: includes/translations.php:52
+msgid "Selected Tables have been optimized Successfully"
+msgstr "Выбранные таблицы оптимизированы"
+
+#: includes/translations.php:53
+msgid "Selected Table has been optimized Successfully"
+msgstr "Выбранная таблица оптимизирована"
+
+#: includes/translations.php:54
+msgid "Selected Countries have been blocked Successfully"
+msgstr "Выбранные страны заблокированы"
+
+#: includes/translations.php:55
+msgid "Auto Drafts have been cleaned Successfully"
+msgstr "Автоматические дневники очищены"
+
+#: includes/translations.php:56
+msgid "Dashboard Transient Feed has been cleaned Successfully"
+msgstr "Переходной поток консоли успешно очищен"
+
+#: includes/translations.php:57
+msgid "Unapproved Comments have been cleaned Successfully"
+msgstr "Запрещенные Комментарии очищены Успешно"
+
+#: includes/translations.php:58
+msgid "Orphan Comments Meta has been cleaned Successfully"
+msgstr "Мета Еденичных Комментариев очищен успешно"
+
+#: includes/translations.php:59
+msgid "Orphan Posts Meta has been cleaned Successfully"
+msgstr "Сирота Сообщения Мета был очищен успешно"
+
+#: includes/translations.php:60
+msgid "Orphan Relationships have been cleaned Successfully"
+msgstr "Сироты отношения были успешно очищены"
+
+#: includes/translations.php:61
+msgid "Revisions have been cleaned Successfully"
+msgstr "Ревизии были очищены Успешно"
+
+#: includes/translations.php:62
+msgid "Pingbacks have been cleaned Successfully"
+msgstr "Pingbacks произведена чистка Успешно"
+
+#: includes/translations.php:63
+msgid "Transient Options have been cleaned Successfully"
+msgstr "Переходные параметры были очищены Успешно"
+
+#: includes/translations.php:64
+msgid "Trackbacks have been cleaned Successfully"
+msgstr "Обратные ссылки были очищены Успешно"
+
+#: includes/translations.php:65
+msgid "Spam Comments have been cleaned Successfully"
+msgstr "Были успешно очищены спам-комментарии"
+
+#: includes/translations.php:66
+msgid "Trash Comments have been cleaned Successfully"
+msgstr "дрянь комментарии были успешно очищены"
+
+#: includes/translations.php:67
+msgid "Drafts have been cleaned Successfully"
+msgstr "Черновики были очищены Успешно"
+
+#: includes/translations.php:68
+msgid "Deleted Posts have been cleaned Successfully"
+msgstr "Удаленные сообщения были очищены Успешно"
+
+#: includes/translations.php:69
+msgid "Duplicated Post Meta has been cleaned Successfully"
+msgstr "Дублированный Сообщение Мета был очищен успешно"
+
+#: includes/translations.php:70
+msgid "oEmbed Caches in Post Meta have been cleaned Successfully"
+msgstr "oEmbed кэши в Post Meta были очищены Успешно"
+
+#: includes/translations.php:71
+msgid "Duplicated Comment Meta has been cleaned Successfully"
+msgstr "Дублированный Комментарий Мета был очищен успешно"
+
+#: includes/translations.php:72
+msgid "Orphan User Meta has been cleaned Successfully"
+msgstr "Сирота Пользователь Мета был очищен успешно"
+
+#: includes/translations.php:73
+msgid "Duplicated User Meta has been cleaned Successfully"
+msgstr "Дублированный Пользователь Мета был очищен успешно"
+
+#: includes/translations.php:74
+msgid "Orphaned Term Relationships have been cleaned Successfully"
+msgstr " Осиротевший Срок Отношения были очищены Успешно"
+
+#: includes/translations.php:75
+msgid "Unused Terms have been cleaned Successfully"
+msgstr "Неиспользованные Условия были очищены Успешно"
+
+#: includes/translations.php:76
+msgid "Please choose an Action from Dropdown!"
+msgstr "Пожалуйста, выберите действие из раскрывающийся!"
+
+#: includes/translations.php:77
+msgid "Please choose at least 1 type of Data to Clean!"
+msgstr "Пожалуйста, выберите по крайней мере, 1 тип данных очистить!"
+
+#: includes/translations.php:78
+msgid "Are you sure you want to Clean?"
+msgstr "Вы уверены, что хотите очистить?"
+
+#: includes/translations.php:79
+msgid "Are you sure you want to delete?"
+msgstr "Вы уверены, что хотите удалить?"
+
+#: includes/translations.php:80
+msgid "Please choose at least 1 record to delete!"
+msgstr "Пожалуйста, выберите по крайней мере 1 запись для удаления!"
+
+#: includes/translations.php:81
+msgid "Are you sure you want to perform this action?"
+msgstr "Вы уверены, что хотите выполнить это действие?"
+
+#: includes/translations.php:82
+msgid "Please choose at least 1 record to optimize!"
+msgstr "Пожалуйста, выберите по крайней мере 1 запись для оптимизации!"
+
+#: includes/translations.php:83
+msgid "Location"
+msgstr "Местоположение"
+
+#: includes/translations.php:84
+msgid "Latitude"
+msgstr "Широта"
+
+#: includes/translations.php:85
+msgid "Longitude"
+msgstr "Долгота"
+
+#: includes/translations.php:86
+msgid "HTTP User Agent"
+msgstr "HTTP Агент пользователя"
+
+#: includes/translations.php:87
+msgid "N/A"
+msgstr "N / A"
+
+#: includes/translations.php:88
+msgid "Please provide valid IP Address"
+msgstr "Пожалуйста, укажите правильный IP-адрес"
+
+#: includes/translations.php:89
+msgid "Error Message"
+msgstr "Сообщение об ошибке"
+
+#: includes/translations.php:90
+msgid "This IP Address has been already blocked!"
+msgstr "Этот IP-адрес был уже заблокирован!"
+
+#: includes/translations.php:91
+msgid "Notification!"
+msgstr "Уведомление!"
+
+#: includes/translations.php:92
+msgid "Please provide valid IP Range"
+msgstr "Просьба предоставить действительный диапазон IP"
+
+#: includes/translations.php:93
+msgid "This IP Range has been already blocked!"
+msgstr "Этот диапазон IP уже заблокирован!"
+
+#: includes/translations.php:94
+msgid "Success!"
+msgstr "Успех!"
+
+#: includes/translations.php:95
+msgid "Selected Table has been Deleted Successfully"
+msgstr "Выбранная таблица была успешно удалена"
+
+#: includes/translations.php:99
+msgid "WordPress Data - Add New Schedule Clean Up"
+msgstr "WordPress данных - Добавить расписание Clean Up"
+
+#: includes/translations.php:103
+msgid "Database - Update Schedule Clean Up"
+msgstr "База данных - Обновление Расписание Clean Up"
+
+#: includes/translations.php:104
+msgid "Database - Add New Schedule Clean Up"
+msgstr "База данных - Добавить новое расписание Clean Up"
+
+#: includes/translations.php:108
+msgid "Database - View Records"
+msgstr "База данных - Просмотр записей"
+
+#: includes/translations.php:109
+msgid "Rows"
+msgstr "Ряды"
+
+#: includes/translations.php:110
+msgid "Table Size"
+msgstr "Размер таблицы"
+
+#: includes/translations.php:111
+msgid "<< Back to Manual Clean Up"
+msgstr "<< Назад к ручной Clean Up"
+
+#: includes/translations.php:112
+msgid "Back to Manual Clean Up"
+msgstr "Назад к ручной Clean Up"
+
+#: includes/translations.php:116
+msgid "Login Logs On World Map"
+msgstr "Вход бревна на карте мира"
+
+#: includes/translations.php:117
+msgid ""
+"In this field, you would need to specify start date to view information "
+"about userss who logged within a specified period"
+msgstr ""
+"В этой области, вам нужно будет указать дату начала, чтобы просмотреть "
+"информацию о userss, вошедшего в течение определенного периода"
+
+#: includes/translations.php:118 includes/translations.php:128
+msgid ""
+"In this field, you would need to specify end date to view information about "
+"users who logged within a specified period"
+msgstr ""
+"В этой области, вам нужно будет указать конечную дату, чтобы просмотреть "
+"информацию о пользователях, вошедшего в течение определенного периода"
+
+#: includes/translations.php:121
+msgid "Live Traffic On World Map"
+msgstr "В прямом эфире Движение на карте мира"
+
+#: includes/translations.php:122
+msgid "Resources"
+msgstr "Ресурсы"
+
+#: includes/translations.php:123
+msgid ""
+"Live Traffic Monitoring is Turned Off. Please go to General Settings > Other "
+"Settings Menu to enable it"
+msgstr ""
+"Мониторинг в реальном времени трафика повернута. Пожалуйста, перейдите в "
+"раздел Общие настройки> Другие настройки меню, чтобы включить его"
+
+#: includes/translations.php:127
+msgid ""
+"In this field, you would need to specify start date to view information "
+"about users who logged within a specified period"
+msgstr ""
+"В этой области, вам нужно будет указать дату начала, чтобы просмотреть "
+"информацию о пользователях, вошедшего в течение определенного периода"
+
+#: includes/translations.php:129
+msgid "Visitor Logs On World Map"
+msgstr "Публичные журналы на карте мира"
+
+#: includes/translations.php:130
+msgid ""
+"Visitor Logs Monitoring is Turned Off. Please go to General Settings > Other "
+"Settings Menu to enable it"
+msgstr ""
+"Посетитель Журналы Мониторинг повернута. Пожалуйста, перейдите в раздел "
+"Общие настройки> Другие настройки меню, чтобы включить его"
+
+#: includes/translations.php:134
+msgid "Email when a user Fails Login"
+msgstr "Электронная почта, когда пользователь не Логин"
+
+#: includes/translations.php:135
+msgid ""
+"In this field, you would need to choose Enable to automatically send an "
+"email to the Administrator when a user fails to login"
+msgstr ""
+"В этой области, вам нужно будет выбрать Включить автоматическую отправку по "
+"электронной почте администратору, когда пользователь не может войти в систему"
+
+#: includes/translations.php:136
+msgid "Email when a user Success Login"
+msgstr "E-mail, когда пользователь Успех Войти"
+
+#: includes/translations.php:137
+msgid ""
+"In this field, you would need to choose Enable to automatically send an "
+"email to the Administrator when a user succeeds in login"
+msgstr ""
+"В этой области, вам нужно будет выбрать Включить автоматическую отправку по "
+"электронной почте администратору, когда пользователь добиться успеха логин"
+
+#: includes/translations.php:138
+msgid "Email when an IP Address is Blocked"
+msgstr "E-mail, когда IP-адрес блокируется"
+
+#: includes/translations.php:139
+msgid ""
+"In this field, you would need to choose Enable to automatically send an "
+"email to the Administrator when an IP Address is being blocked"
+msgstr ""
+"В этой области, вам нужно будет выбрать Включить автоматическую отправку по "
+"электронной почте администратору, когда IP-адрес блокируется"
+
+#: includes/translations.php:140
+msgid "Email when an IP Address is Unblocked"
+msgstr "E-mail, когда IP-адрес разблокирован"
+
+#: includes/translations.php:141
+msgid ""
+"In this field, you would need to choose Enable to automatically send an "
+"email to the Administrator when an IP Address is being unblocked"
+msgstr ""
+"В этой области, вам нужно будет выбрать Включить автоматическую отправку по "
+"электронной почте администратору, когда IP-адрес будет разблокирован"
+
+#: includes/translations.php:142
+msgid "Email when an IP Range is Blocked"
+msgstr "E-mail, когда Диапазон IP-адресов заблокировано"
+
+#: includes/translations.php:143
+msgid ""
+"In this field, you would need to choose Enable to automatically send an "
+"email to the Administrator when an IP Range is being blocked"
+msgstr ""
+"В этой области, вам нужно будет выбрать Включить автоматическую отправку по "
+"электронной почте администратору, когда Диапазон IP-адресов блокируется"
+
+#: includes/translations.php:144
+msgid "Email when an IP Range is Unblocked"
+msgstr "E-mail, когда IP Range разблокирован"
+
+#: includes/translations.php:145
+msgid ""
+"In this field, you would need to choose Enable to automatically send an "
+"email to the Administrator when an IP Range is being unblocked"
+msgstr ""
+"В этой области, вам нужно будет выбрать Включить автоматическую отправку по "
+"электронной почте администратору, когда диапазон IP в настоящее время "
+"разблокирован"
+
+#: includes/translations.php:149
+msgid "For Maximum Login Attempts Error Message"
+msgstr "Для достижения максимального Логин Попытки Сообщение об ошибке"
+
+#: includes/translations.php:150
+msgid ""
+"In this field, you would need to provide an error message to be displayed "
+"when a user exceeds maximum number of login attempts"
+msgstr ""
+"В этой области, вам необходимо будет предоставить сообщение об ошибке, "
+"которое будет отображаться, когда пользователь превышает максимальное число "
+"попыток входа в систему"
+
+#: includes/translations.php:151
+msgid "Please provide your Login Attempts Error Message"
+msgstr "Пожалуйста, предоставьте вашу попытку войти в сообщение об ошибке"
+
+#: includes/translations.php:153
+msgid "For Blocked Country Error Message"
+msgstr "Для получения блокированных Страна Сообщение об ошибке"
+
+#: includes/translations.php:154
+msgid ""
+"In this field, you would need to provide an error message to be displayed "
+"when user country is being blocked by the Administrator"
+msgstr ""
+"В этой области, вам необходимо будет предоставить сообщение об ошибке, "
+"которое будет отображаться, когда страна пользователь блокируется "
+"администратором"
+
+#: includes/translations.php:155
+msgid "Please provide your Blocked Country Error Message"
+msgstr "Просьба предоставить заблокированные Страна Сообщение об ошибке"
+
+#: includes/translations.php:157
+msgid "For Blocked IP Address Error Message"
+msgstr "Для получения блокированных IP Сообщение об ошибке Адрес"
+
+#: includes/translations.php:158
+msgid ""
+"In this field, you would need to provide an error message to be displayed "
+"when user IP Address is being blocked by the Administrator"
+msgstr ""
+"В этой области, вам необходимо будет предоставить сообщение об ошибке, "
+"которое будет отображаться, когда IP-адрес пользователя блокируется "
+"администратором"
+
+#: includes/translations.php:159
+msgid "Please provide your Blocked IP Address Error Message"
+msgstr "Пожалуйста, укажите ваш Заблокированные IP-адрес Сообщение об ошибке"
+
+#: includes/translations.php:161
+msgid "For Blocked IP Range Error Message"
+msgstr "Для получения блокированных IP Range Сообщение об ошибке"
+
+#: includes/translations.php:162
+msgid ""
+"In this field, you would need to provide an error message to be displayed "
+"when user IP Range is being blocked by the Administrator"
+msgstr ""
+"В этой области, вам необходимо будет предоставить сообщение об ошибке, "
+"которое будет отображаться, когда пользователь IP Range блокируется "
+"администратором"
+
+#: includes/translations.php:163
+msgid "Please provide your Blocked IP Range Error Message"
+msgstr "Просьба предоставить заблокированные IP Range Сообщение об ошибке"
+
+#: includes/translations.php:167 includes/translations.php:329
+msgid "Trackbacks"
+msgstr "Обратные ссылки"
+
+#: includes/translations.php:168
+msgid ""
+"Trackbacks are a way to notify legacy blog systems that you have linked to "
+"them. If you would like to enable trackbacks to your site then you would "
+"need to choose enable or vice-versa from drop-down"
+msgstr ""
+"Обратные ссылки являются одним из способов для уведомления системы блога "
+"унаследованных, что вы связаны с ними. Если вы хотели бы включить трэкбэки "
+"на ваш сайт, то вам необходимо будет включить или наоборот из "
+"раскрывающегося списка, чтобы выбрать"
+
+#: includes/translations.php:169
+msgid ""
+"If you would like to allow people to comment on your posts or pages then you "
+"would need to choose enable or vise-versa from drop-down"
+msgstr ""
+"Если вы хотите, чтобы позволить людям комментировать ваши записи или "
+"страницы, то вам нужно будет включить или тиски-Versa из раскрывающегося "
+"списка, чтобы выбрать"
+
+#: includes/translations.php:170
+msgid "Automatic Plugin Updates"
+msgstr "Автоматическое обновление плагинов"
+
+#: includes/translations.php:171
+msgid ""
+"If you would like that the plugin would be automatically updated whenever "
+"there is a new version available then you would need to choose enable or "
+"vise-versa from dropdown"
+msgstr ""
+"Если вы хотите, что плагин будет автоматически обновляться каждый раз, когда "
+"есть новая версия доступна, то вам нужно будет включить или тиски-Versa из "
+"выпадающего меню, чтобы выбрать"
+
+#: includes/translations.php:172
+msgid "Live Traffic Monitoring"
+msgstr "Жить Трафик мониторинг"
+
+#: includes/translations.php:173
+msgid ""
+"If you would like to monitor details of users who are currently visiting "
+"your website and pages visited by them then you would need to choose enable "
+"or vise-versa from dropdown"
+msgstr ""
+"Если вы хотите, чтобы контролировать детали пользователей, которые в "
+"настоящее время посещают ваш сайт и страницы, посещенные ими, то вам нужно "
+"будет включить или тиски-Versa из выпадающего меню, чтобы выбрать"
+
+#: includes/translations.php:174
+msgid "Visitor Logs Monitoring"
+msgstr "посетитель бревна мониторинг "
+
+#: includes/translations.php:175
+msgid ""
+"If you would like to monitor details of users who are visiting your website "
+"and pages visited by them then you would need to choose enable or vise-versa "
+"from dropdown"
+msgstr ""
+"Если вы хотите, чтобы контролировать детали пользователей, которые посещают "
+"ваш сайт и страницы, посещенные ими, то вам нужно будет включить или тиски-"
+"Versa из выпадающего меню, чтобы выбрать"
+
+#: includes/translations.php:176
+msgid "Remove Tables At Uninstall"
+msgstr "Удалить таблицы при удалении программы"
+
+#: includes/translations.php:177
+msgid ""
+"If you would like to remove tables at uninstall then you would need to "
+"choose enable or vice-versa from dropdown"
+msgstr ""
+"Если вы хотите, чтобы удалить таблицы при удалении программы, то вам "
+"необходимо включить или будет наоборот из выпадающего меню, чтобы выбрать"
+
+#: includes/translations.php:178
+msgid "Error Reporting"
+msgstr "отчетность об ошибке"
+
+#: includes/translations.php:179
+msgid ""
+"If you would like to Report your Errors in Error Logs Menu, then you would "
+"need to Choose Enable from dropdown or vice-versa"
+msgstr ""
+"Если вы хотите, чтобы сообщить о своих ошибках в журналах ошибок меню, то "
+"вам нужно будет выбрать Enable из ниспадающего или наоборот"
+
+#: includes/translations.php:180
+msgid "How does Clean Up Booster get IPs"
+msgstr "Как Clean Up Booster получить IP-адреса"
+
+#: includes/translations.php:181
+msgid ""
+"In this field, you would need to choose a specific option for how does Clean "
+"Up Booster get IPs"
+msgstr ""
+"В этой области, вам нужно будет выбрать конкретный вариант для того, как "
+"делает Clean Up Booster получить IP-адреса"
+
+#: includes/translations.php:182
+msgid ""
+"Let Clean Up Booster use the most secure method to get visitor IP address. "
+"Prevents spoofing and works with most sites."
+msgstr ""
+"Пусть Clean Up Booster использовать наиболее безопасный метод, чтобы "
+"получить IP-адрес посетителя. Предотвращает подмену и работает с "
+"большинством сайтов."
+
+#: includes/translations.php:183
+msgid ""
+"Use PHP's built in REMOTE_ADDR and don't use anything else. Very secure if "
+"this is compatible with your site."
+msgstr ""
+"Использование PHP встроенный в REMOTE_ADDR и больше ничего не использовать. "
+"Очень безопасно, если это совместимо с вашим сайтом."
+
+#: includes/translations.php:184
+msgid ""
+"Use the X-Forwarded-For HTTP header. Only use if you have a front-end proxy "
+"or spoofing may result."
+msgstr ""
+"Используйте заголовок HTTP X-Forwarded-For. Используйте только если у вас "
+"есть фронтальный прокси или подмены могут привести."
+
+#: includes/translations.php:185
+msgid ""
+"Use the X-Real-IP HTTP header. Only use if you have a front-end proxy or "
+"spoofing may result."
+msgstr ""
+"Используйте заголовок X-Real-IP HTTP. Используйте только если у вас есть "
+"фронтальный прокси или подмены могут привести."
+
+#: includes/translations.php:186
+msgid ""
+"Use the Cloudflare 'CF-Connecting-IP' HTTP header to get a visitor IP. Only "
+"use if you're using Cloudflare."
+msgstr ""
+"Используйте «CF-Подключение-IP» заголовок HTTP в Cloudflare, чтобы получить "
+"посетитель IP. Используйте только если вы используете Cloudflare."
+
+#: includes/translations.php:191
+msgid "Auto IP Block"
+msgstr "Авто Заблокированные IP-адреса"
+
+#: includes/translations.php:192
+msgid ""
+"In this field, you would need to choose Enable to automatically block an IP "
+"Address when a user exceeds their maximum login attempts"
+msgstr ""
+"В этой области, вам нужно будет выбрать Enable, чтобы автоматически "
+"блокировать IP-адрес, когда пользователь превышает свои максимальные попытки "
+"входа в систему"
+
+#: includes/translations.php:193
+msgid "Maximum Login Attempts in a Day"
+msgstr "Максимальное количество попыток входа в день"
+
+#: includes/translations.php:194
+msgid ""
+"In this field, you would need to provide the maximum number of login "
+"attempts in a day. If a user exceeds its login attempts then their IP "
+"Address will be automatically blocked"
+msgstr ""
+"В этой области, Вы должны были бы обеспечить максимальное число попыток "
+"входа в день. Если пользователь превышает свои попытки входа в систему, то "
+"их IP-адрес будет автоматически заблокирован"
+
+#: includes/translations.php:195
+msgid "Please provide Maximum Login Attempts in a Day"
+msgstr ""
+"Просьба предоставить максимальное количество возможных попыток входа в "
+"систему День"
+
+#: includes/translations.php:196
+msgid ""
+"In this field, you would need to choose a time duration for which you would "
+"like to block an IP Address so that particular IP Address will be blocked "
+"for a fixed time interval"
+msgstr ""
+"В этой области, вам нужно будет выбрать продолжительность времени, в течение "
+"которого вы хотели бы блокировать IP-адреса, так что конкретный IP-адрес "
+"будет заблокирован в течение фиксированного интервала времени"
+
+#: includes/translations.php:200
+msgid ""
+"In this field, you would need to provide a valid IP Address which you would "
+"like to block"
+msgstr ""
+"В этой области, вы должны предоставить действительный IP-адрес, который вы "
+"хотели бы блокировать"
+
+#: includes/translations.php:201
+msgid ""
+"In this field, you would need to choose a duration of time for which you "
+"would like to block IP Address"
+msgstr ""
+"В этой области, вам нужно будет выбрать продолжительность времени, в течение "
+"которого вы хотели бы блокировать IP-адреса"
+
+#: includes/translations.php:202
+msgid ""
+"In this field, you would need to provide comments to give an overview about "
+"reason for blocking these IP Addresses"
+msgstr ""
+"В этой области, вы должны представить свои замечания, чтобы дать "
+"представление о причине блокирования этих IP-адресов"
+
+#: includes/translations.php:203
+msgid "Please provide Comments"
+msgstr "Просьба предоставить Комментарии"
+
+#: includes/translations.php:204
+msgid "View Blocked IP Addresses"
+msgstr "Список заблокированных IP-адресов"
+
+#: includes/translations.php:205
+msgid ""
+"In this field, you would need to choose start date to view information about "
+"IP Addresses which were blocked within a specified period"
+msgstr ""
+"В этой области, вам нужно будет выбрать дату начала, чтобы просмотреть "
+"информацию об IP-адресах, которые были заблокированы в течение определенного "
+"периода"
+
+#: includes/translations.php:206
+msgid ""
+"In this field, you would need to choose end date to view information about "
+"IP Addresses which were blocked within a specified period"
+msgstr ""
+"В этой области, вам нужно будет выбрать дату окончания, чтобы просмотреть "
+"информацию об IP-адресах, которые были заблокированы в течение определенного "
+"периода"
+
+#: includes/translations.php:210
+msgid "Start IP Range"
+msgstr "Начало блока IP-адресов"
+
+#: includes/translations.php:211
+msgid ""
+"In this field, you would need to provide a valid Start IP Ranges which you "
+"would like to block"
+msgstr ""
+"В этой области, вы должны предоставить действительный Start IP диапазоны, "
+"которые вы хотели бы блокировать"
+
+#: includes/translations.php:212
+msgid "Please provide Start IP Range"
+msgstr "Просьба предоставить Start IP Range"
+
+#: includes/translations.php:213
+msgid "End IP Range"
+msgstr "Конец блока IP-адресов"
+
+#: includes/translations.php:214
+msgid ""
+"In this field, you would need to provide a valid End IP Ranges which you "
+"would like to block"
+msgstr ""
+"В этой области, вы должны предоставить действительный End IP диапазоны, "
+"которые вы хотели бы блокировать"
+
+#: includes/translations.php:215
+msgid "Please provide End IP Range"
+msgstr "Пожалуйста, укажите конец блока IP-адресов"
+
+#: includes/translations.php:216
+msgid ""
+"In this field, you would need to choose duration of time for which you would "
+"like to block these IP Ranges"
+msgstr ""
+"В этой области, вам нужно будет выбрать продолжительность времени, в течение "
+"которого вы хотели бы блокировать эти IP-диапазонов"
+
+#: includes/translations.php:217
+msgid "Block IP Range"
+msgstr "Блок Диапазон IP-адресов"
+
+#: includes/translations.php:218
+msgid "View Blocked IP Ranges"
+msgstr "Список заблокированных IP-диапазонов"
+
+#: includes/translations.php:219
+msgid ""
+"In this field, you would need to choose start date to view information about "
+"IP Ranges which were blocked within a specified period"
+msgstr ""
+"В этой области, вам нужно будет выбрать дату начала, чтобы просмотреть "
+"информацию об IP-диапазонов, которые были заблокированы в течение "
+"определенного периода"
+
+#: includes/translations.php:220
+msgid ""
+"In this field, you would need to choose end date to view information about "
+"IP Ranges which were blocked within a specified period"
+msgstr ""
+"В этой области, вам нужно будет выбрать дату окончания, чтобы просмотреть "
+"информацию об IP-диапазонов, которые были заблокированы в течение "
+"определенного периода"
+
+#: includes/translations.php:221
+msgid ""
+"In this field, you would need to provide comments to give an overview about "
+"reason for blocking these IP Ranges"
+msgstr ""
+"В этой области, вы должны представить свои замечания, чтобы дать "
+"представление о причине блокирования этих диапазонов IP"
+
+#: includes/translations.php:225
+msgid "Available Countries"
+msgstr "Доступные страны"
+
+#: includes/translations.php:226
+msgid "List of all Countries"
+msgstr "Список всех стран"
+
+#: includes/translations.php:227
+msgid "Add >>"
+msgstr "Добавить >>"
+
+#: includes/translations.php:228
+msgid "<< Remove"
+msgstr "<< Удалить"
+
+#: includes/translations.php:229
+msgid "Blocked Countries"
+msgstr "Заблокированные страны"
+
+#: includes/translations.php:230
+msgid "List of all Countries being Blocked"
+msgstr "Список всех заблокированных стран"
+
+#: includes/translations.php:234
+msgid "Choose Email Template"
+msgstr "Выберите шаблон письма"
+
+#: includes/translations.php:235
+msgid "Send To"
+msgstr "Кому"
+
+#: includes/translations.php:236
+msgid "CC"
+msgstr "Копия"
+
+#: includes/translations.php:237
+msgid "BCC"
+msgstr "Скрытая копия"
+
+#: includes/translations.php:238
+msgid "Message"
+msgstr "Сообщение"
+
+#: includes/translations.php:239
+msgid "In this field, you would need to choose Email Template from dropdown"
+msgstr "Нужно выбрать шаблон письма из выпадающего списка"
+
+#: includes/translations.php:240
+msgid ""
+"In this field, you would need to provide a valid email address where you "
+"would like to send an email notification a user successfully logs in"
+msgstr ""
+"В этой области, вы должны предоставить действительный адрес электронной "
+"почты, где вы хотели бы отправить уведомление по электронной почте "
+"пользователь успешно входит в систему"
+
+#: includes/translations.php:241
+msgid "In this field, you would need to provide valid Cc Email Address"
+msgstr "В этой области, вы должны предоставить действительный Cc E-mail адрес"
+
+#: includes/translations.php:242
+msgid "In this field, you would need to provide valid Bcc Email Address"
+msgstr ""
+"В этой области, вы должны предоставить Bcc действительный адрес электронной "
+"почты "
+
+#: includes/translations.php:243
+msgid "In this field, you would need to provide subject for email notification"
+msgstr ""
+"В этой области, вы должны предоставить тему для уведомления по электронной "
+"почте"
+
+#: includes/translations.php:244
+msgid ""
+"In this field, you would need to provide content which has to be sent to the "
+"Administrator"
+msgstr ""
+"В этой области, Вы должны были бы обеспечить содержание, которое должно быть "
+"послано администратору"
+
+#: includes/translations.php:245
+msgid "Template For User Successful Login"
+msgstr "Шаблон для пользователя успешного входа в систему"
+
+#: includes/translations.php:246
+msgid "Template For User Failure Login"
+msgstr "Шаблон для Failure Пользователь Вход"
+
+#: includes/translations.php:247
+msgid "Template For IP Address Blocked"
+msgstr "Шаблон для IP-адреса Заблокированные"
+
+#: includes/translations.php:248
+msgid "Template For IP Address Unblocked"
+msgstr "Шаблон для IP-адреса разблокировали"
+
+#: includes/translations.php:249
+msgid "Template For IP Range Blocked"
+msgstr "Шаблон для диапазона IP Заблокированные"
+
+#: includes/translations.php:250
+msgid "Template For IP Range Unblocked"
+msgstr "Шаблон для IP Range разблокировали"
+
+#: includes/translations.php:251
+msgid "Please provide valid Email Address"
+msgstr "Пожалуйста, укажите правильный адрес электронной почты"
+
+#: includes/translations.php:252
+msgid "Please provide CC Email"
+msgstr "Просьба предоставить CC e-mail"
+
+#: includes/translations.php:253
+msgid "Please provide BCC Email"
+msgstr "Просьба предоставить BCC e-mail"
+
+#: includes/translations.php:254
+msgid "Please provide Subject"
+msgstr "Просьба предоставить Subject"
+
+#: includes/translations.php:258
+msgid "Show Clean Up Booster Menu"
+msgstr "Показать Clean Up Booster меню"
+
+#: includes/translations.php:259
+msgid "Show Clean Up Booster Top Bar Menu"
+msgstr "Показать Clean Up Booster верхней панели меню"
+
+#: includes/translations.php:260
+msgid "An Administrator Role can do the following"
+msgstr "Роль Администратор может выполнить следующие действия"
+
+#: includes/translations.php:261
+msgid "An Author Role can do the following"
+msgstr "Автор Роль может сделать следующее"
+
+#: includes/translations.php:262
+msgid "An Editor Role can do the following"
+msgstr "Редактор роль может выполнить следующие действия"
+
+#: includes/translations.php:263
+msgid "A Contributor Role can do the following"
+msgstr "Роль выплачивающая взнос, может сделать следующее"
+
+#: includes/translations.php:264
+msgid "A Subscriber Role can do the following"
+msgstr "Абонент Роль может сделать следующее"
+
+#: includes/translations.php:265
+msgid "Other Roles can do the following"
+msgstr "Другие роли могут сделать следующее"
+
+#: includes/translations.php:266
+msgid "Administrator"
+msgstr "Администратор"
+
+#: includes/translations.php:267
+msgid "Author"
+msgstr "автор"
+
+#: includes/translations.php:268
+msgid "Editor"
+msgstr "редактор"
+
+#: includes/translations.php:269
+msgid "Contributor"
+msgstr "участник"
+
+#: includes/translations.php:270
+msgid "Subscriber"
+msgstr "подписчик"
+
+#: includes/translations.php:271
+msgid "Others"
+msgstr "другие"
+
+#: includes/translations.php:272
+msgid ""
+"In this field, you would need to choose a specific role who can see Sidebar "
+"Menu"
+msgstr ""
+"В этой области, вам нужно будет выбрать определенную роль, кто может видеть "
+"боковую панель меню"
+
+#: includes/translations.php:273
+msgid ""
+"If you would like to show Clean Up Booster Top Bar Menu then you would need "
+"to choose enable or vice-versa from dropdown"
+msgstr ""
+"Если вы хотите, чтобы показать Clean Up Booster верхней строке меню, то вам "
+"необходимо включить или будет наоборот из выпадающего меню, чтобы выбрать"
+
+#: includes/translations.php:274
+msgid ""
+"Administrators will have by default full control to manage different options "
+"in Clean Up Booster, so all checkboxes will be already selected for the "
+"Administrator Role as mentioned below"
+msgstr ""
+"Администраторы будут иметь по умолчанию полный контроль для управления "
+"различными варианты в Clean Up Бустер, так что все галочки уже будут выбраны "
+"для роли администратора, как указано ниже"
+
+#: includes/translations.php:275
+msgid ""
+"You can choose what pages could be accessed by the users having Author Role "
+"on your Clean Up Booster Plugin. This could be achieved with the help of "
+"checkboxes mentioned below"
+msgstr ""
+"Вы можете выбрать, какие страницы могут быть доступны пользователям, имеющим "
+"Автор роль на вашем Clean Up Booster Plugin. Это может быть достигнуто с "
+"помощью флажков, указанных ниже"
+
+#: includes/translations.php:276
+msgid ""
+"You can choose what pages could be accessed by the users having Editor Role "
+"on your Clean Up Booster Plugin. This could be achieved with the help of "
+"checkboxes mentioned below"
+msgstr ""
+"Вы можете выбрать, какие страницы могут быть доступны пользователям, имеющим "
+"редактора роль на вашем Clean Up Booster Plugin. Это может быть достигнуто с "
+"помощью флажков, указанных ниже"
+
+#: includes/translations.php:277
+msgid ""
+"You can choose what pages could be accessed by the users having Contributor "
+"Role on your Clean Up Booster Plugin. This could be achieved with the help "
+"of checkboxes mentioned below"
+msgstr ""
+"Вы можете выбрать, какие страницы могут быть доступны пользователям, имеющим "
+"Contributor роль на вашем Clean Up Booster Plugin. Это может быть достигнуто "
+"с помощью флажков, указанных ниже"
+
+#: includes/translations.php:278
+msgid ""
+"You can choose what pages could be accessed by the users having Subscriber "
+"Role on your Clean Up Booster Plugin. This could be achieved with the help "
+"of checkboxes mentioned below"
+msgstr ""
+"Вы можете выбрать, какие страницы могут быть доступны пользователям, имеющим "
+"роль подписчика на вашем Clean Up Booster Plugin. Это может быть достигнуто "
+"с помощью флажков, указанных ниже"
+
+#: includes/translations.php:279
+msgid ""
+"In this field, you would need to choose a specific page which is only "
+"available for Subscriber Access"
+msgstr ""
+"В этой области, вам нужно будет выбрать конкретную страницу, которая "
+"доступна только для подписчика доступа"
+
+#: includes/translations.php:280
+msgid "Full Control"
+msgstr "Полный контроль"
+
+#: includes/translations.php:281
+msgid ""
+"In this field, you would need to choose appropriate capabilities for "
+"security purposes"
+msgstr "Вам нужно выбрать подходящие возможности из соображений безопасности"
+
+#: includes/translations.php:282
+msgid ""
+"In this field, only users can access to these capabilities of Clean up "
+"Booster"
+msgstr "Только пользователи могут получить доступ к возможностям плагина "
+
+#: includes/translations.php:285
+msgid "Thank You!"
+msgstr "Спасибо!"
+
+#: includes/translations.php:286
+msgid ""
+"Kindly fill in the below form, if you would like to suggest some features "
+"which are not in the Plugin"
+msgstr ""
+"Заполните форму, если вы хотите предложить какой-либо функционал для нашего "
+"плагина"
+
+#: includes/translations.php:287
+msgid ""
+"If you also have any suggestion/complaint, you can use the same form below"
+msgstr ""
+"Если вы также имеете замечания/предложения, вы можете написать их в форме "
+"ниже"
+
+#: includes/translations.php:288
+msgid "You can also write us on"
+msgstr "Также можете написать нам на"
+
+#: includes/translations.php:289
+msgid "Your Name"
+msgstr "Ваше имя"
+
+#: includes/translations.php:290
+msgid "Your Email"
+msgstr "Ваш Email"
+
+#: includes/translations.php:291
+msgid ""
+"In this field, you would need to provide your Name which you would like to "
+"request to be added to this Plugin"
+msgstr ""
+"Напишите в этом поле Имя, которое вы хотите чтобы было добавлено в плагин"
+
+#: includes/translations.php:292
+msgid ""
+"In this field, you would need to provide your valid Email Address which you "
+"would like to request to be added to this Plugin"
+msgstr ""
+"Напишите в этом поле Email, который Вы хотите чтобы был добавлен в плагин"
+
+#: includes/translations.php:293
+msgid ""
+"In this field, you would need to provide a feature which you would like to "
+"request to be added to this Plugin"
+msgstr ""
+"Напишите в этом поле функционал, который Вы хотите чтобы был добавлен в "
+"плагин"
+
+#: includes/translations.php:294
+msgid "Please provide your Name"
+msgstr "Пожалуйста, напишите ваше Имя"
+
+#: includes/translations.php:295
+msgid "Please provide your Email"
+msgstr "Пожалуйста, напишите ваш Email"
+
+#: includes/translations.php:296
+msgid "Please provide your Feature Request"
+msgstr "Пожалуйста, напишите ваш Запрос"
+
+#: includes/translations.php:297
+msgid "Send Request"
+msgstr "Послать запрос"
+
+#: includes/translations.php:300
+msgid "Error Logs"
+msgstr "журналы ошибок"
+
+#: includes/translations.php:301
+msgid "Download error Logs"
+msgstr "Журналы Загрузка ошибок"
+
+#: includes/translations.php:302
+msgid "Clear Error Logs"
+msgstr "Очистить журналы ошибок"
+
+#: includes/translations.php:303
+msgid "Output :"
+msgstr "выход:"
+
+#: includes/translations.php:304
+msgid "In this field, you would be able to see all PHP errors"
+msgstr "В этой области, вы могли бы видеть все ошибки PHP"
+
+#: includes/translations.php:305
+msgid "Error Logs has been Cleared Successfully"
+msgstr "Журналы ошибок были очищены успешно"
+
+#: includes/translations.php:308
+msgid "Type Of Data"
+msgstr "Тип данных"
+
+#: includes/translations.php:309
+msgid "Count"
+msgstr "подсчет"
+
+#: includes/translations.php:310
+msgid "Auto Drafts"
+msgstr "авто Черновики"
+
+#: includes/translations.php:311
+msgid ""
+"WordPress automatically saves Pages or Posts as a draft in WordPress "
+"Database. This is called an Auto Draft. You could have multiple Auto Drafts "
+"that you will never publish and hence you can clean them"
+msgstr ""
+"WordPress автоматически сохраняет страницы или сообщения в качестве проекта "
+"в WordPress Database. Это называется Auto Проект. Вы можете иметь несколько "
+"автомобилей Черновики, что вы никогда не опубликуют и, следовательно, вы "
+"можете очистить их"
+
+#: includes/translations.php:312
+msgid "Empty"
+msgstr "пустой"
+
+#: includes/translations.php:313
+msgid "Dashboard Transient Feed"
+msgstr "Панель приборов преходящий Корм"
+
+#: includes/translations.php:314
+msgid ""
+"Transients Feed in WordPress allow developers to store information in your "
+"WordPress Database with an expiration time"
+msgstr ""
+"Перепады поток в WordPress позволяют разработчикам хранить информацию в базе "
+"данных WordPress с временем истечения срока действия"
+
+#: includes/translations.php:315
+msgid "Unapproved Comments"
+msgstr "Запрещенные Комментарии"
+
+#: includes/translations.php:316
+msgid ""
+"Unapproved Comments in WordPress are those comments which are still pending "
+"to be approved"
+msgstr ""
+"Запрещенные Комментарии в WordPress являются те комментарии, которые по-"
+"прежнему ожидающие быть утверждены"
+
+#: includes/translations.php:317
+msgid "Orphan Comments Meta"
+msgstr "Сирота Комментарии Мета"
+
+#: includes/translations.php:318
+msgid ""
+"Orphan Comments Meta in WordPress holds miscellaneous bits of extra "
+"information of comment"
+msgstr ""
+"Сирота Комментарии Мета в WordPress имеет разные биты дополнительной "
+"информации комментария"
+
+#: includes/translations.php:319
+msgid "Orphan Posts Meta"
+msgstr "Сирота Сообщений Мета"
+
+#: includes/translations.php:320
+msgid ""
+"Orphan Posts Meta in WordPress is Meta Data belonging to posts which no "
+"longer exist"
+msgstr ""
+"Сирота сообщений Мета в WordPress является мета-данные, принадлежащие к "
+"столбам, которые больше не существуют"
+
+#: includes/translations.php:321
+msgid "Orphan Relationships"
+msgstr "Сирота Отношения"
+
+#: includes/translations.php:322
+msgid ""
+"Orphan Relationships in WordPress hold junk or obsolete Category and Tag"
+msgstr ""
+"Сирота Отношения в WordPress удержания нежелательной или устаревшей "
+"категории и Тег"
+
+#: includes/translations.php:323
+msgid "Revisions"
+msgstr "Ревизии"
+
+#: includes/translations.php:324
+msgid ""
+"WordPress Revisions system stores a record of each saved draft or published "
+"an update"
+msgstr ""
+"Система Ревизии WordPress хранит запись каждого сохраненного проекта или "
+"опубликована обновленная информация"
+
+#: includes/translations.php:325
+msgid "Pingbacks"
+msgstr "Pingbacks"
+
+#: includes/translations.php:326
+msgid ""
+"In WordPress, Ping-back is a type of comment that is created when you link "
+"to another blog post where Ping backs are enabled"
+msgstr ""
+"В WordPress, Пин-обратно тип комментария, который создается, когда Вы даете "
+"ссылку на другой записи в блоге, где пинг спины включены"
+
+#: includes/translations.php:327
+msgid "Transient Options"
+msgstr "Переходные параметры"
+
+#: includes/translations.php:328
+msgid "Transient Options are like a basic cache system used by WordPress"
+msgstr ""
+"Переходные параметры, как основной системы кэширования, используемой "
+"WordPress"
+
+#: includes/translations.php:330
+msgid ""
+"In WordPress, Trackbacks are a way to notify legacy blog systems that you "
+"have linked to them"
+msgstr ""
+"В WordPress, Обратные ссылки являются одним из способов для уведомления "
+"системы блога унаследованных, что вы связаны с ними"
+
+#: includes/translations.php:331
+msgid "Spam Comments"
+msgstr "Спам Комментарии"
+
+#: includes/translations.php:332
+msgid "Spam Comments are unwanted comments in WordPress Database"
+msgstr ""
+"Спам Комментарии являются нежелательные комментарии в WordPress Database"
+
+#: includes/translations.php:333
+msgid "Trash Comments"
+msgstr "мусорные Комментарии"
+
+#: includes/translations.php:334
+msgid ""
+"Trash Comments are  comments which are stored in WordPress Trash after "
+"deletion"
+msgstr ""
+"дрянь Комментарии являются комментариями, которые хранятся в WordPress "
+"корзины после удаления"
+
+#: includes/translations.php:335
+msgid "Drafts"
+msgstr "Черновики"
+
+#: includes/translations.php:336
+msgid "Drafts are New Post or Page created as Draft in WordPress"
+msgstr "Черновики Новое сообщение или страница создана как проект в WordPress"
+
+#: includes/translations.php:337
+msgid "Deleted Posts"
+msgstr "Исключен Сообщений"
+
+#: includes/translations.php:338
+msgid "Deleted Posts are posts which are removed from WordPress Database"
+msgstr ""
+"Удаленные сообщения представляют собой сообщения, которые удаляются из базы "
+"данных WordPress"
+
+#: includes/translations.php:339
+msgid "Duplicated Post Meta"
+msgstr "Дублированный Сообщение Мета"
+
+#: includes/translations.php:340
+msgid ""
+"Duplicated Post Meta is duplicated values of Posts stored in a Posts Table "
+"in WordPress Database"
+msgstr ""
+"Дублированный Post Мета дублируется значения сообщений, хранящихся в таблице "
+"сообщений в базе данных WordPress"
+
+#: includes/translations.php:341
+msgid "oEmbed Caches in Post Meta"
+msgstr "oEmbed кэши в сообщение Meta"
+
+#: includes/translations.php:342
+msgid ""
+"oEmbed Caches in Post Meta hold data related to Embeddable Content in "
+"WordPress Database"
+msgstr ""
+"oEmbed кэши в сообщение Meta содержат данные, связанные с Встраиваемый "
+"контента в WordPress Database"
+
+#: includes/translations.php:343
+msgid "Duplicated Comment Meta"
+msgstr "Дублированный Комментарий Мета"
+
+#: includes/translations.php:344
+msgid ""
+"Duplicated Comment Meta holds information of Duplicate Comments in Comments "
+"Table in WordPress Database"
+msgstr ""
+"Дублированный Комментарий Мета содержит информацию о дублирующихся "
+"Комментарии в комментариях таблицы в базе данных WordPress"
+
+#: includes/translations.php:345
+msgid "Orphan User Meta"
+msgstr "Сирота Пользователь Мета "
+
+#: includes/translations.php:346
+msgid ""
+"Orphan User Meta holds orphan data of an Usermeta table in WordPress Database"
+msgstr ""
+"Meta Сирота Пользователь держит бесхозных данные таблицы Usermeta в "
+"WordPress Database"
+
+#: includes/translations.php:347
+msgid "Duplicated User Meta"
+msgstr "Дублированный Мета Пользователь"
+
+#: includes/translations.php:348
+msgid ""
+"Duplicated User Meta holds information of Duplicate user meta data in "
+"WordPress Database"
+msgstr ""
+"Мета Дублированный Пользователь имеет информация о пользователе "
+"Повторяющиеся мета-данных в базе данных WordPress"
+
+#: includes/translations.php:349
+msgid "Orphaned Term Relationships"
+msgstr "осиротевший Срок Отношения"
+
+#: includes/translations.php:350
+msgid ""
+"Orphaned Term Relationships hold junk or obsolete term Category and Tag in "
+"WordPress Database"
+msgstr ""
+"осиротевший Срок Отношения держать нежелательной или устаревший термин "
+"категорию и тегов в WordPress Database"
+
+#: includes/translations.php:351
+msgid "Unused Terms"
+msgstr "Неиспользованные Условия"
+
+#: includes/translations.php:352
+msgid "Unused Terms hold term data which are not used by WordPress"
+msgstr ""
+"Неиспользованные Условия провести срочные данные, которые не используются "
+"WordPress"
+
+#: includes/translations.php:354
+msgid "Type"
+msgstr "Тип"
+
+#: includes/translations.php:355
+msgid "Start Date & Time"
+msgstr "Дата начала Время &"
+
+#: includes/translations.php:357
+msgid ""
+"If you would like to empty selected types of data on a schedule then you "
+"would need to choose an Action from dropdown"
+msgstr ""
+"Если вы хотите, чтобы очистить выбранные типы данных по расписанию, то вам "
+"нужно будет выбрать действие из выпадающего списка"
+
+#: includes/translations.php:358
+msgid ""
+"In this field, you would need to choose Time Duration for schedule to run. "
+"It could be Hourly or Daily"
+msgstr ""
+"В этой области, вам нужно будет выбрать время продолжительности для "
+"расписания для запуска. Это может быть часовыми или суточными"
+
+#: includes/translations.php:360
+msgid "Table Name"
+msgstr "Название таблицы"
+
+#: includes/translations.php:362
+msgid "Clear"
+msgstr "Очистить"
+
+#: includes/translations.php:363
+msgid "Blocked For"
+msgstr "Заблокирован на"
+
+#: includes/translations.php:371
+msgid "Never"
+msgstr "Никогда"
+
+#: includes/translations.php:372
+msgid "Edit"
+msgstr "Редактировать"
+
+#: includes/translations.php:373
+msgid "for"
+msgstr "для"
+
+#: includes/translations.php:375
+msgid "Apply"
+msgstr "Применить"
+
+#: includes/translations.php:376
+msgid "Delete"
+msgstr "Удалить"
+
+#: includes/translations.php:377
+msgid "Block IP Address"
+msgstr "Заблокированный IP"
+
+#: includes/translations.php:378
+msgid "IP Address"
+msgstr "IP адрес"
+
+#: includes/translations.php:379
+msgid "Duration"
+msgstr "Продолжительность"
+
+#: includes/translations.php:380
+msgid "Blocked Date & Time"
+msgstr "Дата и время блокировки"
+
+#: includes/translations.php:381
+msgid "Release Date & Time"
+msgstr "Дата и время разблокировки"
+
+#: includes/translations.php:382
+msgid "Comments"
+msgstr "Комметарии"
+
+#: includes/translations.php:384
+msgid "Hourly"
+msgstr "Каждый час"
+
+#: includes/translations.php:385
+msgid "Daily"
+msgstr "Ежедневно"
+
+#: includes/translations.php:386
+msgid "Start On"
+msgstr "Начало"
+
+#: includes/translations.php:387
+msgid "Please choose Start On"
+msgstr "Пожалуйста выберите дату начала"
+
+#: includes/translations.php:388
+msgid "In this field, you would need to choose start date for scheduler to run"
+msgstr "Выберите дату начала работы планировщика"
+
+#: includes/translations.php:389
+msgid "Start Time"
+msgstr "Начало"
+
+#: includes/translations.php:390
+msgid ""
+"In this field, you would need to choose a start time for scheduler to run at"
+msgstr "Выберите время начало работы планировщика"
+
+#: includes/translations.php:391
+msgid "Repeat Every"
+msgstr "Повторять каждые"
+
+#: includes/translations.php:392
+msgid ""
+"In this field, you would need to choose Repetition for the scheduler. The "
+"scheduler would be run on selected values from dropdown"
+msgstr ""
+"В этом поле отметьте период повтора работы Планировщика. Выберите из "
+"выпадающего списка."
+
+#: includes/translations.php:393
+msgid " hrs"
+msgstr "часов"
+
+#: includes/translations.php:394
+msgid " mins"
+msgstr "минут"
+
+#: includes/translations.php:395
+msgid "IP Ranges"
+msgstr "Диапазоны IP"
+
+#: includes/translations.php:396
+msgid "Start Date"
+msgstr "Дата начала"
+
+#: includes/translations.php:397
+msgid "Please choose Start Date"
+msgstr "Выберите дату начала"
+
+#: includes/translations.php:398
+msgid "End Date"
+msgstr "Дата окончания"
+
+#: includes/translations.php:399
+msgid "Please choose End Date"
+msgstr "Выберите дату окончания"
+
+#: includes/translations.php:400
+msgid "Submit"
+msgstr "Сохранить"
+
+#: includes/translations.php:401
+msgid "User Name"
+msgstr "Имя пользователя"
+
+#: includes/translations.php:402
+msgid "Date & Time"
+msgstr "Дата и Время"
+
+#: includes/translations.php:403
+msgid "Status"
+msgstr "Статус"
+
+#: includes/translations.php:404
+msgid "Details"
+msgstr "Детали"
+
+#: includes/translations.php:405
+msgid "Name of the Hook"
+msgstr "Время"
+
+#: includes/translations.php:406
+msgid "Interval Hook"
+msgstr "Интервал"
+
+#: includes/translations.php:407
+msgid "Args"
+msgstr "Переменные"
+
+#: includes/translations.php:408
+msgid "Next Execution"
+msgstr "Следующий запуск"
+
+#: includes/translations.php:409
+msgid "Subject"
+msgstr "Тема"
+
+#: includes/translations.php:410
+msgid "Bulk Action"
+msgstr "Групповые операции"
+
+#: includes/translations.php:411
+msgid "Action"
+msgstr "Операция"
+
+#: includes/translations.php:412
+msgid "Optimize"
+msgstr "Оптимизировать"
+
+#: includes/translations.php:413
+msgid "Repair"
+msgstr "Восстановить"
+
+#: includes/translations.php:415
+msgid "Roles & Capabilities"
+msgstr "Роли и Возможности"
+
+#: includes/translations.php:416
+msgid "WordPress Data"
+msgstr "Данные WordPress"
+
+#: includes/translations.php:417
+msgid "Database"
+msgstr "База данных"
+
+#: includes/translations.php:418
+msgid "Manual Clean Up"
+msgstr "Ручная очистка"
+
+#: includes/translations.php:419
+msgid "Scheduled Clean Up"
+msgstr "Запланированная очистка"
+
+#: includes/translations.php:420
+msgid "WordPress Data - Manual Clean Up"
+msgstr "Данные WordPress - Ручная очистка"
+
+#: includes/translations.php:421
+msgid "WordPress Data - Scheduled Clean Up"
+msgstr "Данные WordPress - Запланированная очистка"
+
+#: includes/translations.php:422
+msgid "Database - Scheduled Clean Up"
+msgstr "База данных - Запланированная очистка"
+
+#: includes/translations.php:423
+msgid "Database - Manual Clean Up"
+msgstr "База данных - Ручная очистка"
+
+#: includes/translations.php:424
+msgid "Add New Schedule Clean Up"
+msgstr "Добавить новую очистку в планировщик"
+
+#: includes/translations.php:425
+msgid "View Records"
+msgstr "Посмотреть записи"
+
+#: includes/translations.php:426
+msgid "Logs"
+msgstr "Логи"
+
+#: includes/translations.php:427
+msgid "Login Logs"
+msgstr "Логи логинов"
+
+#: includes/translations.php:428
+msgid "Live Traffic"
+msgstr "Трафик сейчас"
+
+#: includes/translations.php:429
+msgid "Visitor Logs"
+msgstr "Логи посетителей"
+
+#: includes/translations.php:430
+msgid "General Settings"
+msgstr "Основные настройки"
+
+#: includes/translations.php:431
+msgid "Alert Setup"
+msgstr "Настройка оповещений"
+
+#: includes/translations.php:432
+msgid "Error Messages"
+msgstr "Сообщения об ошибках"
+
+#: includes/translations.php:433
+msgid "Other Settings"
+msgstr "Другие настройки"
+
+#: includes/translations.php:434
+msgid "Advance Security"
+msgstr "Улучшенная безопасность"
+
+#: includes/translations.php:435
+msgid "Blocking Options"
+msgstr "Опции блокировки"
+
+#: includes/translations.php:436
+msgid "Manage IP Addresses"
+msgstr "Управление IP адресами"
+
+#: includes/translations.php:437
+msgid "Manage IP Ranges"
+msgstr "Управление IP диапазонами"
+
+#: includes/translations.php:438
+msgid "Country Blocks"
+msgstr "Блокировка стран"
+
+#: includes/translations.php:439
+msgid "Email Templates"
+msgstr "Шаблоны Email"
+
+#: includes/translations.php:440
+msgid "Cron Jobs"
+msgstr "Регулярные работы (cron)"
+
+#: includes/translations.php:441
+msgid "Custom Cron Jobs"
+msgstr "Настройка Cron"
+
+#: includes/translations.php:442
+msgid "Core Cron Jobs"
+msgstr "Ядро Cron"
+
+#: includes/translations.php:443
+msgid "Feature Requests"
+msgstr "Запросы на доработку"
+
+#: includes/translations.php:444
+msgid "System Information"
+msgstr "Информация о системе"
+
+#: includes/translations.php:445
+msgid "Enable"
+msgstr "Доступно"
+
+#: includes/translations.php:446
+msgid "Disable"
+msgstr "Недоступно"
+
+#: includes/translations.php:447
+msgid "Clean Up Booster"
+msgstr "Clean Up Booster"
+
+#: includes/translations.php:448
+msgid "Save Changes"
+msgstr "Сохранить изменения"
+
+#: includes/translations.php:449
+msgid ""
+"You do not have Sufficient Access to this Page. Kindly contact the "
+"Administrator for more Privileges"
+msgstr ""
+"У вас нет правд для доступа к этой странице. Обратитесь к администратору"
+
+#: includes/translations.php:450
+msgid "Block"
+msgstr "блок"
+
+#~ msgid "Selected IP Addresses have been deleted Successfully"
+#~ msgstr "Отмеченные IP адреса удалены"
+
+#~ msgid "Selected IP Ranges have been deleted Successfully"
+#~ msgstr "Диапозон IP адресов удален"
+
+#~ msgid "Error Messages have been saved Successfully"
+#~ msgstr "Сообщения об ошибках сохранены"
+
+#~ msgid "Roles and Capabilities have been saved Successfully"
+#~ msgstr "Статусы и доступы сохранены"
+
+#~ msgid "License has been activated Successfully"
+#~ msgstr "Лицензия активирована, слава Путину!"
+
+#~ msgid "A Login Log has been deleted Successfully"
+#~ msgstr "Лог логинов удален"
+
+#~ msgid "Email Templates have been saved Successfully"
+#~ msgstr "Шаблон Email сохранен"
+
+#~ msgid "Selected Login Logs have been deleted Successfully"
+#~ msgstr "Выбраные логи аккаунта были успешно удалены"
+
+#~ msgid "A Traffic Log has been deleted Successfully"
+#~ msgstr "Лог трафика успешно удален"
+
+#~ msgid "Selected Traffic Logs have been deleted Successfully"
+#~ msgstr "Выбранные логи трафика успешно удалены"
+
+#~ msgid "Selected Traffic Logs IP Adress have been blocked Successfully"
+#~ msgstr "Выбранные журналы трафика IP-адрес был заблокирован успешно"
+
+#~ msgid "A Visitor Log has been deleted Successfully"
+#~ msgstr "Лог посетителя успешно удален"
+
+#~ msgid "Selected Visitor Logs have been deleted Successfully"
+#~ msgstr "Выбранные логи посетителя удалены"
+
+#~ msgid "Selected Visitor Logs IP Address have been blocked Successfully"
+#~ msgstr "Selected посетителей Logs IP-адрес был заблокирован успешно"
+
+#~ msgid "Selected scheduler has been deleted Successfully"
+#~ msgstr "Выбранные логи планировщика удалены"
+
+#~ msgid "Selected Tables have been cleaned Successfully"
+#~ msgstr "Выбранные таблицы очищены"
+
+#~ msgid "Selected Table has been repaired Successfully"
+#~ msgstr "Выбранная таблица востановлена"
+
+#~ msgid "Selected Tables have been repaired Successfully"
+#~ msgstr "Выбранные таблицы восстановлены"
+
+#~ msgid "Selected Countries have been unblocked Successfully"
+#~ msgstr "Выбранные страны разблокированы"
+
+#~ msgid "A Scheduler has been scheduled Successfully"
+#~ msgstr "Планировщик успешно настроен"
+
+#~ msgid "A Scheduler has been deleted Successfully"
+#~ msgstr "Планировщик удален успешно"
+
+#~ msgid "Scheduled Scheduler has been updated Successfully"
+#~ msgstr "Планировщик обновлён успешно"
+
+#~ msgid "Selected Records have been deleted Successfully"
+#~ msgstr "Выбранные записи были успешно удалены"
+
+#~ msgid "A Record has been deleted Successfully"
+#~ msgstr "Запись, была успешно удалена"
+
+#~ msgid ""
+#~ "If you would like to Empty selected types of data on a given schedule "
+#~ "then you would need to choose an Action from dropdown"
+#~ msgstr ""
+#~ "Если вы хотите, чтобы выбранные Пустые типы данных по заданному графику, "
+#~ "то вам нужно будет выбрать действие из выпадающего списка"
+
+#~ msgid ""
+#~ "If you would like to Optimize, Repair, Delete or Empty selected types of "
+#~ "tables on a given schedule then you would need to choose an Action from "
+#~ "dropdown"
+#~ msgstr ""
+#~ "Если вы хотите оптимизировать, ремонт, удаление или Пустой выбранные типы "
+#~ "таблиц по заданному графику, то вам нужно будет выбрать действие из "
+#~ "выпадающего списка"
+
+#~ msgid "Please choose at least 1 Type of Data for scheduling!"
+#~ msgstr "Пожалуйста, выберите по крайней мере 1 тип данных для планирования!"
+
+#~ msgid "Please choose at least 1 record to empty!"
+#~ msgstr "Пожалуйста, выберите по крайней мере 1 запись в пустой!"
+
+#~ msgid "Please choose at least 1 record to repair!"
+#~ msgstr "Пожалуйста, выберите по крайней мере 1 запись в ремонт!"
+
+#~ msgid "Please choose at least 1 schedule to delete!"
+#~ msgstr "Пожалуйста, выберите минимум 1 расписание, чтобы удалить!"
+
+#~ msgid "Please choose at least 1 Table Name for scheduling!"
+#~ msgstr "Пожалуйста, выберите минимум 1 имя таблицы для планирования!"
+
+#~ msgid "Test email was sent successfully!"
+#~ msgstr "Тест письмо было успешно отправлено!"
+
+#~ msgid "Selected Table has been cleaned Successfully"
+#~ msgstr "Выбранная таблица была очищена Успешно"
+
+#~ msgid "WordPress Data - Update Schedule Clean Up"
+#~ msgstr "WordPress данных - Обновление Расписание Clean Up"
+
+#~ msgid "Selected Login Logs IP Addresses has been blocked Successfully"
+#~ msgstr "Выбранные адреса Войти Журналы IP заблокирован успешно"
+
+#~ msgid "Important Notice!"
+#~ msgstr "Важное замечание!"
+
+#~ msgid ""
+#~ "Congratulations! You have recently purchased the Clean Up Booster "
+#~ "Business Edition and now you need to activate the license in order to "
+#~ "unlock it!"
+#~ msgstr ""
+#~ "Поздравляем Вы оплатили Clean Up Booster Business Edition и сейчас Вам "
+#~ "нужно активировать лицензию, чтобы получить доступ ко всем функциям "
+#~ "плагина!"
+
+#~ msgid ""
+#~ "Kindly fill in the required details and click on Validate License to "
+#~ "unlock it"
+#~ msgstr ""
+#~ "Внимательно заполните недостающие данные и кликните на кнопку валидации "
+#~ "чтобы активировать лицензию."
+
+#~ msgid "If you face any issues activating the license, you may contact us at"
+#~ msgstr "Если вы столкнетесь с проблемами при активации, свяжитесь с нами"
+
+#~ msgid "Product Name"
+#~ msgstr "Название продукта"
+
+#~ msgid "Current Version"
+#~ msgstr "Текущая версия"
+
+#~ msgid "Website URL"
+#~ msgstr "URL сайта"
+
+#~ msgid "Order ID"
+#~ msgstr "ID заказа"
+
+#~ msgid "API KEY"
+#~ msgstr "Ключ API"
+
+#~ msgid "Validate License"
+#~ msgstr "Лицензия "
+
+#~ msgid "In this field, you would be able to see your Installed Product Name"
+#~ msgstr "В этом поле вы можете видеть ваш установленный продукт"
+
+#~ msgid ""
+#~ "In this field, you would be able to see your Installed Product Version"
+#~ msgstr "В этом поле вы можете видеть версию установленного продукта"
+
+#~ msgid "In this field, you would be able to see your Website URL"
+#~ msgstr "В этом поле вы можете видеть URL вашего сайта"
+
+#~ msgid ""
+#~ "In this field, you would need to provide your Order ID which you have "
+#~ "received in an email after purchasing the product along with a download "
+#~ "link. This will be used for Validating the License"
+#~ msgstr ""
+#~ "В этой области, вам нужно будет указать свой идентификатор заказа, "
+#~ "который вы получили по электронной почте после покупки продукта вместе с "
+#~ "ссылкой для загрузки. Это будет использоваться для проверки Лицензии"
+
+#~ msgid ""
+#~ "In this field, you would need to provide your API Key which you have "
+#~ "received in an email after purchasing the product along with a download "
+#~ "link. This will be used for Validating License"
+#~ msgstr ""
+#~ "В этой области, вам нужно будет указать свой ключ API, который вы "
+#~ "получили по электронной почте после покупки продукта вместе с ссылкой для "
+#~ "загрузки. Это будет использоваться для проверки лицензии"
+
+#~ msgid "Please provide Order ID received after making the purchase"
+#~ msgstr ""
+#~ "Просьба предоставить идентификатор заказа, полученные после совершения "
+#~ "покупки"
+
+#~ msgid "Please provide API Key received after making the purchase"
+#~ msgstr "Просьба предоставить ключ API, полученные после совершения покупки"
+
+#~ msgid "Update Schedule Clean Up"
+#~ msgstr "Обновление расписания Clean Up"
+
+#~ msgid "Licensing"
+#~ msgstr "Лицензия"
+
+#~ msgid "Please choose at least 1 record to block IP Address!"
+#~ msgstr ""
+#~ "Пожалуйста, выберите хотя бы одну запись, чтобы заблокировать IP-адрес!"
+
+#~ msgid "Are you sure you want to block IP Address?"
+#~ msgstr "Вы уверены, что хотите блокировать IP-адрес?"
+
+#~ msgid "There is no changelog available."
+#~ msgstr "Список изменений не доступен."
+
+#~ msgid "Check for updates"
+#~ msgstr "Проверить наличие обновлений"
+
+#~ msgid "This plugin is up to date."
+#~ msgstr "Этот плагин в актуальном состоянии."
+
+#~ msgid "A new version of this plugin is available."
+#~ msgstr "Доступна новая версия этого плагина."
+
+#~ msgid "Unknown update checker status \"%s\""
+#~ msgstr "Неизвестно Обновление статуса проверки \"%s\""
+
+#~ msgid "End Date & Time"
+#~ msgstr "Конечная дата и время"
+
+#~ msgid "End On"
+#~ msgstr "Конец"
+
+#~ msgid ""
+#~ "If you would like to end schedule on a specific date then you would need "
+#~ "to choose on or vice-versa"
+#~ msgstr ""
+#~ "Если вы хотите чтобы планировщик закончил работу в определенную дату, "
+#~ "выберите \"Вкл\" или наоборот"
+
+#~ msgid "Please choose End On"
+#~ msgstr "Выберите дату окончания"
+
+#~ msgid "On"
+#~ msgstr "Вкл"
+
+#~ msgid "In this field, you would need to choose end date for scheduler"
+#~ msgstr "Выберите дату окончания работы планировщика"
+
+#~ msgid "Time Zone"
+#~ msgstr "Временная зона"
+
+#~ msgid ""
+#~ "In this field, you would need to choose Time Zone so that the scheduler "
+#~ "runs on time zone accordingly"
+#~ msgstr ""
+#~ "Выберите временную зону в которой будет отсчитывать время Планировщик"
+
+#~ msgid "Maximum Login Attempts In a Day"
+#~ msgstr "Максимум попыток входа в один день"
+
+#~ msgid ""
+#~ "Congratulations! You have recently purchased the Clean Up Booster "
+#~ "Personal Edition and now you need to activate the license in order to "
+#~ "unlock it!"
+#~ msgstr ""
+#~ "Поздравляем! Вы купили Clean Up Booster Personal Edition и сейчас вам "
+#~ "нужно активировать лицензию для начала работы!"
+
+#~ msgid ""
+#~ "This feature is only available in Business and Developer Edition! <br/> "
+#~ "Kindly Purchase to unlock it!"
+#~ msgstr ""
+#~ "Эта опция доступна только в версиях Business и Developer! <br/> Оплатите "
+#~ "чтобы получить доступ к ним!"
+
+#~ msgid "* Blocking / Unblocking Countries "
+#~ msgstr "* Заблокированные / Разблокированные страны"
+
+#~ msgid "* Bulk Delete"
+#~ msgstr "* Массовое удаление"
+
+#~ msgid "* Blocking IP Addresses "
+#~ msgstr "* Заблокированные IP адреса"
+
+#~ msgid " Features available in Business and Developer Editions :"
+#~ msgstr "Опции, доступные в версиях Business и Developer:"
+
+#~ msgid ""
+#~ "Congratulations! You have recently purchased the Clean Up Booster "
+#~ "Developer Edition and now you need to activate the license in order to "
+#~ "unlock it!"
+#~ msgstr ""
+#~ "Поздравляем! Вы оплатили Clean Up Booster Developer Edition и сейчас вам "
+#~ "нужно активировать лицензию, чтобы получить доступ к полному функционалу "
+#~ "плагина!"
+
+#~ msgid "If you would like to translate in "
+#~ msgstr "Если вы хотите поучаствовать в переводе"
+
+#~ msgid ""
+#~ " & help us, we will reward you with a free Personal Edition License of "
+#~ "Clean Up Booster. If Interested, Kindly click "
+#~ msgstr ""
+#~ "& помочь нам, мы подарим вам бесплатную лицензию на Personal Edition "
+#~ "License of Clean Up Booster. Если интересно, кликните"
+
+#~ msgid "here."
+#~ msgstr "здесь"
+
+#~ msgid "Are you sure you want to close without sending Translation Request?"
+#~ msgstr ""
+#~ "Вы уверены что хотите закрыть окно без отправки запроса на участие в "
+#~ "Переводе?"
+
+#~ msgid "Translation Request"
+#~ msgstr "Запрос на участие в переводе"
+
+#~ msgid "Language Interested to Translate"
+#~ msgstr "Языки, на которые вы хотели бы переводить"
+
+#~ msgid "Please choose a language which you want to translate"
+#~ msgstr "Выберите язык, на который вы хотите переводить"
+
+#~ msgid "Please provide a language"
+#~ msgstr "Выберите язык"
+
+#~ msgid "Query"
+#~ msgstr "Очередь"
+
+#~ msgid "Please provide your query"
+#~ msgstr "Добавьте свою очередь"
+
+#~ msgid "Close"
+#~ msgstr "Закрыть"
+
+#~ msgid "Premium Edition Features :"
+#~ msgstr "Возможности Premium Edition:"
+
+#~ msgid "* Click "
+#~ msgstr "* Кликните"
+
+#~ msgid "here "
+#~ msgstr "здесь"
+
+#~ msgid " to see Premium Edition Features in detail."
+#~ msgstr "чтобы посмотреть возможности Premium Edition в деталях."
+
+#~ msgid "* For Clean Up Booster Demos, click "
+#~ msgstr "* Clean Up Booster демо"
+
+#~ msgid "* For Clean Up Booster User Guide for this page, click "
+#~ msgstr "* Инструкции Clean Up Booster для этой страницы"
+
+#~ msgid "Important Disclaimer!"
+#~ msgstr "Важное замечание!"
+
+#~ msgid "* Blocking / Unblocking Countries"
+#~ msgstr "* Блокирование / Разблокирование стран"
+
+#~ msgid "* Unblocking IP Addresses"
+#~ msgstr "* Разблокирование IP Адресов"
+
+#~ msgid "* Filters"
+#~ msgstr "* Фильтры"
+
+#~ msgid "* Unblocking IP Ranges"
+#~ msgstr "* Разблокирование IP-диапазонов"
+
+#~ msgid "* Deleting Cron Jobs"
+#~ msgstr "* Удаление Cron-работ"
+
+#~ msgid "* Repair / Empty Tables"
+#~ msgstr "* Восстановление / Очстка таблиц"
+
+#~ msgid "* Creating / Editing / Deleting Schedules"
+#~ msgstr "* Создание / Редактирование / Удаление запланированных заданий"
+
+#~ msgid "* Editing Error Messages"
+#~ msgstr "* Редактирование сообщений об ошибках"
+
+#~ msgid "* Deleting Live Traffic Logs"
+#~ msgstr "* Удаление логов о трафике"
+
+#~ msgid "* Blocking IP Addresses from Live Traffic"
+#~ msgstr "* Блокировка IP адресов для онлайн-трафика"
+
+#~ msgid "* Deleting Login Logs"
+#~ msgstr "* Удаление логов посещений"
+
+#~ msgid "* Blocking IP Addresses from Login Logs"
+#~ msgstr "* Блокировка IP адреса от записывания в логи логинов"
+
+#~ msgid "* Deleting Visitor Logs"
+#~ msgstr "* Удаление логов посещений"
+
+#~ msgid "* Blocking IP Addresses from Visitor Logs"
+#~ msgstr "* Блокировка IP адресов от записывания в логи посещений"
+
+#~ msgid "* Saving Roles & Capabilities"
+#~ msgstr "* Статусы и возмоожности сохранения"
+
+#~ msgid "* Editing Email Templates"
+#~ msgstr "* Редактирование шаблонов Email"
+
+#~ msgid "* Creating / Editing Schedules"
+#~ msgstr "* Создание / Редактирование Планировщика"
+
+#~ msgid "* Deleting Records"
+#~ msgstr "* Удаление записей"
+
+#~ msgid "Premium Editions"
+#~ msgstr "Премиум издания"
